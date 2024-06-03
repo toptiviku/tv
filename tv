@@ -965,46 +965,65 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 group-title="SPORTS EXTRA" tvg-id="beinsports1indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sgMLTpsoAI5C21zEGINl-02W79ZeUYfJ3Q&usqp=CAU", beIN Sport 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-http://iptvtree.net:8080/F14995/a84c0963/165105
 
-#EXTINF:-1 group-title="SPORTS EXTRA" tvg-id="beinsports3indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sgMLTpsoAI5C21zEGINl-02W79ZeUYfJ3Q&usqp=CAU", beIN Sport  3 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-http://iptvtree.net:8080/F14995/a84c0963/298506
 
-#EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORTS EXTRA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/direct/hometv/1826
 
-#EXTINF:-1 tvg-id="beINSports2.qa" group-title="SPORTS EXTRA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/direct/hometv/1827
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",beIN Sport Xtra
+#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="SPORTS EXTRA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/direct/hometv/1828
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download%20(14).png" group-title="SPORTS EXTRA",beIN 1 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
+https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="beINSports4.qa" group-title="SPORTS EXTRA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/direct/hometv/1829
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download%20(14).png" group-title="SPORTS EXTRA",beIN 2 TH 🇹🇭
 
-#EXTINF:-1 tvg-id="beINSports5.qa" group-title="SPORTS EXTRA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0",beIN Sports 5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/direct/hometv/1830
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download%20(14).png" group-title="SPORTS EXTRA",beIN 3 TH 🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
+https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="beINSports6.qa" group-title="SPORTS EXTRA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 6 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/direct/hometv/1831
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS EXTRA" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NBA_DIGITAL_Mono.png",Bein sports NBA 🇺🇸
 
-#EXTINF:-1 tvg-id="beINSports7.qa" group-title="SPORTS EXTRA" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 7 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptvkita.my.id:25461/direct/hometv/1832
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS EXTRA",Bein Premium 1 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS EXTRA",Bein Premium 2 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS EXTRA",Bein Premium 3
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS EXTRA",beIN 1 🇮🇩
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS EXTRA",beIN 3 🇮🇩
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORTS EXTRA",beIN 1 FRANCE 🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+#https://webudit.vipboxtv.stream/lb/premium116/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORTS EXTRA",beIN 2 FRANCE 🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+#https://webudit.vipboxtv.stream/lb/premium117/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="SPORTS EXTRA",beIN 3 FRANCE 🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+#https://webudit.vipboxtv.stream/lb/premium118/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="SPORTS EXTRA",beIN 1
+http://iptvtree.net:8080/F14995/a84c0963/100
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="SPORTS EXTRA",beIN 2
+http://iptvtree.net:8080/F14995/a84c0963/101
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="SPORTS EXTRA",beIN 3 
+http://iptvtree.net:8080/F14995/a84c0963/102
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="SPORTS EXTRA",beIN 4 
+http://iptvtree.net:8080/F14995/a84c0963/103
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="SPORTS EXTRA",beIN 5 
+http://iptvtree.net:8080/F14995/a84c0963/104
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="SPORTS EXTRA",beIN 6 
+http://iptvtree.net:8080/F14995/a84c0963/105
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="SPORTS EXTRA",beIN 7 
+http://iptvtree.net:8080/F14995/a84c0963/106
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="SPORTS EXTRA",beIN 1 Arb
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="SPORTS EXTRA",beIN 2 Arb
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="SPORTS EXTRA",beIN 3 Arb
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
