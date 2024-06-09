@@ -350,12 +350,6 @@ https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMjYzMTc5NTgiLCJyZW
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTINF:-1 tvg-id="" group-title="INDONESIA CHANNELS" tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg",VIVA TELEVISI 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
-https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzMxODUwMjYiLCJyZWZyZXNoX3Rva2VuIjoiU210b1NWZkhIVlFlczd2Y1M4cE8yNVdwTDBoOHFxNUdoek9NcEFtXC9UVmdRM2laZFk2aXpxNjNGV1h2ejFkcWZFSmxqWDNVNnR0VDl4MU13b1wvNGlvQmczN0UzR1VyMDJTOFcrWHI5cEhjUTBQV096VlpUa09DdzlBNG9VWWZoVlJEbVhZaHZQRFR2b0hraENqWTBLNWFJT1R0Zzd6VzJubk1XTERnOXdLeGQxZGpiZGtsRlZsUmFwR25vSzNCRXoyYnhJbWdSZVJTU3ZpUEJhZnJmZUxXbGVBU25JZkpRQ05sVUM5U0pGdnQ5aFRyekNscURTSjVURGN6TzV1XC80c0ZoN3BIS1FQUnNPTWhNSnllMU83Y2FtN0F3Z3RcL09NUFMySmZaNndtdTg0a0RTdEpoOEQ0S00xTE51WmduRW1EZVU0a1FBNk11Z09iM043QThPTGVvajRaczQ3TzN6NlRNb01aQW5DNVBXST0ifQ== 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA CHANNELS",SCTV 
 https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTIwMzc2OTUiLCJyZWZyZXNoX3Rva2VuIjoiaGpsOEVEc3NUSGpqQU1Ia3B2TzgxRXhPcUtwUTd4QUlGT1VcL2tpbXVZNFF2VjB1UHpCa0hiMGRDMFNIWmFHV1FlMUZYeVRGeEdzQ1V4Sjd0b3g3ZkZQK3hmXC9lQTROYjV6VlhBMzRTczZFOWxpcDVMbVBJNVE2c0FkMjZrMmlHSzU4K1ZZZWdPZURXTk9BSCs4NzdMK1FcL3NZXC9uSkRZZ1kwa2JoXC9Tc3pZNGF4K1cxdldhWGxvWVI3M2Vsb083OG9DeEV3ZjA2NDluaDFLM2JlTUx0bWFyQmNcL3VPZjd3SHp3SVU3Y0pKQzRSd0V0eTdJOXV0MW5JSVpid0kxQTRFSVljNjJYQkh0VGxWcDROclpkUUNMQjA4cEhZbWk2SFllZUJ1bE9cL05aRWduNWlRTGE5QzVxU29sbVIyXC8rWWRtd21UalJrWW45YWI0T2RxMjNcL29DZFpWSEQxcmd6STdRVmtWZ2V6dE9aV1BNPSJ9 
