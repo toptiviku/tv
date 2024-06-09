@@ -360,11 +360,8 @@ https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzMxODUwMjYiLCJyZW
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA CHANNELS",SCTV 
 https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTIwMzc2OTUiLCJyZWZyZXNoX3Rva2VuIjoiaGpsOEVEc3NUSGpqQU1Ia3B2TzgxRXhPcUtwUTd4QUlGT1VcL2tpbXVZNFF2VjB1UHpCa0hiMGRDMFNIWmFHV1FlMUZYeVRGeEdzQ1V4Sjd0b3g3ZkZQK3hmXC9lQTROYjV6VlhBMzRTczZFOWxpcDVMbVBJNVE2c0FkMjZrMmlHSzU4K1ZZZWdPZURXTk9BSCs4NzdMK1FcL3NZXC9uSkRZZ1kwa2JoXC9Tc3pZNGF4K1cxdldhWGxvWVI3M2Vsb083OG9DeEV3ZjA2NDluaDFLM2JlTUx0bWFyQmNcL3VPZjd3SHp3SVU3Y0pKQzRSd0V0eTdJOXV0MW5JSVpid0kxQTRFSVljNjJYQkh0VGxWcDROclpkUUNMQjA4cEhZbWk2SFllZUJ1bE9cL05aRWduNWlRTGE5QzVxU29sbVIyXC8rWWRtd21UalJrWW45YWI0T2RxMjNcL29DZFpWSEQxcmd6STdRVmtWZ2V6dE9aV1BNPSJ9 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA CHANNELS",Indosiar
-https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiOTM4MDE3NjUiLCJyZWZyZXNoX3Rva2VuIjoibmpRVitxRWVMREU3a3dCeUl0ZTRqWHBoTGJzNGNjUUVWYXBHNER0Yk9JV2RpMGpLdnVUMlZjTmNJTXJWN2NsRCs1d0NlY1lcL1JXS2swZGlcL2NLSW5IMzI2YzIraVwvd1ord0xpZExVc1BSSFJrNFpuM1ByU2VJK2g4YmE4NXg1cCt4RXdRN25Ocmdvbm1rSGt4UU5EeTBwT3BTTFRXZWY3TSs3cnBVN3ZweCtvYnRPb3M3MWJWZTBjbWJwaDlcL2RxcWhrVUlBR29mQTBsZG5nUVUxUVwveHhpR2RlRkc2ODNJdXlWUU1Rb2hrdDdXRzNvNHo2VGZpdkV6d2sxWGgwcnFkR3MrYXYwNUE4eHdweEFEVXJNcWRGdUVxRkJYQ1NoNVBVQ2RzOU1PQThRT3VcL0xuTThWRVFONFlzdXNsVW1yZndkTDlVaGhQSk1KK0xHMktTM0hxbmhwcFB3R2tsNVAyeldtbm1rN0UrU0swPSJ9 
+#EXTINF:-1 group-title="INDONESIA CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR(Vidio)
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/NEWS/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="PROLIGA",MOJI TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
