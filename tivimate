@@ -174,12 +174,6 @@ https://testfunctionlive.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
-#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="INDONESIA CHANNELS",TRANS TV
-https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNjUwODE5MjQiLCJyZWZyZXNoX3Rva2VuIjoidlFGbzlUZmxpY2prUVNGU2NkXC9JWVBLYkNoWDZiSU1IOG9rRkpvTWhaY2ZzSWhMNXJySDNFS3RXTU10MVpkYzNrTFZjenBramdYSkxLdWRyYjRHazJLRlkwTzJnVlUyRGhPRmtBbVRYMTc0YWIwbE5RQTB1Yk5KM3I1NjdkU1VwYWtEOTk5K1N0cjBVdlhIMFRwNWZJQXdIRVdpSWUzbnJXZmt4ajZnYkFBRDZDem5tZW1Ra1RmeE9pblJDWXBUdWdjRXZPQk5JemtRVFJqZkxqSTlRNXpvcVRUZTZjXC81R0djQ3dGaWhHVWVtR01wXC94TjNSRkc1UUpDNHlCQUUwQU5iREVXN2RwOVpkUUF5NnVcL29GUHR1U1Zuc3dBNnNqejc1Qm54SkxYTFwvdUlXelpvRVkzWVZqNXhsT1dYSUlNZm5ldE14VUJINEFlaUlUV21xeEN2TjR3Y3J3S1wvSGdcL1Rla2h3a1o1YlNkUT0ifQ== 
-
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="INDONESIA CHANNELS", TRANS7 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -200,12 +194,6 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA CHANNELS",Trans7 HD
 https://testfunctionlive.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA CHANNELS",TRANS7 HD2
-https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzUwMzkxNDIiLCJyZWZyZXNoX3Rva2VuIjoiSVE0XC9OeHdidXhcL1o2U0hsdGJGT1Vta293dnFaR001Uk5MOEl0NWcyNjJ1ZDNDKzJWcG1CcUd6OU1pcEZKa2ZWNFVMczdwUGhDVlkydGJGK3pYV1VRUnBtbHBwbUlNVHNpcWVodFlaU2JkXC9OME1URnJrM1FVYlc5Mk44bmxqWlludm4yM0x2OTlHXC9Ec1ZFWU85QXJFUVwvbnExZHRPSWUwNkRXXC9iMEJ4RHpEWUJmbnNBa1wvWmVFTjNNQmtjZFBNMVIxU0IwMnJIeEt6Zm9kN2NSN25KSjhNM1EzYTMyZ1dPXC9rdTVTcXIxbDJ3SFZOTklJbUtPbDl4TlBWVjI1ZnU3MlVWdHlEV0J6aWlUbUsxcVpNNWQ5OWpLNXJTd2xQdEs4UHJiMnBVZWpwUkpyMWVMVXRZaHh4UlhsbktrQVwvblR1bEN5RGVleG1WaXVZMHVQTm1OVCthc2t1R01PVFg1UG1xd0xTZE9scnJBPSJ9 
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="INDONESIA CHANNELS", TVONE 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
