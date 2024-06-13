@@ -46,11 +46,11 @@ EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="INDONESIA CHANNELS" tvg-id="IDX HD - [Channel 436].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 https://testfunctionlive.mncnow.id/live/eds/ForIDX/sa_dash_scte35/ForIDX.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="INDONESIA CHANNELS" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="INDONESIA CHANNELS" tvg-id="iNEWS HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNEWS
-https://testfunctionlive.mncnow.id/live/eds/iNEWSTV-HDD/sa_dash_vmx/iNEWSTV-HDD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://testfunctionlive.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="INDONESIA CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR(Vidio)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
