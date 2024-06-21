@@ -195,6 +195,9 @@ https://testfunctionlive.mncnow.id/live/eds/ForIDX/sa_dash_scte35/ForIDX.mpd
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" group-title="INDONESIA CHANNELS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA 1", INDOSIAR COPA AMERIKA
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
 #EXTINF:-1 group-title="INDONESIA CHANNELS" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR(Vidio)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
