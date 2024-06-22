@@ -11,29 +11,6 @@ https://bit.ly/nasikemarin
 
 
 
-#EXTINF:-1 tvg-id="FS1 UJICOBA" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/wp5SdpW/cnbcindo.png" group-title="COPA AMERIKA", FS1
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Player with .m3u8</title>
-</head>
-<body>
-    <div style="max-width: 800px; margin: auto;">
-        <video controls>
-            <source src="https://lovea6jw.upwardkill4o6.shop/football/conmebol-copa-america-3942558/argentina-vs-canada.html" type="application/x-mpegURL">
-            Your browser does not support the video tag or the file format of this video.
-        </video>
-    </div>
-</body>
-</html>
-
-
-
-#EXTINF:-1 tvg-id="FS1 UJICOBA" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/wp5SdpW/cnbcindo.png" group-title="COPA AMERIKA", FS1
-https://lovea6jw.upwardkill4o6.shop/football/conmebol-copa-america-3942558/argentina-vs-canada.html
-
 
 
 
