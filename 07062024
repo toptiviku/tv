@@ -6,6 +6,284 @@ https://bit.ly/nasikemarin
 
 
 
+COPA AMERICA
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>CYBER CRIME</title>
+<script language="javascript">
+  window.location = "https://www.youtube.com/watch?v=m5U8I3zYwwo";
+</script>
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<noscript>
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",SPORTSTAR 3 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://melon-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",SPORTSTAR 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",1 ONE HD 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
+https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",RTL SUPER 🇩🇪 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",TV 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="RAI1" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",RAI 1 HD 🇮🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d79467df269743b3aca99a9171c54878:a7d3bc19bd09db6b581833e4a6176c8f
+https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09101/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",CCTV 5
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",PRO TV 🇷🇴
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
+https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT", EURO 1 (PPTV HD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT", EURO 2 (NBT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
+
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT", EURO 3 (MCOT HD)
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",SPOTV STADIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA(TVMAX)
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA (4)
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA(KORA)
+https://kora-sa.live/hls/0/stream.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON",BWF 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON",BWF 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON",BWF 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON",BWF 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+=====================================================================
+
+
+COPA AMERIC
+
+
+
+#EXTINF:-1 group-title="🏆 COPA EURO 🏆", COPA AMERICA US: TUDN
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA MX: TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA PA: TVMAX
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+***** #EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA PA: RPC
+***** https://live-b2.cf.dmcdn.net/sec2(9yjPJR_NLZBp4XezizRliwDIQgOmaf1vVGX9Fi3JiyDbWJ5FD7VKQuhZ2wGN3ZvZA6dEQkId0Q0qcanhPWfrHl9JAUmB5Hu9_UWN3ww3gl8)/cloud/3/x8lwrcd/s/live-2.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA CR: CANAL 6
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA SV: CANAL 4
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA NI: CANAL 13
+http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA CO: WIN SPORTS
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA CO: WIN SPORTS+
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA GT: TV AZTECA
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA UY: TV CIUDAD
+https://sdmx.vip:443/belpley/sYqKZQrTZa/2055403.ts
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA PY: UNICANAL
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA EC: ECDF
+http://177.53.153.20:8001/play/a040/index.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA EC: ECDF
+http://tv.soccerplus.link:8000/julia35a/anticona34/868
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA CN: CCTV 5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA CA: TSN 1
+http://45.41.213.34:70/TSN1/index.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA CA: TSN 2
+http://45.41.213.34:70/TSN4/index.m3u8
+#EXTINF:-1 group-title="🏆 Bics COPA AMERICA 🏆", COPA AMERICA CA: TSN 3
+http://45.41.213.34:70/TSN5/index.m3u8
+
+
+
+=================================
+
+
 
 
 
