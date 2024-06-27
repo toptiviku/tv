@@ -7215,6 +7215,10 @@ http://abf.filmbluray.id/vh22se7
 http://abf.filmbluray.id/mvepxtw
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE CAMPURAN" tvg-logo="http://pictures.my.id/images/journey2.png", Journey to the West 2 : The Demons Strike Back (2017) SUB INDO
 http://abf.filmbluray.id/kd4fpix
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE" tvg-logo="http://pictures.my.id/images/jumanji1.png", Jumanji (1995) SUB INDO
 http://abf.filmbluray.id/lls6uzj
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE" tvg-logo="http://pictures.my.id/images/Jumanji-2017.png", Jumanji: Welcome to the Jungle (2017) SUB INDO
@@ -7257,6 +7261,8 @@ http://abf.filmbluray.id/9zhrv3h
 http://abf.filmbluray.id/gsy56fn
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE CAMPURAN" tvg-logo="http://pictures.my.id/images/kingheaven.png", Kingdom of Heaven (2005) SUB INDO
 http://abf.filmbluray.id/6096598
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kingsman" tvg-logo="http://pictures.my.id/images/kings1.png", Kingsman : The Secret Service (2014) SUB INDO
 http://abf.filmbluray.id/nr4am0w
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kingsman" tvg-logo="http://pictures.my.id/images/kings2.png", Kingsman : The Golden Circle (2017) SUB INDO
@@ -8392,7 +8398,10 @@ http://abf.filmbluray.id/n377lc2
 http://abf.filmbluray.id/n30psdu
 
 
-
+############################### BATAS  ##########
+group-title="🎥 VOD Om IDIQ Movie Collection 🎥"
+27 06 2024
+############################################
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="https://photos.my.id/images/uLe3.png", Wonder Woman 1984 (2020) SUB INDO
 http://abf.filmbluray.id/jkdayir
