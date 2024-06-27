@@ -1678,33 +1678,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-=================================
-#EXTINF:-1 group-title="HBO GROUP" tvg-id="HBOFamily.id" tvg-logo="https://iptv.urfan.web.id/logo/hbofam.png",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/max/get.drm?type=widevine&amp;ch=YWEydExJbGhXd2RFOXlvTjRPMVp4S0ZRQmdEOWhhY01hUHpBd3ovOURtczNpTDRqb2NGMlI1STIzQVNOVSsvZHA4RjVvdWtOK3F3YmFnSUcvY0FyY2FpblR1ajhWVFh0T0VEQlVqYVJ6c09Yb1ZqcDhSQ0ZOa3MzNGN2RGZDK25PTEhMQXRVekxUSUlWalczS3lpalNqUUlGa3dyckJ5OGxNT0xlekx0VDY4PQ==
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
-https://her.otv.my.id/max/get.mpd?type=dash&amp;ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdGJ5dGdIejNybXRPS0ZCeGtsOTkwQ3g4QWFIZFlBZTBxR2YzeFpQanBiQ0hEWkxvSnJqZlJaM1ZLUkdTejBRM3gvMTl0ZXhCaWJUb2I2TEdwR2V6M2RBPQ==.mpd
-
-#EXTINF:-1 group-title="HBO GROUP" tvg-id="HBOSignature.id" tvg-logo="https://iptv.urfan.web.id/logo/hbosign.png",HBO SIGNATURE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/max/get.drm?type=widevine&amp;ch=YWEydExJbGhXd2RFOXlvTjRPMVp4S0ZRQmdEOWhhY01hUHpBd3ovOURtczNpTDRqb2NGMlI1STIzQVNOVSsvZHA4RjVvdWtOK3F3YmFnSUcvY0FyY2FpblR1ajhWVFh0T0VEQlVqYVJ6c09Yb1ZqcDhSQ0ZOa3MzNGN2RGZDK25PTEhMQXRVekxUSUlWalczS3lpalNtcFpFNmg2VFpsUzZJbU93eGZUVWdpVU16ZkM5K3k5eExobWUzbFFKUnh4
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
-https://her.otv.my.id/max/get.mpd?type=dash&amp;ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdGI2YXYwYjdvRm5MQjZDV3JwVVFycVUzd2xTNFhnSjg1QkhMTnlIRTYyekcvcndxMXJKcU41OUNaQ1M0Zm1DbWdjUlB6QnpMSTNHa3NiVWdLOHhIWGdRPQ==.mpd
-
-#EXTINF:-1 group-title="HBO GROUP" tvg-id="HBOHits.id" tvg-logo="https://iptv.urfan.web.id/logo/hbohits.png",HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/max/get.drm?type=widevine&amp;ch=YWEydExJbGhXd2RFOXlvTjRPMVp4S0ZRQmdEOWhhY01hUHpBd3ovOURtczNpTDRqb2NGMlI1STIzQVNOVSsvZHA4RjVvdWtOK3F3YmFnSUcvY0FyY2FpblR1ajhWVFh0T0VEQlVqYVJ6c09Yb1ZqcDhSQ0ZOa3MzNGN2RGZDK25PTEhMQXRVekxUSUlWalczS3lpalN0MFJ2T1lqTWJSY3hPT29JSWcwUTJJPQ==
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
-https://her.otv.my.id/max/get.mpd?type=dash&amp;ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdFFCWGF1N1M0MjNVT0xuQjBQLzluYTFCdTgvRlM0VjBrK01iM0hqVjcvNisrbHdRUGNEeXdUNjVNYzZhQmF5L3ZyRVY1R3A3OXRPVEVPOEpjVGZsR0dVPQ==.mpd
-
-#EXTINF:-1 group-title="HBO GROUP" tvg-id="HBO.id" tvg-logo="https://iptv.urfan.web.id/logo/hbo.png",HBO URFAN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/max/get.drm?type=widevine&amp;ch=YWEydExJbGhXd2RFOXlvTjRPMVp4S0ZRQmdEOWhhY01hUHpBd3ovOURtczNpTDRqb2NGMlI1STIzQVNOVSsvZHA4RjVvdWtOK3F3YmFnSUcvY0FyY2FpblR1ajhWVFh0T0VEQlVqYVJ6c09Yb1ZqcDhSQ0ZOa3MzNGN2RGZDK25PTEhMQXRVekxUSUlWalczS3lpalNyS0t5aEpOSWhXaGl4cUNLKytEYlJVPQ==
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
-https://her.otv.my.id/max/get.mpd?type=dash&amp;ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdGNEYnhxOU1NRkJvZjZOcmlXa3M2RWVtY1dIaHFuanQvS1kzbktDQVNFaUErN2YydTdxTWx4dEJVRHVzUlUyMnhZcDgxMlR0SWdPSE5PVkYvZzdlRFdzPQ==.mpd
-=====================
-
-====
 
 ######################################################################################
 <==========MOVIES==========>
