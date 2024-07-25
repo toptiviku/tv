@@ -183,22 +183,20 @@ https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 
 ====================  LIVE EVENT  ====================
 
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA(TVMAX)
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA(WIN SPORT +)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA (WIN SPORT)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA (4)
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA(KORA)
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA(KORA)
 https://kora-sa.live/hls/0/stream.m3u8
 
+
+=======BADMINTON=======
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="🏆 BADMINTON / BULU TANGKIS 🏆",BWF 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
@@ -224,127 +222,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 =====================================================================
-
-
-==================== COPA AMERICA ====================
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA US: TUDN
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA MX: TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA PA: TVMAX
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-***** #EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA PA: RPC
-***** https://live-b2.cf.dmcdn.net/sec2(9yjPJR_NLZBp4XezizRliwDIQgOmaf1vVGX9Fi3JiyDbWJ5FD7VKQuhZ2wGN3ZvZA6dEQkId0Q0qcanhPWfrHl9JAUmB5Hu9_UWN3ww3gl8)/cloud/3/x8lwrcd/s/live-2.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA CR: CANAL 6
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA SV: CANAL 4
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA NI: CANAL 13
-http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA CO: WIN SPORTS
-http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA CO: WIN SPORTS+
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA GT: TV AZTECA
-https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA UY: TV CIUDAD
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2055403.ts
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA PY: UNICANAL
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA EC: ECDF
-http://177.53.153.20:8001/play/a040/index.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA EC: ECDF
-http://tv.soccerplus.link:8000/julia35a/anticona34/868
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA CN: CCTV 5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA CA: TSN 1
-http://45.41.213.34:70/TSN1/index.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA CA: TSN 2
-http://45.41.213.34:70/TSN4/index.m3u8
-#EXTINF:-1 group-title="🏆 COPA AMERICA 🏆", COPA AMERICA CA: TSN 3
-http://45.41.213.34:70/TSN5/index.m3u8
-=================================
-
-#########== LIVE COPA AMERICA 2024 ==########
-#############################################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="🏆 COPA AMERICA 2 🏆", CH #11 (BelzieTV) 
-http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
-
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="🏆 COPA AMERICA 2 🏆", CH #12 (BelzieTV) 
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/352090
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 2 🏆" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 1 (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 2 🏆" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 2 (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 2 🏆" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 3 (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 2 🏆" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 4 (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 2 🏆" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 5 (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 2 🏆" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 6 (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 2 🏆" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 7 (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 2 🏆" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 8 (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🏆 COPA AMERICA 2 🏆" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 9 (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="🏆 COPA AMERICA 2 🏆", CH #10 (BelzieTV)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-
-
-################################################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ################################################################################################################
 ======================= INDONESIA TV NASIONAL ===============
@@ -449,8 +326,6 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 group-title="INDONESIA TV NASIONAL" tvg-logo="https://dl.dropboxusercontent.com/s/svda56px53dzs70/jtv.png", JTV
 https://melon-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
  
-
- 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="INDONESIA TV NASIONAL",RTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
@@ -465,7 +340,6 @@ https://melon-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
  
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="INDONESIA TV NASIONAL", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
  
@@ -525,7 +399,6 @@ http://iptvtree.net:8080/AmirBilali/76448035/157578
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 group-title="INDONESIA TV CHANNELS" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -582,6 +455,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 =========================================================================================
+
 ##########################
 ######## LPP TVRI ########
 ##########################
@@ -631,7 +505,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-
 #############################
 ######## EMTEK GROUP ########
 #############################
@@ -662,7 +535,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
 
-
 ############################
 ######## VIVA GROUP ########
 ############################
@@ -682,7 +554,6 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA TV CHANNELS" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
-
 
 #############################
 ######## TRANS MEDIA ########
@@ -711,7 +582,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTINF:-1 group-title="INDONESIA TV CHANNELS" tvg-id="CNBCIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
-
 
 #############################
 ######## MEDIA GROUP ########
@@ -742,7 +612,6 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://yt.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
 
-
 ##############################
 ######## NETMEDIATAMA ########
 ##############################
@@ -757,7 +626,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 group-title="INDONESIA TV CHANNELS" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
-
 
 ###############################
 ######## RAJAWALI CORP ########
@@ -845,7 +713,6 @@ https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml"  refresh="3600"
 
 
-
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="INDONESIA TV CHANNELS", Metro TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -931,6 +798,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
+
 
 ========= INDONESIA TV DAERAH ============
 
