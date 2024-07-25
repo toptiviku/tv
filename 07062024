@@ -2456,30 +2456,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="SIARAN MUSIK" tvg-logo="https://i.ibb.co/xGcLjnX/traceurban.png", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" tvg-chno="1503" group-title="SIARAN MUSIK", Xite Hits
-https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD3300008DG" tvg-id="USBD3300008DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20231024T231916SQUARE.png_20231024231917.png" tvg-chno="1512" group-title="SIARAN MUSIK", Xite Only Love
-https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png" tvg-chno="1523" group-title="SIARAN MUSIK", Vevo 2K
-https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://i.ibb.co/BgVcDNK/vevo80.png" tvg-chno="1521" group-title="SIARAN MUSIK", Vevo '80s
-https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://i.ibb.co/zm0vfsY/vevo90-1.png" tvg-chno="1522" group-title="SIARAN MUSIK", Vevo '90s
-https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://i.ibb.co/MnhLCLT/vevo2010-2.png" tvg-chno="1524" group-title="SIARAN MUSIK", Vevo 2010s
-https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430SQUARE.png_20230809005431.png" tvg-chno="1525" group-title="SIARAN MUSIK", Vevo Retro Rock
-https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://i.ibb.co/1Lrwd3S/vevopop-1.png" tvg-chno="1532" group-title="SIARAN MUSIK", Vevo Pop
-https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8|user-agent=okhttp/4.10.0
-
 #EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://i.imgur.com/tkE8Y0z.jpeg" tvg-chno="1537" group-title="SIARAN MUSIK", New Kpop
 https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8|user-agent=okhttp/4.10.0
   
@@ -2526,7 +2502,48 @@ https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE CELEBRATES" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbniqLHRBjjYA1TWsUrKygC1uARe32-dyIK6QIMSblxvU.png" group-title="SIARAN MUSIK",XITE CELEBRATES
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12773.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE 80's FLASHBACK" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbAMDoQ9E_h0fCl81jynQS_Q.png" group-title="SIARAN MUSIK",XITE 80's FLASHBACK
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12774.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE 90's THROWBACK" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbY2QL1lgt6Juk_cBRH9-NYg.png" group-title="SIARAN MUSIK",XITE 90's THROWBACK
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12775.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE HITS" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbqtkawgKti7b-Obi1RkWDig.png" group-title="SIARAN MUSIK",XITE HITS
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12776.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE COUNTRY TODAY" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikb_oySLc5KTSFLQh40hZKTTDJNNyuUaBDNiegfk1zBecc.png" group-title="SIARAN MUSIK",XITE COUNTRY TODAY
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12777.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE CLASSIC COUNTRY" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbH4D_a72vDxvADdrZ4xxa4DdEmCZM25IH2LZFBDgfEAE.png" group-title="SIARAN MUSIK",XITE CLASSIC COUNTRY
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12778.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE NUEVO LATINO" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbEcQViBVvINE9kngzxCQ5os37ftucGsD6gBzacS4faxI.png" group-title="SIARAN MUSIK",XITE NUEVO LATINO
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12779.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE SIEMPRE LATINO" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbeKYyRQvf3waHuCGUCcSYPheICuFaGS4s2MXJTE2Q6hQ.png" group-title="SIARAN MUSIK",XITE SIEMPRE LATINO
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12780.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE R & B CLASSIC JAMS" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbU7a_I0buH__HifYP0ra0Uw.png" group-title="SIARAN MUSIK",XITE R & B CLASSIC JAMS
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12781.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE ROCK X METAL" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikb2akEh0-aJ47auRMsrBOwJ6WBiI3BWqxjVwhNqQtE3MU.png" group-title="SIARAN MUSIK",XITE ROCK X METAL
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12782.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO '70s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXVCCUFSJs_Xc30MpZv7BeCg.png" group-title="SIARAN MUSIK",VEVO '70s
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12783.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO '80s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXaE39ybvVeLLdn9rQJRQmOA.png" group-title="SIARAN MUSIK",VEVO '80s
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12784.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO '90s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXSR01zVX41MmlhUxrkvqgHA.png" group-title="SIARAN MUSIK",VEVO '90s
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12785.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO 2K" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXO11-EtdL3EvzOpEfpgkXhQ.png" group-title="SIARAN MUSIK",VEVO 2K
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12786.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO 2010s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXTrHCNCfHiewN_1Y99DF6Bw.png" group-title="SIARAN MUSIK",VEVO 2010s
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12787.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO RETRO ROCK" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEX_h3aaYtkqMzYqnydLDUfSXqi1AOHA7fE4vahMNzq7Yc.png" group-title="SIARAN MUSIK",VEVO RETRO ROCK
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12788.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO LATINO" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXBfhVwd77pMO14tOjqb8iaA.png" group-title="SIARAN MUSIK",VEVO LATINO
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12789.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO HIP-HOP" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXDbarQYls4pEn0wLKgSOR9w.png" group-title="SIARAN MUSIK",VEVO HIP-HOP
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12790.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO R & B" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXKbL1rdMCVLjHESRPvOAF7w.png" group-title="SIARAN MUSIK",VEVO R & B
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12791.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO COUNTRY" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXiIeU2ONxAWp1XfjmRpUeFeQyMHc7zqKPDQx3RGvWyxc.png" group-title="SIARAN MUSIK",VEVO COUNTRY
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12792.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO POP" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXDl1p-JMwmfzGXpFK3t7ByA.png" group-title="SIARAN MUSIK",VEVO POP
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12793.m3u8|User-Agent=OTT Naviga
 
 <========== RELIGI ==========>
 
