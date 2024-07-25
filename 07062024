@@ -66,12 +66,14 @@ https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", TIDAK UNTUK DISHARE !
 https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", BUKAN GRATISAN, 100K 1 TAHUN !
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", BUKAN GRATISAN, Rp 100.000 1 TAHUN !
 https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", BAYAR VIA QRIS DISINI !
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw5kQEZ5OBVv6lq-hir4wyYXp5Xn-8U1ZyVmnZzXUeAqtCRqTIlsPlLo5oFoSv03KyCtvdddMGY9Ret8SosgZ8KjkHOLKNY2Nf1vV9T81hYg90pwQp0Y898ENdsh28C5ozZcWtcspUuPR5Tv-MZo4GUVNtW7AmEjaH0fE4zTquLx4movcHTCl_Ubked3RI/s1972/QRIS.png
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", KONFIRMASI PEMBAYARAN VIA WHATSAPP DISINI !
+https://api.whatsapp.com/send/?phone=%2B6282362635960&text&type=phone_number&app_absent=0
 
 
 
@@ -181,19 +183,6 @@ https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 
 <noscript>
 
-====================  LIVE EVENT  ====================
-
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA(WIN SPORT +)
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA (WIN SPORT)
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="🏆 LIVE EVENT 🏆",COPA AMERICA(KORA)
-https://kora-sa.live/hls/0/stream.m3u8
 
 
 =======BADMINTON=======
