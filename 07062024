@@ -69,10 +69,10 @@ https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", BUKAN GRATISAN, Rp 100.000 1 TAHUN !
 https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", BAYAR VIA QRIS DISINI !
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", BAYAR VIA QRIS DISINI https://bit.ly/bayartv1 !
 https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw5kQEZ5OBVv6lq-hir4wyYXp5Xn-8U1ZyVmnZzXUeAqtCRqTIlsPlLo5oFoSv03KyCtvdddMGY9Ret8SosgZ8KjkHOLKNY2Nf1vV9T81hYg90pwQp0Y898ENdsh28C5ozZcWtcspUuPR5Tv-MZo4GUVNtW7AmEjaH0fE4zTquLx4movcHTCl_Ubked3RI/s1972/QRIS.png
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", KONFIRMASI PEMBAYARAN VIA WHATSAPP DISINI !
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="INFORMASI ⚠️ TV MAS SIDIK ⚠️", KONFIRMASI PEMBAYARAN VIA WHATSAPP DISINI https://bit.ly/admintv1 !
 https://api.whatsapp.com/send/?phone=%2B6282362635960&text&type=phone_number&app_absent=0
 
 
@@ -1445,25 +1445,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE / PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
+#EXTINF:-1 tvg-id="" group-title="PENGETAHUAN & DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
 https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE / PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
+#EXTINF:-1 tvg-id="" group-title="PENGETAHUAN & DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
 https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE / PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation Asia
+#EXTINF:-1 tvg-id="" group-title="PENGETAHUAN & DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation Asia
 https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE / PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN Documentary
+#EXTINF:-1 tvg-id="" group-title="PENGETAHUAN & DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN Documentary
 https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS0VvSf/animal-planet-logo-tv.jpg" group-title="KNOWLEDGE / PENGETAHUAN", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS0VvSf/animal-planet-logo-tv.jpg" group-title="PENGETAHUAN & DOCUMENTARY", ANIMAL PLANET
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157532
@@ -1472,21 +1472,21 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE / PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png",National Geographic Indonesia
+#EXTINF:-1 tvg-id="" group-title="PENGETAHUAN & DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png",National Geographic Indonesia
 https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE / PENGETAHUAN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png",National Geographic Wild Indonesia
+#EXTINF:-1 tvg-id="" group-title="PENGETAHUAN & DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png",National Geographic Wild Indonesia
 https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE / PENGETAHUAN" tvg-id="nasatv.us" tvg-logo="https://iptv.urfan.web.id/logo/nasatv.png",NASA TV Media
+#EXTINF:-1 group-title="PENGETAHUAN & DOCUMENTARY" tvg-id="nasatv.us" tvg-logo="https://iptv.urfan.web.id/logo/nasatv.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE / PENGETAHUAN" tvg-id="nasatvpublic.us" tvg-logo="https://iptv.urfan.web.id/logo/nasatv.png",NASA TV Public
+#EXTINF:-1 group-title="PENGETAHUAN & DOCUMENTARY" tvg-id="nasatvpublic.us" tvg-logo="https://iptv.urfan.web.id/logo/nasatv.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE / PENGETAHUAN" tvg-id="outdoorchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/outdoorch.png",Outdoor Channel
+#EXTINF:-1 group-title="PENGETAHUAN & DOCUMENTARY" tvg-id="outdoorchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/outdoorch.png",Outdoor Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-referrer=https://visionplus.id
