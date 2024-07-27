@@ -29,7 +29,7 @@ COPA AMERICA
 
 
 ################  INFORMASI #################
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-vector/20211228/ourmid/pngtree-important-notice-design-free-png-png-image_4109984.png",0⚠️ INFORMASI TV OM IDIQ ⚠️0
+#EXTINF:-1 group-logo="https://www.smpn03batu.sch.id/upload/imagecache/44508792template-pin-warna-merah-800x800.png",0⚠️ INFORMASI TV OM IDIQ ⚠️0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="0⚠️ INFORMASI TV OM IDIQ ⚠️0", a INTERNET PROTOCOL TV PRIBADI !
 https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
@@ -1765,7 +1765,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://testfunctionlive.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 <==========HBO GROUP==========>
-#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo-thumbnail.png",HBO GROUP
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYd7B0ThmdKZ7lRfkmKrUq4b3XlfFdbpvqfQGSAmyPfm8WupTzbYUo4IWb2jlNZH9ji0&usqp=CAU",HBO GROUP
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
