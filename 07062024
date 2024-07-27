@@ -1055,8 +1055,7 @@ https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/moji.m3u8
 
 
 ========= INDONESIA DAERAH ============
-#EXTINF:-1 group-logo="https://w7.pngwing.com/pngs/150/435/png-transparent-indonesia-map-map-border-islands-grass-thumbnail.png",TV DAERAH
-
+#EXTINF:-1 group-logo="https://masdik.com/wp-content/uploads/2016/11/indonesia-merah-putih-map.png",TV DAERAH
 
 #EXTINF:-1 group-title="TV DAERAH" tvg-id="Bali TV" tvg-logo="https://iptv.urfan.web.id/logo/balitv.png",Bali TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
