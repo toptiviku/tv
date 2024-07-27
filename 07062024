@@ -204,6 +204,12 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
 https://xplayns.xyssatuu.workers.dev/xPLAY.mpd
 
+#EXTINF:-1 group-title="SPESIAL INDOSIAR SCTV" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",SCTV xPLAY2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd
+intent://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722080377~acl=/drm/dash/*~id=161176528~hmac=5c0db21478bba12a52d26ec45ecc1e6cbabdc5066015c3dc6a2c6dd6d30ba47c|User-Agent=Mozilla/5.0&drmScheme=clearkey&drmLicense=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LSBTV;end
+
 #EXTINF:-1 group-title="SPESIAL INDOSIAR SCTV" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR XYSSATU
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://itv.xyssatuu.workers.dev/https://pull.niues.live/live/stream-9912050_lsd.m3u8
