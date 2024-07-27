@@ -23,7 +23,7 @@ COPA AMERICA
 
 
 
-#EXTM3U billed-msg="MAS SIDIK TV` | BUKAN TV KABEL | BERAKHIR 31 AGUSTUS 2025 PERPANJANG LAYANAN 50.000/TAHUN !!.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
+#EXTM3U billed-msg="MAS SIDIK TV` | PERPANJANG LAYANAN 50.000/TAHUN | BERAKHIR 31 AGUSTUS 2025  !!.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/au/Melbourne/epg.xml"  refresh="3600"
 
@@ -2658,135 +2658,137 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV 2 - [Channel 308].id" group-title="🏆 SPORTS INDONESIA 🏆" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-<==========MUSIK==========>
+<========== MUSIK TV ==========>
+
+#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/182/465/png-clipart-mtv-logo-tv-television-music-video-others-miscellaneous-television.png",TV MUSIK
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="MTV LIVE - [Channel 148].id" group-title="SIARAN MUSIK" tvg-logo="https://static.mncnow.id/images/channel/681901f0/400d_r32.jpg",MTV Live
+#EXTINF:-1 tvg-id="MTV LIVE - [Channel 148].id" group-title="TV MUSIK" tvg-logo="https://static.mncnow.id/images/channel/681901f0/400d_r32.jpg",MTV Live
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="MTV 90s - [Channel 149].id" group-title="SIARAN MUSIK" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg",MTV 90s
+#EXTINF:-1 tvg-id="MTV 90s - [Channel 149].id" group-title="TV MUSIK" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg",MTV 90s
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Music TV - [Channel 111].id" group-title="SIARAN MUSIK" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
+#EXTINF:-1 tvg-id="Music TV - [Channel 111].id" group-title="TV MUSIK" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OvJ594S.png" group-title="SIARAN MUSIK", Koplo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OvJ594S.png" group-title="TV MUSIK", Koplo
 https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarakoplo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fHzfd4V/nagapop.png" group-title="SIARAN MUSIK", Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fHzfd4V/nagapop.png" group-title="TV MUSIK", Pop
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KRF5VQ/7musik.png" group-title="SIARAN MUSIK", Seven Musik
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KRF5VQ/7musik.png" group-title="TV MUSIK", Seven Musik
 http://103.199.161.254/Content/7sMUSIK/Live/Channel(7sMUSIK)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="SIARAN MUSIK" tvg-logo="https://i.imgur.com/2PW6Myl.jpeg", Now 70
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="TV MUSIK" tvg-logo="https://i.imgur.com/2PW6Myl.jpeg", Now 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="SIARAN MUSIK" tvg-logo="https://i.ibb.co/3mP4G7f/now80.png", Now 80
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="TV MUSIK" tvg-logo="https://i.ibb.co/3mP4G7f/now80.png", Now 80
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="SIARAN MUSIK" tvg-logo="https://i.ibb.co/fQmJ3rw/nowrock.png", Now Rock
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="TV MUSIK" tvg-logo="https://i.ibb.co/fQmJ3rw/nowrock.png", Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="SIARAN MUSIK" tvg-logo="https://i.ibb.co/xGcLjnX/traceurban.png", Trace Urban
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="TV MUSIK" tvg-logo="https://i.ibb.co/xGcLjnX/traceurban.png", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://i.imgur.com/tkE8Y0z.jpeg" tvg-chno="1537" group-title="SIARAN MUSIK", New Kpop
+#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://i.imgur.com/tkE8Y0z.jpeg" tvg-chno="1537" group-title="TV MUSIK", New Kpop
 https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8|user-agent=okhttp/4.10.0
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RYjzal6.jpeg" group-title="SIARAN MUSIK", K Pop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RYjzal6.jpeg" group-title="TV MUSIK", K Pop
 https://marine2.miplay.cl/kpop/playlist.m3u8
  
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="SIARAN MUSIK" tvg-logo="https://i.ibb.co/Df8dfPx/retro.png", Retro tv 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="TV MUSIK" tvg-logo="https://i.ibb.co/Df8dfPx/retro.png", Retro tv 
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
 
-#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/NH7BZtB.jpeg" group-title="SIARAN MUSIK", IHeart 80s
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/NH7BZtB.jpeg" group-title="TV MUSIK", IHeart 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="https://i.imgur.com/NH7BZtB.jpeg" group-title="SIARAN MUSIK", IHeart 90s
+#EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="https://i.imgur.com/NH7BZtB.jpeg" group-title="TV MUSIK", IHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
   
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/DoH9dqh.png" group-title="SIARAN MUSIK", Imtv
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/DoH9dqh.png" group-title="TV MUSIK", Imtv
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 group-title="SIARAN MUSIK" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png",Aquarius Musikindo
+#EXTINF:-1 group-title="TV MUSIK" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png",Aquarius Musikindo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.urfan.web.id/stream/UCpJRmMTfdv0iPbnjo6qBw_g/master.m3u8
 
-#EXTINF:-1 group-title="SIARAN MUSIK" tvg-logo="https://iptv.urfan.web.id/logo/24kpoptv.png",24hr K-Pop TV
+#EXTINF:-1 group-title="TV MUSIK" tvg-logo="https://iptv.urfan.web.id/logo/24kpoptv.png",24hr K-Pop TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://live.24hrkpop.com/hls/4/stream.m3u8
 
-#EXTINF:-1 group-title="SIARAN MUSIK" tvg-id="maleo.id" tvg-logo="https://iptv.urfan.web.id/logo/maleo.png",Maleo
+#EXTINF:-1 group-title="TV MUSIK" tvg-id="maleo.id" tvg-logo="https://iptv.urfan.web.id/logo/maleo.png",Maleo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="SIARAN MUSIK" tvg-id="musica.id" tvg-logo="https://iptv.urfan.web.id/logo/musica.png",Musica Studios
+#EXTINF:-1 group-title="TV MUSIK" tvg-id="musica.id" tvg-logo="https://iptv.urfan.web.id/logo/musica.png",Musica Studios
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.urfan.web.id/stream/UCNlU3oSU8UnJ_V9uMB-cPOg/master.m3u8
 
-#EXTINF:-1 group-title="SIARAN MUSIK" tvg-id="musikindonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png",Musik Indonesia
+#EXTINF:-1 group-title="TV MUSIK" tvg-id="musikindonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png",Musik Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
-#EXTINF:-1 group-title="SIARAN MUSIK" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png",Nagaswara
+#EXTINF:-1 group-title="TV MUSIK" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png",Nagaswara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
 
-#EXTINF:-1 group-title="SIARAN MUSIK" tvg-id="popmusic.id" tvg-logo="https://iptv.urfan.web.id/logo/popmusic.png",POP Music
+#EXTINF:-1 group-title="TV MUSIK" tvg-id="popmusic.id" tvg-logo="https://iptv.urfan.web.id/logo/popmusic.png",POP Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE CELEBRATES" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbniqLHRBjjYA1TWsUrKygC1uARe32-dyIK6QIMSblxvU.png" group-title="SIARAN MUSIK",XITE CELEBRATES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE CELEBRATES" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbniqLHRBjjYA1TWsUrKygC1uARe32-dyIK6QIMSblxvU.png" group-title="TV MUSIK",XITE CELEBRATES
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12773.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE 80's FLASHBACK" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbAMDoQ9E_h0fCl81jynQS_Q.png" group-title="SIARAN MUSIK",XITE 80's FLASHBACK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE 80's FLASHBACK" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbAMDoQ9E_h0fCl81jynQS_Q.png" group-title="TV MUSIK",XITE 80's FLASHBACK
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12774.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE 90's THROWBACK" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbY2QL1lgt6Juk_cBRH9-NYg.png" group-title="SIARAN MUSIK",XITE 90's THROWBACK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE 90's THROWBACK" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbY2QL1lgt6Juk_cBRH9-NYg.png" group-title="TV MUSIK",XITE 90's THROWBACK
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12775.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE HITS" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbqtkawgKti7b-Obi1RkWDig.png" group-title="SIARAN MUSIK",XITE HITS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE HITS" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbqtkawgKti7b-Obi1RkWDig.png" group-title="TV MUSIK",XITE HITS
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12776.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE COUNTRY TODAY" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikb_oySLc5KTSFLQh40hZKTTDJNNyuUaBDNiegfk1zBecc.png" group-title="SIARAN MUSIK",XITE COUNTRY TODAY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE COUNTRY TODAY" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikb_oySLc5KTSFLQh40hZKTTDJNNyuUaBDNiegfk1zBecc.png" group-title="TV MUSIK",XITE COUNTRY TODAY
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12777.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE CLASSIC COUNTRY" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbH4D_a72vDxvADdrZ4xxa4DdEmCZM25IH2LZFBDgfEAE.png" group-title="SIARAN MUSIK",XITE CLASSIC COUNTRY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE CLASSIC COUNTRY" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbH4D_a72vDxvADdrZ4xxa4DdEmCZM25IH2LZFBDgfEAE.png" group-title="TV MUSIK",XITE CLASSIC COUNTRY
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12778.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE NUEVO LATINO" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbEcQViBVvINE9kngzxCQ5os37ftucGsD6gBzacS4faxI.png" group-title="SIARAN MUSIK",XITE NUEVO LATINO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE NUEVO LATINO" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbEcQViBVvINE9kngzxCQ5os37ftucGsD6gBzacS4faxI.png" group-title="TV MUSIK",XITE NUEVO LATINO
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12779.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE SIEMPRE LATINO" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbeKYyRQvf3waHuCGUCcSYPheICuFaGS4s2MXJTE2Q6hQ.png" group-title="SIARAN MUSIK",XITE SIEMPRE LATINO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE SIEMPRE LATINO" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbeKYyRQvf3waHuCGUCcSYPheICuFaGS4s2MXJTE2Q6hQ.png" group-title="TV MUSIK",XITE SIEMPRE LATINO
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12780.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE R & B CLASSIC JAMS" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbU7a_I0buH__HifYP0ra0Uw.png" group-title="SIARAN MUSIK",XITE R & B CLASSIC JAMS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE R & B CLASSIC JAMS" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikbU7a_I0buH__HifYP0ra0Uw.png" group-title="TV MUSIK",XITE R & B CLASSIC JAMS
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12781.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE ROCK X METAL" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikb2akEh0-aJ47auRMsrBOwJ6WBiI3BWqxjVwhNqQtE3MU.png" group-title="SIARAN MUSIK",XITE ROCK X METAL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE ROCK X METAL" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op5WTWgX3D016uYiyZ10xikb2akEh0-aJ47auRMsrBOwJ6WBiI3BWqxjVwhNqQtE3MU.png" group-title="TV MUSIK",XITE ROCK X METAL
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12782.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO '70s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXVCCUFSJs_Xc30MpZv7BeCg.png" group-title="SIARAN MUSIK",VEVO '70s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO '70s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXVCCUFSJs_Xc30MpZv7BeCg.png" group-title="TV MUSIK",VEVO '70s
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12783.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO '80s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXaE39ybvVeLLdn9rQJRQmOA.png" group-title="SIARAN MUSIK",VEVO '80s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO '80s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXaE39ybvVeLLdn9rQJRQmOA.png" group-title="TV MUSIK",VEVO '80s
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12784.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO '90s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXSR01zVX41MmlhUxrkvqgHA.png" group-title="SIARAN MUSIK",VEVO '90s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO '90s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXSR01zVX41MmlhUxrkvqgHA.png" group-title="TV MUSIK",VEVO '90s
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12785.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO 2K" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXO11-EtdL3EvzOpEfpgkXhQ.png" group-title="SIARAN MUSIK",VEVO 2K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO 2K" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXO11-EtdL3EvzOpEfpgkXhQ.png" group-title="TV MUSIK",VEVO 2K
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12786.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO 2010s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXTrHCNCfHiewN_1Y99DF6Bw.png" group-title="SIARAN MUSIK",VEVO 2010s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO 2010s" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXTrHCNCfHiewN_1Y99DF6Bw.png" group-title="TV MUSIK",VEVO 2010s
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12787.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO RETRO ROCK" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEX_h3aaYtkqMzYqnydLDUfSXqi1AOHA7fE4vahMNzq7Yc.png" group-title="SIARAN MUSIK",VEVO RETRO ROCK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO RETRO ROCK" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEX_h3aaYtkqMzYqnydLDUfSXqi1AOHA7fE4vahMNzq7Yc.png" group-title="TV MUSIK",VEVO RETRO ROCK
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12788.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO LATINO" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXBfhVwd77pMO14tOjqb8iaA.png" group-title="SIARAN MUSIK",VEVO LATINO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO LATINO" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXBfhVwd77pMO14tOjqb8iaA.png" group-title="TV MUSIK",VEVO LATINO
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12789.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO HIP-HOP" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXDbarQYls4pEn0wLKgSOR9w.png" group-title="SIARAN MUSIK",VEVO HIP-HOP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO HIP-HOP" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXDbarQYls4pEn0wLKgSOR9w.png" group-title="TV MUSIK",VEVO HIP-HOP
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12790.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO R & B" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXKbL1rdMCVLjHESRPvOAF7w.png" group-title="SIARAN MUSIK",VEVO R & B
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO R & B" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXKbL1rdMCVLjHESRPvOAF7w.png" group-title="TV MUSIK",VEVO R & B
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12791.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO COUNTRY" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXiIeU2ONxAWp1XfjmRpUeFeQyMHc7zqKPDQx3RGvWyxc.png" group-title="SIARAN MUSIK",VEVO COUNTRY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO COUNTRY" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXiIeU2ONxAWp1XfjmRpUeFeQyMHc7zqKPDQx3RGvWyxc.png" group-title="TV MUSIK",VEVO COUNTRY
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12792.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO POP" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXDl1p-JMwmfzGXpFK3t7ByA.png" group-title="SIARAN MUSIK",VEVO POP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO POP" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXDl1p-JMwmfzGXpFK3t7ByA.png" group-title="TV MUSIK",VEVO POP
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12793.m3u8|User-Agent=OTT Naviga
 
 <========== RELIGI ==========>
