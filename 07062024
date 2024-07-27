@@ -1434,7 +1434,7 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 <==========ENTERTAINMENT==========>
-#EXTINF:-1 group-logo="https://i.imgur.com/8eQw0Ob.jpeg",HIBURAN / ENTERTAINMENT
+#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/EniqUO.png",HIBURAN / ENTERTAINMENT
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
