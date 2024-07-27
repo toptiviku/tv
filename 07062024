@@ -187,6 +187,7 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 <========== PROLIGA ==========>
+#EXTINF:-1 group-logo="https://beetv.my.id/logo/proliga.png",🏆 PROLIGA 🏆
 
 #EXTINF:-1 group-title="🏆 PROLIGA 🏆" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
