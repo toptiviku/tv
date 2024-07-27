@@ -4,9 +4,6 @@ https://s.id/masihsempit
 
 
 
-
-
-
 COPA AMERICA
 
 <!DOCTYPE html>
@@ -22,10 +19,11 @@ COPA AMERICA
 
 
 
-
 #EXTM3U billed-msg="OM IDIQ TV` | PERPANJANG LAYANAN 50.000/TAHUN | BERAKHIR 31 AGUSTUS 2025  !!.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/au/Melbourne/epg.xml"  refresh="3600"
+
+
 
 
 ################  INFORMASI #################
@@ -66,7 +64,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-=========OLIMPIADE PARIS=====================
+################  OLIMPIADE PARIS  ################  
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMYYHbBAFaoVc3e_7REhTQ1Q8HBgyjLWN8qkmjKFVrGsSCd_LHZbIvFi0qJpLUR_yweM&usqp=CAU",🏆 OLIMPIADE PARIS 2024 🏆
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -136,13 +134,12 @@ https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/ma
 #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
 
-
 =====================
+
 
 ############  PIALA PRESIDEN ############ 
 
 #EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/306/2024/07/11/Logo-Piala-Presiden-Twitter-4269523415.png",🏆 PIALA PRESIDEN 🏆
-
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -169,6 +166,8 @@ http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
 #http://103.155.250.139:25461/v3/Ub5dHa4TJp/228
 
 ====================
+
+
 ############  SPESIAL INDOIAR  ##################
 
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",SPESIAL INDOSIAR
@@ -193,6 +192,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd
 #EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR xPLAY3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=drmLicense=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd
+
+#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR xPLAY4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd
 
 #EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR XYSSATU
