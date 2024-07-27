@@ -32,7 +32,7 @@ COPA AMERICA
 
 
 =========OLIMPIADE PARIS=====================
-
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMYYHbBAFaoVc3e_7REhTQ1Q8HBgyjLWN8qkmjKFVrGsSCd_LHZbIvFi0qJpLUR_yweM&usqp=CAU",🏆 OLIMPIADE PARIS 2024 🏆
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,6 +55,9 @@ https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 =====================
 
 ############  PIALA PRESIDEN ############ 
+
+#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/306/2024/07/11/Logo-Piala-Presiden-Twitter-4269523415.png",🏆 PIALA PRESIDEN 🏆
+
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
