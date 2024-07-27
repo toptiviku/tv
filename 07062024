@@ -110,6 +110,7 @@ http://iptvtree.net:8080/e891d265/89d742c3/162138
 
 ==============================================================
 ############  BADMINTON   ############ 
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU",🏆 BADMINTON / BULU TANGKIS 🏆
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="🏆 BADMINTON / BULU TANGKIS 🏆",BWF 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -138,7 +139,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 =====================================================================
 
 ############  BRI LIGA 1 ############ 
-
+#EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg",🏆 BRI LIGA 1 🏆
 
 #EXTINF:0 tvg-id="" tvg-name="INFO"  tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="🏆 BRI LIGA 1 🏆",INDOSIAR 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
@@ -166,6 +167,7 @@ https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 <========== 👑EVENT MOTO GP👑 ==========>
+#EXTINF:-1 group-logo="https://i.ibb.co.com/m8w2PMq/moto-gp.png",🏍️ EVENT MOTO GP 🏍️
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/SPORTS INDO2/spotv1.png" group-title="🏍️ EVENT MOTO GP 🏍️",SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
