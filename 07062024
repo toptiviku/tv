@@ -337,71 +337,12 @@ http://iptvtree.net:8080/F14995/a84c0963/298550
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <noscript>
 
 
 
 
-
 ################################################################################################################
-
-
-
 ################################################################################################################
 ================ INDONESIA 🇮🇩 (Server 1) ================
 
@@ -843,7 +784,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
 
 
-
+################################################################################################################
 ################ "INDONESIA 🇮🇩 (Server 2)"  ###################
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA 🇮🇩 (Server 2)
 
@@ -993,8 +934,8 @@ http://melon-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 http://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
+################################################################################################################
 ################ "INDONESIA 🇮🇩 (Server 3)"  ###################
-
 
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA 🇮🇩 (Server 3)
 
@@ -1135,8 +1076,7 @@ https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/moji.m3u8
 
 
 
-
-
+################################################################################################################
 ========= INDONESIA DAERAH ============
 #EXTINF:-1 group-logo="https://masdik.com/wp-content/uploads/2016/11/indonesia-merah-putih-map.png",TV DAERAH
 
@@ -1331,7 +1271,7 @@ https://iptv.urfan.web.id/video/info.m3u8
 https://iptv.urfan.web.id/video/info.m3u8
 	
 
-
+################################################################################################################
 <=========================================== TVRI GROUP =========================================>
 
 #EXTINF:-1 group-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png",TVRI GROUP
@@ -1436,6 +1376,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
 
 
+################################################################################################################
 <==========KIDS==========>
 
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/EniqUO.png",KIDS / ANAK-ANAK
@@ -1530,6 +1471,8 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
+
+################################################################################################################
 <==========ENTERTAINMENT==========>
 #EXTINF:-1 group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png",LIFESTYLE & ENTERTAINMENT
 
@@ -1661,6 +1604,7 @@ https://testfunctionlive.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
 
+################################################################################################################
 <==========NEWS==========>
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Enis4n.png",NEWS / BERITA
 
@@ -1794,6 +1738,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #EXTINF:-1 tvg-id="" group-title="NEWS / BERITA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg",NHK World-Japan
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
+################################################################################################################
 <==========KNOWLEDGE==========>
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4JVKrZlAVv5V10whrCF_FS6n-zYkRg0xcW7kQMZ2oK2QjRwN1b_Znh8A4W-FAWeGteM&usqp=CAU",ENGETAHUAN & DOCUMENTARY
 
@@ -1847,8 +1792,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://testfunctionlive.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 
-
-
+################################################################################################################
 <==========SPORTS EXTRA==========>
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU84iBe-s0TNs2yt63FhldxXtacTB_oVHAth6jEhsAGUUHPb_gPqsDckJfXLtT-QKggO8&usqp=CAU",🏆 SPORTS EXTRA 🏆
@@ -2061,7 +2005,6 @@ http://dns.acaidopara.net:8080/5087405929/7405929508/1536
 http://dns.acaidopara.net:8080/5087405929/7405929508/1537
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VDBZwNy/Fight-Network.jpg" group-title="🏆 SPORTS EXTRA 🏆", Fight Network
 http://dns.acaidopara.net:8080/5087405929/7405929508/1538
-
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="🏆 SPORTS EXTRA 🏆", Premier Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2430,8 +2373,6 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
 #EXTINF:-1 group-title="🏆 SPORTS EXTRA 🏆" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",AstroSupersport 4
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 
-####### CHANNEL | SPORTS ##########
-
 #EXTINF: -1 tvg-id="Sports 18 - 1" tvg-logo="https://i.ibb.co/QC2VzsK/sports18.png" group-title="🏆 SPORTS EXTRA 🏆", SPORTS 18 Khel 🇮🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
@@ -2480,6 +2421,7 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 #EXTINF:-1 group-title="🏆 SPORTS EXTRA 🏆" tvg-logo="https://i.ibb.co/303CRWG/soccer.jpg", Soccer Channel
 
 
+################################################################################################################
 <========== SPORTS INDONESIA ==========>
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU84iBe-s0TNs2yt63FhldxXtacTB_oVHAth6jEhsAGUUHPb_gPqsDckJfXLtT-QKggO8&usqp=CAU",🏆 SPORTS INDONESIA 🏆
 
@@ -2533,6 +2475,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV 2 - [Channel 308].id" group-title="🏆 SPORTS INDONESIA 🏆" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+
+################################################################################################################
 <========== MUSIK TV ==========>
 
 #EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/182/465/png-clipart-mtv-logo-tv-television-music-video-others-miscellaneous-television.png",TV MUSIK
@@ -2666,7 +2610,9 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12792.m3u8|User-Age
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VEVO POP" tvg-logo="https://play.gachor99.my.id:443/images/Ew7KWgEVPBJlBK0JSddniCUHJM7CpPYrrinbVIK2op6wNIXJpVztAm-jyrvgNVEXDl1p-JMwmfzGXpFK3t7ByA.png" group-title="TV MUSIK",VEVO POP
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12793.m3u8|User-Agent=OTT Naviga
 
-<========== RELIGI ==========>
+
+################################################################################################################
+<========== AGAMA / RELIGI ==========>
 
 #EXTINF:-1 group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png",AGAMA / RELIGI
 
@@ -2738,6 +2684,8 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
+
+################################################################################################################
 <========== Murrottal Alqur'an 30 juz ==========>
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqssJl_ttL0FahZh5ilrYhif3t_N7DtslZUceWl1YWXUZvcdyJUtK1ESIDvpZj81PeQlw&usqp=CAU",MURROTAL AL-QURAN
@@ -2862,6 +2810,9 @@ http://j.mp/2bFRyBF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFREcc
 
+
+
+################################################################################################################
 <================ KOREA ===================>
 #EXTINF:-1 group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png",KOREA TV
 
@@ -2923,6 +2874,8 @@ https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="https://e1.pngegg.com/pngimages/722/720/png-clipart-korean-drama-ico-korean-drama-512x512-icon-thumbnail.png" group-title="KOREA TV",Kpop SHow
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
+
+################################################################################################################
 <================ RADIO ===================>
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="RADIO",Nagaswara POP
@@ -3327,9 +3280,6 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
 
 
-#EXTINF:-1 tvg-logo=" ",CEK
-
-
 ######################################################################################
 <==========MOVIES==========>
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",FILM MOVIES
@@ -3505,6 +3455,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 =============================================
 
 
+################################################################################################################
 <==========HBO GROUP==========>
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYd7B0ThmdKZ7lRfkmKrUq4b3XlfFdbpvqfQGSAmyPfm8WupTzbYUo4IWb2jlNZH9ji0&usqp=CAU",HBO GROUP
 
@@ -3569,6 +3520,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 ===========================================================
 ===========================================================
 
+################################################################################################################
+#################### HBO GO ASIA VOD #######################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBO GO VOD 🎥
 
 
@@ -6918,3 +6871,14 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/653f6908d940521074e
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6010249c6d048943f772720c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 
+
+
+################################################################################################################
+###################### YOUTUBE FAVORIT ###########################
+#EXTINF:-1 group-logo="https://seeklogo.com/images/Y/youtube-logo-51CDA55827-seeklogo.com.png",YOUTUBE FAVORIT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="YOUTUBE FAVORIT", ALAM SEMENIT
+https://www.youtube.com/@AlamSemenit
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="YOUTUBE FAVORIT", BEST DOCUMENTARI
+https://www.youtube.com/watch?v=WA6LtwfHXmI
