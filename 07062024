@@ -1695,6 +1695,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 <==========KNOWLEDGE==========>
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4JVKrZlAVv5V10whrCF_FS6n-zYkRg0xcW7kQMZ2oK2QjRwN1b_Znh8A4W-FAWeGteM&usqp=CAU",ENGETAHUAN & DOCUMENTARY
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
