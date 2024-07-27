@@ -172,11 +172,11 @@ http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
 
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/EniO1q.png",SPESIAL INDOSIAR
 
-#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR RIMBA TV
+#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",INDOSIAR RIMBA TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.fdcdn.xyz/v11/?id=e1jygQx&theme_id=vebotv&t=1&n=Backup1&c=&link=https%3A%2F%2Fapisportvb90xltcbk-secure.nsnd.live%2FnI7l71q73lpDwSOe7yK7dA%2FFv2lucGIbhPi2caWYvF5Lg%2F1722018822786%2Flive%2Fsd-6MsGPztbfGAfw25nVq%2Fplaylist.m3u8
 
-#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR THAILAND
+#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",INDOSIAR THAILAND
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://xyssatu.pages.dev/hls/ttsd.m3u8
 
@@ -184,17 +184,17 @@ https://xyssatu.pages.dev/hls/ttsd.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 intent://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1722008017~acl=/drm/dash/*~id=161176528~hmac=4be6dec1245001511ab681c8d3c7ec1682619a7e78c016f7e64ec51a3df973b1|User-Agent=Mozilla/5.0&drmScheme=clearkey&drmLicense=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LSBTV;end
 
-#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR xPLAY2
+#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",INDOSIAR xPLAY2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=161176528~hmac=4be6dec1245001511ab681c8d3c7ec1682619a7e78c016f7e64ec51a3df973b1
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd
 
-#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR xPLAY3
+#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",INDOSIAR xPLAY3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=drmLicense=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd
 
-#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR xPLAY4
+#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",INDOSIAR xPLAY4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd
