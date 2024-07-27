@@ -182,6 +182,12 @@ http://stb.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8da.m3u8
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="SPESIAL INDOSIAR",INDOSIAR 3
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
 
+#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",SCTV xSTREAM
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="🏆 BADMINTON / BULU TANGKIS 🏆",BWF 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey&drmLicense
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd
 
 
 ==============================================================
