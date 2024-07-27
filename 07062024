@@ -67,6 +67,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3
 ################  OLIMPIADE PARIS  ################  
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMYYHbBAFaoVc3e_7REhTQ1Q8HBgyjLWN8qkmjKFVrGsSCd_LHZbIvFi0qJpLUR_yweM&usqp=CAU",🏆 OLIMPIADE PARIS 2024 🏆
 
+#EXTINF:-1 group-title="🏆 OLIMPIADE PARIS 2024 🏆" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV no acak 1
+http://xtv.ooo:8080/live/83212539/43153928/351030.ts
+
+#EXTINF:-1 tvg-id="" group-title="🏆 OLIMPIADE PARIS 2024 🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 3
+http://iptvtree.net:8080/everton/7def2e7e/162141
+
+#EXTINF:-1 tvg-id="" group-title="🏆 OLIMPIADE PARIS 2024 🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 3
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🏆 OLIMPIADE PARIS 2024 🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 4
+http://108.181.123.13:8070/live/AmirBilali/76448035/162141.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
