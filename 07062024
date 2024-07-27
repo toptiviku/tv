@@ -120,11 +120,9 @@ intent://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1722008017~acl=/drm/dash/*~id=161176528~hmac=4be6dec1245001511ab681c8d3c7ec1682619a7e78c016f7e64ec51a3df973b1|User-Agent=Mozilla/5.0&drmScheme=clearkey&drmLicense=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LSBTV;end
 
-#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR xPLAY2 TEST
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=161176528~hmac=4be6dec1245001511ab681c8d3c7ec1682619a7e78c016f7e64ec51a3df973b1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd
+#EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",INDOSIAR XYSSATU
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://itv.xyssatuu.workers.dev/https://pull.niues.live/live/stream-9912050_lsd.m3u8
 
 #EXTINF:-1 group-title="SPESIAL INDOSIAR" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 1
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
