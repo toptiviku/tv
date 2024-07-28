@@ -152,6 +152,41 @@ https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/ma
 #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
 
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 254
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 255
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 256
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 257
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 258
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
+
 =====================
 
 
