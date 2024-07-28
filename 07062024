@@ -152,41 +152,44 @@ https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/ma
 #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 254
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="🏆 OLIMPIADE PARIS 2024 🏆",IT | Sky Sports Main Event HD 254
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd
 
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 255
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="🏆 OLIMPIADE PARIS 2024 🏆",IT | Sky Sports Main Event HD 255
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd
 
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 256
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="🏆 OLIMPIADE PARIS 2024 🏆",IT | Sky Sports Main Event HD 256
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd
 
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 257
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="🏆 OLIMPIADE PARIS 2024 🏆",IT | Sky Sports Main Event HD 257
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd
 
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="7. CHANNEL | OLAH RAGA DUNIA",IT | Sky Sports Main Event HD 258
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="🏆 OLIMPIADE PARIS 2024 🏆",IT | Sky Sports Main Event HD 258
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
 
+#EXTINF:-1 tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/qing2/master/Screenshot_2024-07-26-08-52-43-880_com.opera.mini.native-edit.jpg" group-title="🏆 OLIMPIADE PARIS 2024 🏆",PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
 =====================
 
 
@@ -2509,6 +2512,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV 2 - [Channel 308].id" group-title="🏆 SPORTS INDONESIA 🏆" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="🏆 SPORTS INDONESIA 🏆" , Unifi (UFC live) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ################################################################################################################
 <========== MUSIK TV ==========>
