@@ -293,36 +293,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+
 =====================================================================
-
-############  BRI LIGA 1 ############ 
-#EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg",🏆 BRI LIGA 1 🏆
-
-#EXTINF:0 tvg-id="" tvg-name="INFO"  tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="🏆 BRI LIGA 1 🏆",INDOSIAR 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzskyrR98UXHe9FL_m7VFheY/ts
-
-#EXTINF:-1 group-title="🏆 BRI LIGA 1 🏆" tvg-id="mncsports3.id" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",Liga 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
- 
-#EXTINF:-1 group-title="🏆 BRI LIGA 1 🏆" tvg-id="mncsports3.id" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",Liga 1
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
- 
-#EXTINF:-1 group-title="🏆 BRI LIGA 1 🏆" tvg-id="mncsports3.id" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",Liga 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
- 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🏆 BRI LIGA 1 🏆", INDOSIAR 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
 <========== 👑EVENT MOTO GP👑 ==========>
 #EXTINF:-1 group-logo="https://i.ibb.co.com/m8w2PMq/moto-gp.png",🏍️ EVENT MOTO GP 🏍️
 
