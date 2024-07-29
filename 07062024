@@ -397,9 +397,9 @@ http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/306/2024/07/11/Logo-Piala-Presiden-Twitter-4269523415.png", tvg-id="ksport1hd" group-title="🏆 PIALA PRESIDEN / U19 🏆", LIGA INDO U19
-#http://premiumiptvmk.com:8080//live/e9cd5f24/079fd2c9/162138.ts
-http://master-stream.my.id/live/EEF121338D194DA97F972D6272CA2BB3/252|User-Agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+https://thedream.biz.id/live/esceteve.m3u8
 
 ====================
 
