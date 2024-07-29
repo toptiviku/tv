@@ -201,8 +201,13 @@ https://thedream.biz.id/live/endosiar.m3u8
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/esceteve.m3u8
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/cdc1b72c3bb9f35f3bc27530aad3504e.png" group-title="🏆 OLIMPIADE PARIS 2024 🏆",CCTV 5+
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/302334
+
+
 =====================
 /⭕⭕////OLYMP/////
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMYYHbBAFaoVc3e_7REhTQ1Q8HBgyjLWN8qkmjKFVrGsSCd_LHZbIvFi0qJpLUR_yweM&usqp=CAU",⭕Olympic 2024
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="⭕Olympic 2024",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -213,6 +218,9 @@ https://thedream.biz.id/live/endosiar.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/esceteve.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/cdc1b72c3bb9f35f3bc27530aad3504e.png" group-title="⭕Olympic 2024",CCTV 5+
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/302334
 
 #EXTINF:-1 group-title="⭕Olympic 2024" tvg-logo="https://raw.githubusercontent.com/eepunx/qing2/master/Screenshot_2024-07-26-08-52-43-880_com.opera.mini.native-edit.jpg",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -410,7 +418,10 @@ https://thedream.biz.id/live/endosiar.m3u8
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/esceteve.m3u8
 
-#EXTINF:-1 group-title="🏆 INDOSIAR SCTV MOJI NO ACAK 🏆" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",INDOSIAR RIMBA TV
+#EXTINF:-1 group-title="🏆 INDOSIAR SCTV MOJI NO ACAK 🏆" tvg-logo="https://thumbor.prod.vidiocdn.com/modYefAxqva6RNHQfcBSELn-c5M=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/338/asean-u19-ee4d40.png" , RMBTV
+http://1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w1087499960_b1800000_sleng.m3u8
+
+#EXTINF:-1 group-title="🏆 INDOSIAR SCTV MOJI NO ACAK 🏆" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",RIMBA TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://i.fdcdn.xyz/v11/?id=e1jygQx&theme_id=vebotv&t=1&n=Backup1&c=&link=https%3A%2F%2Fapisportvb90xltcbk-secure.nsnd.live%2FnI7l71q73lpDwSOe7yK7dA%2FFv2lucGIbhPi2caWYvF5Lg%2F1722018822786%2Flive%2Fsd-6MsGPztbfGAfw25nVq%2Fplaylist.m3u8
 
