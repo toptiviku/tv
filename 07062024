@@ -408,12 +408,12 @@ http://master-stream.my.id/live/EEF121338D194DA97F972D6272CA2BB3/252|User-Agent=
 
 #EXTINF:-1 group-logo="https://www.idxsport.com/wp-content/uploads/2024/05/Paris2024_OlyEmbleme_RVB_Poly_2021.png-696x696.png.webp",🏆 INDOSIAR SCTV MOJI NO ACAK 🏆
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="⭕ OLIMPIADE PARIS 2024 ⭕",Indosiar
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="🏆 INDOSIAR SCTV MOJI NO ACAK 🏆",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/endosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="⭕ OLIMPIADE PARIS 2024 ⭕",SCTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="🏆 INDOSIAR SCTV MOJI NO ACAK 🏆",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/esceteve.m3u8
