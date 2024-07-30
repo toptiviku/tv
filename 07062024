@@ -226,6 +226,13 @@ http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/302334
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)",01 EUROSPORT 1 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)",01 EUROSPORT 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCNXlFZmM4QmtXdWcyS0lvM1Y5MEl2eGNObC1pTTluQU94RFByMTBwU0ozTkRSRGVKQkswaDRmdGJta1BzQkFJS0FpRmhiTGtseGFNQTBRUjZFOEdwU3Fvd1Nta2JKczEtM01hX0swcVpGamRPUERvQkI3eWNBYkszbTFid3IwczQ5Mi1jcTBJVUFzUm15N0JGbkdQN3BXZWE2R0VVakpUeWwtVUlwWlFXTXpXUTBxcHZUS1RwWFdDcm9NRDJaRkVyMUhMTjNYdnJiNk5LM2JDZEFMbXB3VURrVFFjcmxySW5MNC16eENkOXUxa0xwLWVTQTZ1ZmUxUGltQW1scjkxeTREWjRQWWJLd1Y0Qk1JNXdNN2FIYjdWamRtODZNdTlmdHpzUjMzeXFMZG9rQjRfMzlFdi1hZFMyazZuUEpGUERnNTduWW0wWHk4U2pGcG1GWmR6eVk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MjAxMTA5NzYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2NfZ2FtZXMxOV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkI1eUVmYzhCa1d1ZzJLSW8zVjkwSXZ4Y05sLWlNOW5BT3hEUHIxMHBTSjNORFJEZUpCSzBoNGZ0Ym1rUHNCQUlLQWlGaGJMa2x4YU1BMFFSNkU4R3BTcW93U21rYkpzMS0zTWFfSzBxWkZqZE9QRG9CQjd5Y0FiSzNtMWJ3cjBzNDkyLWNxMElVQXNSbXk3QkZuR1A3cFdlYTZHRVVqSlR5bC1VSXBaUVdNeldRMHFwdlRLVHBYV0Nyb01EMlpGRXIxSExOM1h2cmI2TkszYkNkQUxtcHdVRGtUUWNybHJJbkw0LXp4Q2Q5dTFrTHAtZVNBNnVmZTFQaW1BbWxyOTF5NERaNFBZYkt3VjRCTUk1d003YUhiN1ZqZG04Nk11OWZ0enNSMzN5cUxkb2tCNF8zOUV2LWFkUzJrNm5QSkZQRGc1N25ZbTBYeThTakZwbUZaZHp5WT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=seivyISHbdZgk%2bOfkvk0rAfP%2fDs%3d
