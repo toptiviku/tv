@@ -555,6 +555,7 @@ https://wacthstream.com/stream_live/604_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",🏆Paris 2024 | Olympics
 
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FR FRANCE TV PARIS 2024 FHD
 http://extraott.com:80/live/5301246455/1849687755/400216157.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FR FRANCE TV PARIS 2024 FHD
 http://extraott.com:80/live/5301246455/1849687755/42985.m3u8
