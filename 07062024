@@ -19,7 +19,7 @@ COPA AMERICA
 
 
 
-#EXTM3U billed-msg="OM IDIQ TV` | PERPANJANG LAYANAN 50.000/TAHUN | BERAKHIR 31 AGUSTUS 2025  !!.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
+#EXTM3U billed-msg="⚠️INFO LAYANAN BERAKHIR 31 AGUSTUS 2025` | BIAYA LAYANAN 50.000/TAHUN | QRIS https://bit.ly/bayartv1 | WHATSAPP https://bit.ly/admintv1 ", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/au/Melbourne/epg.xml"  refresh="3600"
 
@@ -27,19 +27,19 @@ COPA AMERICA
 
 
 ################  INFORMASI #################
-#EXTINF:-1 group-logo="https://www.smpn03batu.sch.id/upload/imagecache/44508792template-pin-warna-merah-800x800.png",0⚠️ INFORMASI TV OM IDIQ ⚠️0
+#EXTINF:-1 group-logo="https://www.smpn03batu.sch.id/upload/imagecache/44508792template-pin-warna-merah-800x800.png",0⚠️ INFORMASI BERLANGGANAN ⚠️0
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF1Nq2TuWSkcR6xBlBaNOTQNpbKLdkZT5owg&s" group-title="0⚠️ INFORMASI TV OM IDIQ ⚠️0", a INTERNET PROTOCOL TV PRIBADI !
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF1Nq2TuWSkcR6xBlBaNOTQNpbKLdkZT5owg&s" group-title="0⚠️ INFORMASI BERLANGGANAN ⚠️0", a INTERNET PROTOCOL TV PRIBADI !
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/799/714/png-transparent-blue-h-letter-alphabet-letters-letters-and-numbers-icon.png" group-title="0⚠️ INFORMASI TV OM IDIQ ⚠️0", b TIDAK UNTUK DISHARE!
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/799/714/png-transparent-blue-h-letter-alphabet-letters-letters-and-numbers-icon.png" group-title="0⚠️ INFORMASI BERLANGGANAN ⚠️0", b TIDAK UNTUK DISHARE!
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/82/105/png-transparent-i-letter-red-alphabet-letters-letters-and-numbers-icon.png" group-title="0⚠️ INFORMASI TV OM IDIQ ⚠️0", c BUKAN GRATISAN! Rp 50.000/ TAHUN
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/82/105/png-transparent-i-letter-red-alphabet-letters-letters-and-numbers-icon.png" group-title="0⚠️ INFORMASI BERLANGGANAN ⚠️0", c BUKAN GRATISAN! Rp 50.000/ TAHUN
 #EXTM3U
 #EXT-X-TARGETDURATION:10
 #EXT-X-ALLOW-CACHE:YES
@@ -48,7 +48,7 @@ https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/
 #EXT-X-MEDIA-SEQUENCE:1
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/185/png-clipart-yellow-product-design-pattern-letter-d-rectangle-orange-thumbnail.png" group-title="0⚠️ INFORMASI TV OM IDIQ ⚠️0", d KONFIRMASI WA https://bit.ly/admintv1
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/185/png-clipart-yellow-product-design-pattern-letter-d-rectangle-orange-thumbnail.png" group-title="0⚠️ INFORMASI BERLANGGANAN ⚠️0", d KONFIRMASI WA https://bit.ly/admintv1
 #EXTM3U
 #EXT-X-TARGETDURATION:10
 #EXT-X-ALLOW-CACHE:YES
@@ -57,10 +57,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 #EXT-X-MEDIA-SEQUENCE:1
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/593/922/png-clipart-letter-i-alphabet-others-miscellaneous-text-thumbnail.png" group-title="0⚠️ INFORMASI TV OM IDIQ ⚠️0", e BAYAR VIA QRIS https://bit.ly/bayartv1
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/593/922/png-clipart-letter-i-alphabet-others-miscellaneous-text-thumbnail.png" group-title="0⚠️ INFORMASI BERLANGGANAN ⚠️0", e BAYAR VIA QRIS https://bit.ly/bayartv1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210310/original/pngtree-letter-q-3d-purple-color-png-image_5956877.jpg" group-title="0⚠️ INFORMASI TV OM IDIQ ⚠️0", f Terima Kasih yang sudah Donasi
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20210310/original/pngtree-letter-q-3d-purple-color-png-image_5956877.jpg" group-title="0⚠️ INFORMASI BERLANGGANAN ⚠️0", f Terima Kasih yang sudah Donasi
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
