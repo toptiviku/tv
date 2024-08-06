@@ -2647,6 +2647,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.m
 <==========KNOWLEDGE==========>
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4JVKrZlAVv5V10whrCF_FS6n-zYkRg0xcW7kQMZ2oK2QjRwN1b_Znh8A4W-FAWeGteM&usqp=CAU",ENGETAHUAN & DOCUMENTARY
 
+#EXTINF:-1 group-title="PENGETAHUAN & DOCUMENTARY"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="PENGETAHUAN & DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
