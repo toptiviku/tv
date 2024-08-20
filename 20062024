@@ -23,7 +23,734 @@ COPA AMERICA
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/au/Melbourne/epg.xml"  refresh="3600"
 
 
+################  OLIMPIADE PARIS  ################  
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMYYHbBAFaoVc3e_7REhTQ1Q8HBgyjLWN8qkmjKFVrGsSCd_LHZbIvFi0qJpLUR_yweM&usqp=CAU",⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)
 
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV no acak 1
+http://xtv.ooo:8080/live/83212539/43153928/351030.ts
+
+#EXTINF:-1 tvg-id="" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
+http://iptvtree.net:8080/everton/7def2e7e/162141
+
+#EXTINF:-1 tvg-id="" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 3
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 4
+http://108.181.123.13:8070/live/AmirBilali/76448035/162141.ts
+
+#EXTINF:-1 tvg-id="" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI a
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
+
+#EXTINF:-1 tvg-id="" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI b
+http://194.120.144.74:8070/live/AmirBilali/76448035/298550.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)", EUROSPORT 1 
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)", EUROSPORT 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)", EUROSPORT 1 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)", EUROSPORT 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://mwmpos03.akamaized.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1 group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)",IT | Sky Sports Main Event HD 254
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)",IT | Sky Sports Main Event HD 255
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)",IT | Sky Sports Main Event HD 256
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)",IT | Sky Sports Main Event HD 257
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="IT | Sky Sports Main Event HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportsmainevent.png" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)",IT | Sky Sports Main Event HD 258
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
+
+#EXTINF:-1 tvg-url="" tvg-logo="https://raw.githubusercontent.com/eepunx/qing2/master/Screenshot_2024-07-26-08-52-43-880_com.opera.mini.native-edit.jpg" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)",PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+https://thedream.biz.id/live/endosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+https://thedream.biz.id/live/esceteve.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/cdc1b72c3bb9f35f3bc27530aad3504e.png" group-title="⭕ OLYMPIC PARIS 2024 ⭕ (Server 2)",CCTV 5+
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/302334
+
+
+=====================
+/⭕⭕////OLYMP/////
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMYYHbBAFaoVc3e_7REhTQ1Q8HBgyjLWN8qkmjKFVrGsSCd_LHZbIvFi0qJpLUR_yweM&usqp=CAU",⭕ OLIYMPIC 2024 ⭕ (Server 1)
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+https://thedream.biz.id/live/endosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+https://thedream.biz.id/live/esceteve.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/cdc1b72c3bb9f35f3bc27530aad3504e.png" group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)",CCTV 5+
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/302334
+
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-logo="https://raw.githubusercontent.com/eepunx/qing2/master/Screenshot_2024-07-26-08-52-43-880_com.opera.mini.native-edit.jpg",T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)",01 EUROSPORT 1 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)",01 EUROSPORT 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/singapore.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGaF9BRGF3U0xvT2pmMC1Jam9HbGRPZ3E3VERlSDFFa3FOUWlibUsxTFlDSFFyaUhyYnV5M2xaTmpQaE9vcUpHVUw4V1gzRUZvNmJ1M21fQTRVNGN2QlRKXzV2alBQeUJaQ3hnNWgxSHlIVndMaGFrbno2LTlOb1N4ZnRIUTN6cmNnUmpwZmVhOGdSVUdSYnNCN0FPUnhzeUxwRWQyX0ktRDlaMms3czVvdkJNVUExZE45UHhqbjdkbm5PWkYyNHVDdHR2MVZVT0RKbHFTdk5aY1EwbTZxUGtIdVdiVTJQa1FfdTRQR3ZJdGdXeGtfZ2dDdGdGYno2QWhrX3A1VWIxcnZhVTFUdV9GWm5tZzhYTzRkNmxRb0lsZGVyUXp5M1QtcW5ib2JaV19JU1BYM3FHeDFhX0hYQmZhY3VHTk4tSGtsWG9WYW5LRzR3cXR1MXFCd29KWjA9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRmhfQURhd1NMb09qZjAtSWpvR2xkT2dxN1REZUgxRWtxTlFpYm1LMUxZQ0hRcmlIcmJ1eTNsWk5qUGhPb3FKR1VMOFdYM0VGbzZidTNtX0E0VTRjdkJUSl81dmpQUHlCWkN4ZzVoMUh5SFZ3TGhha256Ni05Tm9TeGZ0SFEzenJjZ1JqcGZlYThnUlVHUmJzQjdBT1J4c3lMcEVkMl9JLUQ5WjJrN3M1b3ZCTVVBMWROOVB4am43ZG5uT1pGMjR1Q3R0djFWVU9ESmxxU3ZOWmNRMG02cVBrSHVXYlUyUGtRX3U0UEd2SXRnV3hrX2dnQ3RnRmJ6NkFoa19wNVViMXJ2YVUxVHVfRlpubWc4WE80ZDZsUW9JbGRlclF6eTNULXFuYm9iWldfSVNQWDNxR3gxYV9IWEJmYWN1R05OLUhrbFhvVmFuS0c0d3F0dTFxQndvSlowPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=1u7YrFUsnCdv2IqM3aQ63aGgfpg%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKRS1JQ1ZMRldRZFRQdTVxWTVqakVjcGlSZ3NRbmVWb2ZzN1JhaUN6UU9pQWwxUHdxaV9nOFNWQjhSWG9FZTQ5cUh6UGtLbjBGaVZZcTFVM1pEZHp1WVoyaE5WU2hnUHpCTEg1S2xFUk1sc05sMHAxc21lOFpwVmFscEwxSFRvb1N4cFlGb0UyYlF1blNMQjI4NThxNVZ0R1BNWExPUldmTmZVeEFrZDFQY2VrUUxMQUdEYUxLaUdxdmxCT3pQYlNiNHNSR1NRdXZMVFNFUlV6Y1YzXzlQRnJ2cDhjUFlfX0FaRDIweEZIbjQyZGVIaExKQ3dLOTE4ZEZVSmUxc0JFdUFDMDZzcGdoc0FjWTc3VG9HOXpMZkc1eHVZbkVkZFYyZ1B1TzlHVWFuTUhDei15MktTb0NTWWFMSmVmVG9WMUNZN3hXOTRTLTdyaS14MXRIS3MzbDQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSkUtSUNWTEZXUWRUUHU1cVk1ampFY3BpUmdzUW5lVm9mczdSYWlDelFPaUFsMVB3cWlfZzhTVkI4UlhvRWU0OXFIelBrS24wRmlWWXExVTNaRGR6dVlaMmhOVlNoZ1B6QkxINUtsRVJNbHNObDBwMXNtZThacFZhbHBMMUhUb29TeHBZRm9FMmJRdW5TTEIyODU4cTVWdEdQTVhMT1JXZk5mVXhBa2QxUGNla1FMTEFHRGFMS2lHcXZsQk96UGJTYjRzUkdTUXV2TFRTRVJVemNWM185UEZydnA4Y1BZX19BWkQyMHhGSG40MmRlSGhMSkN3SzkxOGRGVUplMXNCRXVBQzA2c3BnaHNBY1k3N1RvRzl6TGZHNXh1WW5FZGRWMmdQdU85R1Vhbk1IQ3oteTJLU29DU1lhTEplZlRvVjFDWTd4Vzk0Uy03cmkteDF0SEtzM2w0PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=OxkJwRYPTDz3woyM4Jy%2bdNsjBP0%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJandhc3dOTzU2UFg5Q2YwdFRWR0JsWjliQUY5LTJDSktQU00zc2M5Z01ZZzZmTkg3MzMzUnc0eV9mMUw0T3NTYVhMU0QwbUtVeDJLaDVxNk1oU0NkV3dBNERHNkphWWFxUmN6aEtlOVUxY3E0d3BtSFJVd2NqWDF5VDJGanUxeVZKQ3VEWnVuang2YjJXT3JST3pYZ3k0UTh4ZV9QbEtvYWdqYkRRVFFZZkRrd3g5SXFmdHlGNS1FNkpROWFOR2h5Nk1VRF81eGgzdGtvc0RIc2pwR0R0S2N1NE04cGt4WUlrRlAxV3MzZHRRUDF0czFIMWNLTzJMN3h4SXVJMGlHNldtSXZzYmdhRXg5VzhmRUpBYmVSbldOcFB1bHE0R2NPQW1NRTRRUzdvZUp1c2NLTm5ncXVIQ0lLb2VZQ0VNWXJCNlhrcXZrejlyU3dLQmhwWVU1VnVENFRncmxiTGc1Vmp5NUNpeEZreVImY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTU3IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaFVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZJandhc3dOTzU2UFg5Q2YwdFRWR0JsWjliQUY5LTJDSktQU00zc2M5Z01ZZzZmTkg3MzMzUnc0eV9mMUw0T3NTYVhMU0QwbUtVeDJLaDVxNk1oU0NkV3dBNERHNkphWWFxUmN6aEtlOVUxY3E0d3BtSFJVd2NqWDF5VDJGanUxeVZKQ3VEWnVuang2YjJXT3JST3pYZ3k0UTh4ZV9QbEtvYWdqYkRRVFFZZkRrd3g5SXFmdHlGNS1FNkpROWFOR2h5Nk1VRF81eGgzdGtvc0RIc2pwR0R0S2N1NE04cGt4WUlrRlAxV3MzZHRRUDF0czFIMWNLTzJMN3h4SXVJMGlHNldtSXZzYmdhRXg5VzhmRUpBYmVSbldOcFB1bHE0R2NPQW1NRTRRUzdvZUp1c2NLTm5ncXVIQ0lLb2VZQ0VNWXJCNlhrcXZrejlyU3dLQmhwWVU1VnVENFRncmxiTGc1Vmp5NUNpeEZreVIiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=Vv%2flYRpWCsKXf%2fSsKD6RC%2f%2birvs%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEV0dVdnp6SkgzS0dUaGJ3OUJ6UEhQRkJWdlNFZDBSMWxjTkNkTkprMm5qTnVEbzZKWm16aDl0UnRwN1gtTllDb2tMOWh3UTBPeEI5c3pGUkRqVjRNZGxyM1BoanVBMEU1OHQxYzNtV0NidGd3a3VTY3pRcXZCczlnSnpxNlIzOWUxSVBxbHYyQ2t5WVhROEVJb1g2cnZRZ3d2VW94al9NMldLYlpyNzVIYVE5ZWZnbkhuSDhRSTZUSHBINjJFQlFXdW9yZFN0bURBT0tXZk84LW5lY3dONF9PbUp2REZWV0tzOWZfQ2h1c3JLcmFQOThMQW9JZEhPQ1BJMDFMUVRWSDRmOGNSYUYyUUppbVhzcld1OTBjbkc5LU41aEplR0lCQ2R4ZUFTMENkbDkzRjN1QmZIUnhQTlFVNlVBNWN4UVE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZEV0dVdnp6SkgzS0dUaGJ3OUJ6UEhQRkJWdlNFZDBSMWxjTkNkTkprMm5qTnVEbzZKWm16aDl0UnRwN1gtTllDb2tMOWh3UTBPeEI5c3pGUkRqVjRNZGxyM1BoanVBMEU1OHQxYzNtV0NidGd3a3VTY3pRcXZCczlnSnpxNlIzOWUxSVBxbHYyQ2t5WVhROEVJb1g2cnZRZ3d2VW94al9NMldLYlpyNzVIYVE5ZWZnbkhuSDhRSTZUSHBINjJFQlFXdW9yZFN0bURBT0tXZk84LW5lY3dONF9PbUp2REZWV0tzOWZfQ2h1c3JLcmFQOThMQW9JZEhPQ1BJMDFMUVRWSDRmOGNSYUYyUUppbVhzcld1OTBjbkc5LU41aEplR0lCQ2R4ZUFTMENkbDkzRjN1QmZIUnhQTlFVNlVBNWN4UVE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=uBAUj%2bXT%2fVJJ8DlH6oTVAvnsTJ0%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDc19jNWQ3SE9EU2tRRVpqV000THV6aGk0SENVTTdtcW1MUWVDSkw5bVktM2tDZWNsMlpDcHJFbUdwTWtxOUZTbEFOWEZReGxmbnozS1cxemRVZ21xVlVnQ1hmUnROeWt5Z01LQ0toSEZMZ0pCN2ZyWUNDTTRDVWZ6UF9jT0d5RkhPXzlabjBFemxDc081aUpWc2hYTzF3NVotYlJ1SEFrZzNVd2k3RGZmZV9TUWp6RDhrSXVDX3ExSlZFWkxjUTFjNVJyMWx2YlJ2OHY1TlZXQ2UtLWx5QnlmMnZpLVlZTTE3Y2Rxal82X3dBdzMxX1RwU1NQcnZ1YUE5R2JfV2YzcnZWZDliRFllVFVSblR1YVdnUGVBNVB1d01Gc0xMeWZmemtaaExWWmNKR0NONGwwaDhaU0lScEFLbkVscWdpNTE4MThUdWlRTm0zSF8tR3dqbl8wUFk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZDc19jNWQ3SE9EU2tRRVpqV000THV6aGk0SENVTTdtcW1MUWVDSkw5bVktM2tDZWNsMlpDcHJFbUdwTWtxOUZTbEFOWEZReGxmbnozS1cxemRVZ21xVlVnQ1hmUnROeWt5Z01LQ0toSEZMZ0pCN2ZyWUNDTTRDVWZ6UF9jT0d5RkhPXzlabjBFemxDc081aUpWc2hYTzF3NVotYlJ1SEFrZzNVd2k3RGZmZV9TUWp6RDhrSXVDX3ExSlZFWkxjUTFjNVJyMWx2YlJ2OHY1TlZXQ2UtLWx5QnlmMnZpLVlZTTE3Y2Rxal82X3dBdzMxX1RwU1NQcnZ1YUE5R2JfV2YzcnZWZDliRFllVFVSblR1YVdnUGVBNVB1d01Gc0xMeWZmemtaaExWWmNKR0NONGwwaDhaU0lScEFLbkVscWdpNTE4MThUdWlRTm0zSF8tR3dqbl8wUFk9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=iAG710duRaV7xCRfB5zi0LO6HfU%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBQ3ZjOEM3YUUtTC1JTjhOeDZ5LUxtbXlFYmYzSWZ1dTVBMEk2TFZpdHVyZ1k3QUE3SHdUUUxxdDREWUhUdk9BeEpmal9IZ1ZkdzBJQWNyTk5hZ2FvVm42ejRxM3pJOUUxdVJkenZxVDhSMGNzX3dWenhpanhMRHBkN0RfU0RPZUZxTkpMZE5BWkd6c3lVZzhxbEliSlZfU3RJUDZ6WFdyb3lSbzZiUkdEOXdCaUVXRjEySWtMWDEzdC02ZU5RMlljb1RNbmRDSGh2bExSLXk5TEVQWEJJUFVzUDNaa2JPeENIckc2ZlJMRkZ4SDVoeUVBMUotTTB3TWF0ME8yZEQ5TTVmN1FLNElpMEtFYlI2WkZER1ZyVmJCRVNKTGNVTGVvRW01VkZjaDBTenZadzVkLUh5TXM1RDNUOW51UE9RSlZXRHV4a2ZXS25FZC1sSmxxTlRmQld2WER4bllJWnlvT2xPN2pMTjQ5Z3omY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZBQ3ZjOEM3YUUtTC1JTjhOeDZ5LUxtbXlFYmYzSWZ1dTVBMEk2TFZpdHVyZ1k3QUE3SHdUUUxxdDREWUhUdk9BeEpmal9IZ1ZkdzBJQWNyTk5hZ2FvVm42ejRxM3pJOUUxdVJkenZxVDhSMGNzX3dWenhpanhMRHBkN0RfU0RPZUZxTkpMZE5BWkd6c3lVZzhxbEliSlZfU3RJUDZ6WFdyb3lSbzZiUkdEOXdCaUVXRjEySWtMWDEzdC02ZU5RMlljb1RNbmRDSGh2bExSLXk5TEVQWEJJUFVzUDNaa2JPeENIckc2ZlJMRkZ4SDVoeUVBMUotTTB3TWF0ME8yZEQ5TTVmN1FLNElpMEtFYlI2WkZER1ZyVmJCRVNKTGNVTGVvRW01VkZjaDBTenZadzVkLUh5TXM1RDNUOW51UE9RSlZXRHV4a2ZXS25FZC1sSmxxTlRmQld2WER4bllJWnlvT2xPN2pMTjQ5Z3oiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=S%2b1HGpjx%2fv6wq96qMkFH7ak6nJk%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLVkF5eDRHVVdrZ0lucnVweUxGTnVzQzdJTVB4dG40YWNsQ0xCc2VLRW5Ea2pLWW9JRjNWenlZd3NxS3NKYUNWYXFNcEd1eFVEWE9JYXhpV2FrMVZMWldDVHFCWjg1ZWVhdVh4VnBmNzBKMElwc3RoRmxHUzhxaWxHc2trNFdYQmhSRVM5elFmOF83eWtIVGtGNktra3JVYl9vMU80aTZMMWxjclh2N3Q3cmpxTUdpNnE3ajV6VGw1ZWpFMW1RMU41YTcyZ0Q2R3pKeTRCRTluQU5PU0Z5MGhaTFVVMkdqdmg5WkRReWR6a3JFOXV0cmZtdW9ZZHo1YWhpTnFyZ0hLbkRWWUxxNElMSTNrY19ZWTVUMnNXcnV2ZGlnMnJWcWNHeFE2bGZIMWM1eSZjb250ZXh0VHlwZT1ub25lJmlkPTIwMDYxNDAxIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX2dhbWVzMDFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZLVkF5eDRHVVdrZ0lucnVweUxGTnVzQzdJTVB4dG40YWNsQ0xCc2VLRW5Ea2pLWW9JRjNWenlZd3NxS3NKYUNWYXFNcEd1eFVEWE9JYXhpV2FrMVZMWldDVHFCWjg1ZWVhdVh4VnBmNzBKMElwc3RoRmxHUzhxaWxHc2trNFdYQmhSRVM5elFmOF83eWtIVGtGNktra3JVYl9vMU80aTZMMWxjclh2N3Q3cmpxTUdpNnE3ajV6VGw1ZWpFMW1RMU41YTcyZ0Q2R3pKeTRCRTluQU5PU0Z5MGhaTFVVMkdqdmg5WkRReWR6a3JFOXV0cmZtdW9ZZHo1YWhpTnFyZ0hLbkRWWUxxNElMSTNrY19ZWTVUMnNXcnV2ZGlnMnJWcWNHeFE2bGZIMWM1eSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=SsH4Z5Nj9UDxwlyqz3PKVittXrI%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="469467" tvg-chno="469467" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7914205'&EntityType='Item'&EntityId='472858'&Width=1024&Height=576",Paris 2024 CH01
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586981/assetType/media/assetFileId/20061401/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZINnpkODY1Ymw1ZU9uZl9icTY4aUNBU2xoYzZZTFhMTWRadkR0amFidnRtb1oxdVdXUURTUFJuVmNPNHlIdkNQTVROVGpYV1Z1ZmFPeFFwVnR0WkM4bVRzaElJQ1VMTmg3WXdfN3NvbzBrQ0J3a3pLT01kcFZ5TldFWFR1WW5PUTBtSXhVck11ZUQxSDJwOElpaF80ZGowbnNvRnBjX3RKNmVualU5S0NZZlFCWmNNaVJhSUhoNGV6NmJTb0xVeUI3a1ZxUWRYUnBxeW84SC1YcnpHMWZBVFlxeGhpRkljaXFtOS1IMzVJdVllZ04wNE00NU55dXFldDEwNU55WHNuRTRlOFNKUjBFZUJ1RU93czlhU0VNQWVSUVVIamo1ZnVpVHdkeFMwX25UVXp4Q196TEl3cXRQeC1QZFc0SGc4NUE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTIwMDYxNTcxIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX2dhbWVzMDJfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZINnpkODY1Ymw1ZU9uZl9icTY4aUNBU2xoYzZZTFhMTWRadkR0amFidnRtb1oxdVdXUURTUFJuVmNPNHlIdkNQTVROVGpYV1Z1ZmFPeFFwVnR0WkM4bVRzaElJQ1VMTmg3WXdfN3NvbzBrQ0J3a3pLT01kcFZ5TldFWFR1WW5PUTBtSXhVck11ZUQxSDJwOElpaF80ZGowbnNvRnBjX3RKNmVualU5S0NZZlFCWmNNaVJhSUhoNGV6NmJTb0xVeUI3a1ZxUWRYUnBxeW84SC1YcnpHMWZBVFlxeGhpRkljaXFtOS1IMzVJdVllZ04wNE00NU55dXFldDEwNU55WHNuRTRlOFNKUjBFZUJ1RU93czlhU0VNQWVSUVVIamo1ZnVpVHdkeFMwX25UVXp4Q196TEl3cXRQeC1QZFc0SGc4NUE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=W6mC2RbvS3dzyh1c1deSenmRyHc%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="469475" tvg-chno="469475" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7914214'&EntityType='Item'&EntityId='472859'&Width=1024&Height=576",Paris 2024 CH02
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586982/assetType/media/assetFileId/20061571/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJTEVldWhjREUxYm9XNk9nZU0yWGZaR0JpWFUtSWlkMEtEUFZLTlkzVTF2WGlGZE5DTTR6NXBBUjNwZDdNRVZXa01tTno1eFd4UHk2ZEE0cHlZZjI2WUFyZmRjTEVGc1lYSUJySWt0eG5hMDlQZGxCaVpEWXdWMTRxUjNEMjZ6UVg2LS1zcEZ3WUFuMTE0VV96QVNJX2syd3RPeTFyTXZNUmpvcXpjcWRtR3NXX09ma3VkX0RhcmJjRUZEQ0tQcHpERU41U051RW1DZXg2Z29JSW5wV2JZdW9CVEdwZ1pYMFk4Qkg0a2dFMlBhaEdRWTh5d1FKOUdDTlk2S25xeUM1dTc1d3Q0WjVUUlBkYkhwVzVnRHBJb3hVVDRQbXVUay1kZS1BS3A4bkhBWkdQdG9BUURraG9LVm9fNThqVUFGdEE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTIwMDY0NzUyIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX2dhbWVzMDNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZJTEVldWhjREUxYm9XNk9nZU0yWGZaR0JpWFUtSWlkMEtEUFZLTlkzVTF2WGlGZE5DTTR6NXBBUjNwZDdNRVZXa01tTno1eFd4UHk2ZEE0cHlZZjI2WUFyZmRjTEVGc1lYSUJySWt0eG5hMDlQZGxCaVpEWXdWMTRxUjNEMjZ6UVg2LS1zcEZ3WUFuMTE0VV96QVNJX2syd3RPeTFyTXZNUmpvcXpjcWRtR3NXX09ma3VkX0RhcmJjRUZEQ0tQcHpERU41U051RW1DZXg2Z29JSW5wV2JZdW9CVEdwZ1pYMFk4Qkg0a2dFMlBhaEdRWTh5d1FKOUdDTlk2S25xeUM1dTc1d3Q0WjVUUlBkYkhwVzVnRHBJb3hVVDRQbXVUay1kZS1BS3A4bkhBWkdQdG9BUURraG9LVm9fNThqVUFGdEE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=PdwRE9nexipD2Ti%2fXYmQ14mwEnU%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="469700" tvg-chno="469700" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7914218'&EntityType='Item'&EntityId='472861'&Width=1024&Height=576",Paris 2024 CH03
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586983/assetType/media/assetFileId/20064752/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLOXQ2OVZZRF8wS0Y5QnN4dkxSS2pHRXRXMVlNWG1JRjhRMVl4ZWJvdWt3U1BWUEVRUGtBTzczeDRBUFl5YUFLQ1VsZ0doTk0wb0NUSS1IZmJoZDZEZ0RJcDNITUprMGs4c202SFZwT1BWUjFZRWFJUGJGaWg4akI1cDZ4UmlhbXlfb1RCN3EzNzZocE41ZUdxUmJPNV9ORWFueFMwemJxYzljWkVnM0o4WGtMZmxVa1FPWm9pMDVHUTJFSUdXUzNib2lqdUo1b1B1bTY0X3h1MUNWSWZKcUZibmx4NWo4Z0t5czRIMEJnS3lZYU5QdnczNWJFbEJ5TElDOEhMb3B4YjdxLVJkeXJmYmdCLWVuSHVxWE9KcGlXSG5BS3piaGJ0WFVTdFlFMmNqSyZjb250ZXh0VHlwZT1ub25lJmlkPTIwMDcwNTQ4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX2dhbWVzMDRfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZLOXQ2OVZZRF8wS0Y5QnN4dkxSS2pHRXRXMVlNWG1JRjhRMVl4ZWJvdWt3U1BWUEVRUGtBTzczeDRBUFl5YUFLQ1VsZ0doTk0wb0NUSS1IZmJoZDZEZ0RJcDNITUprMGs4c202SFZwT1BWUjFZRWFJUGJGaWg4akI1cDZ4UmlhbXlfb1RCN3EzNzZocE41ZUdxUmJPNV9ORWFueFMwemJxYzljWkVnM0o4WGtMZmxVa1FPWm9pMDVHUTJFSUdXUzNib2lqdUo1b1B1bTY0X3h1MUNWSWZKcUZibmx4NWo4Z0t5czRIMEJnS3lZYU5QdnczNWJFbEJ5TElDOEhMb3B4YjdxLVJkeXJmYmdCLWVuSHVxWE9KcGlXSG5BS3piaGJ0WFVTdFlFMmNqSyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=VxGVqJrrSN9Sfo4mipamTjap7ME%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471727" tvg-chno="471727" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7914222'&EntityType='Item'&EntityId='472862'&Width=1024&Height=576",Paris 2024 CH04
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586984/assetType/media/assetFileId/20070548/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNTnkyVldKUVVITERnWGdUTHFoU3ljSWpwRkdkSGtwU1hnamltN2dHQ0h1ZmFlaDZjRFFrZE8xbFFhS2pfX3lPSllLbHhmZVhzMUV3aW9OdGIzZ2JZdDRjejJDeWxUM2V6UHpWM21jVmtTcjI2YURZeG41LW9mVHNwWFdUZDctNS05eTBodjk2aWJRX2F5T0ZBTWwwUGZnRldqb08wX2hqbENDZGlNZnFiNjlfQ1RDWlI4V2VJZ2xVb3NZNnJBQzVQYUE4MnM3Mjdib1NnQlNKRzFScV9WX18zWjVZRF80bGF1dndROWJQMVhyY1JmbldoY05jbUZUaWtJamZrQlFKNzJmclV5aDNxLWpwRlR2NmVGbWlfYjl5TzkwbjZKamhfcXJfeVRDOVN1WTBkVXNsV1p1bEkyWks0QlBObk5wbnc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTIwMDc0NDM4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX2dhbWVzMDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZNTnkyVldKUVVITERnWGdUTHFoU3ljSWpwRkdkSGtwU1hnamltN2dHQ0h1ZmFlaDZjRFFrZE8xbFFhS2pfX3lPSllLbHhmZVhzMUV3aW9OdGIzZ2JZdDRjejJDeWxUM2V6UHpWM21jVmtTcjI2YURZeG41LW9mVHNwWFdUZDctNS05eTBodjk2aWJRX2F5T0ZBTWwwUGZnRldqb08wX2hqbENDZGlNZnFiNjlfQ1RDWlI4V2VJZ2xVb3NZNnJBQzVQYUE4MnM3Mjdib1NnQlNKRzFScV9WX18zWjVZRF80bGF1dndROWJQMVhyY1JmbldoY05jbUZUaWtJamZrQlFKNzJmclV5aDNxLWpwRlR2NmVGbWlfYjl5TzkwbjZKamhfcXJfeVRDOVN1WTBkVXNsV1p1bEkyWks0QlBObk5wbnc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=plvvX6RbAtpBweR5cWdFNgaBn%2fU%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471662" tvg-chno="471662" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7914231'&EntityType='Item'&EntityId='472863'&Width=1024&Height=576",Paris 2024 CH05
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586985/assetType/media/assetFileId/20074438/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGOHZzVEF6WS1nbFV6SXItUlNfVTN6WG50cHFLU3pfX3pPYjJfZy1OeFN3dGdCcmpNc0tyWGJrOWZIV2d2cV9RZUhxbjMtVV9MaVNrLVNWYzU1SzJjWTJmTVdXZTZPdUpUbjgwOHBoZXZ6VTJ2SDQwVDJaMV9rWFFyRXVxVE5EczN0eHlMYXVkUDBMWHI2WDV5c0RUaFlMWXdZVTJtV0ZkZ2hBNzlJQzJVUkdfR2w3Wlp5dF9VUXFSdjM3UHV0NGE3Vnc3bnRmVEFYUHYwM2JiM0VMQi1IekRWQVZZZDlhcVloNTVma3UtejMxTVhTUmNtSW8tNmlZMHdVakNWVFlyYmRLNExrTVp3c1ZKT2RkcTNhN1czRjFoN3JUeV9yemVxakhqY0RCSDg2bE1PblFxeFptOUZFYlMtWkduMzZxNUxlU3NmMkRBTHl3bW10MjNDU2kwblJveC1HdHpxUEhqdnJhdVR6WTVBRTYmY29udGV4dFR5cGU9bm9uZSZpZD0yMDA3NDU0NCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJhZGhvY19nYW1lczA2X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRjh2c1RBelktZ2xVeklyLVJTX1UzelhudHBxS1N6X196T2IyX2ctTnhTd3RnQnJqTXNLclhiazlmSFdndnFfUWVIcW4zLVVfTGlTay1TVmM1NUsyY1kyZk1XV2U2T3VKVG44MDhwaGV2elUydkg0MFQyWjFfa1hRckV1cVRORHMzdHh5TGF1ZFAwTFhyNlg1eXNEVGhZTFl3WVUybVdGZGdoQTc5SUMyVVJHX0dsN1paeXRfVVFxUnYzN1B1dDRhN1Z3N250ZlRBWFB2MDNiYjNFTEItSHpEVkFWWWQ5YXFZaDU1Zmt1LXozMU1YU1JjbUlvLTZpWTB3VWpDVlRZcmJkSzRMa01ad3NWSk9kZHEzYTdXM0YxaDdyVHlfcnplcWpIamNEQkg4NmxNT25RcXhabTlGRWJTLVpHbjM2cTVMZVNzZjJEQUx5d21tdDIzQ1NpMG5Sb3gtR3R6cVBIanZyYXVUelk1QUU2IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=ZMFlwrj2FWr6H9PHUNjPtDWGu3o%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471729" tvg-chno="471729" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7914237'&EntityType='Item'&EntityId='472866'&Width=1024&Height=576",Paris 2024 CH06
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586986/assetType/media/assetFileId/20074544/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKWTY0T3BQQjVhS2VGdlhGdjRVNmFNbHd3UTVwRzUzSVdsM1hBNnBDd0YtVkdUSmY2aTIzUFdRek5mX2RjcFFodFBHeE50TUF0Yi1hSDBuWTVyTUktOHR3WktNdXlqSUY5RktTaVQ0ckczQmlfM052bXRnRVo0UkMxMzFtSHoxRnVXQlRVVzF2ZUxYYTF5WU1wdGdXSjllclZuaS1hdWRxNGZoOTZCQ0Ixd1NwUnF5b1dkc0g2UzAtUkdsT2N0ZVN0MW5UdjBfN2RNWnFaLWM2S1M0bWk0RmZOa3lkRy1MTHJ0aDJKbmRiOWVEY3ZheG1zTXRkemZ2UEFYU1FraHl1MkNEVTBzRER1d2UzWlpQWUNHS2RMSjl4Tmg2WTFaVUhfOWpoNGV6a3F5UnRQWDNxNEVpNnJtUmVqZ0RGMklwU3hBZGdyVTlNM05UMGZZYW45SG9ZejFzVjNFcS10M3Y4ZS1Fa011YTRsWGUmY29udGV4dFR5cGU9bm9uZSZpZD0yMDA3NDU1NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJhZGhvY19nYW1lczA3X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSlk2NE9wUEI1YUtlRnZYRnY0VTZhTWx3d1E1cEc1M0lXbDNYQTZwQ3dGLVZHVEpmNmkyM1BXUXpOZl9kY3BRaHRQR3hOdE1BdGItYUgwblk1ck1JLTh0d1pLTXV5aklGOUZLU2lUNHJHM0JpXzNOdm10Z0VaNFJDMTMxbUh6MUZ1V0JUVVcxdmVMWGExeVlNcHRnV0o5ZXJWbmktYXVkcTRmaDk2QkNCMXdTcFJxeW9XZHNINlMwLVJHbE9jdGVTdDFuVHYwXzdkTVpxWi1jNktTNG1pNEZmTmt5ZEctTExydGgySm5kYjllRGN2YXhtc010ZHpmdlBBWFNRa2h5dTJDRFUwc0REdXdlM1paUFlDR0tkTEo5eE5oNlkxWlVIXzlqaDRlemtxeVJ0UFgzcTRFaTZybVJlamdERjJJcFN4QWRnclU5TTNOVDBmWWFuOUhvWXoxc1YzRXEtdDN2OGUtRWtNdWE0bFhlIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=MdzMHnu3GHaZJEoxSBczIO4f800%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471661" tvg-chno="471661" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7914241'&EntityType='Item'&EntityId='472868'&Width=1024&Height=576",Paris 2024 CH07
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586987/assetType/media/assetFileId/20074556/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPVWMtMUFNUTdYelR1UkZmb3hFckZiakZvb0o3blJMdUFOR1Focy1PcUdhV0pmRTBEeHVvRnFoam5xVlVLM0lpU04zNGtZQ1VIaHBOekI5cFpfd2lpbDA0UjBZMXFBLWdQQ3p2SEhpMUw5OXFKY2laQXhyZ0tQODBxd1Q4WVB2WlRiNEZTR2xJUWRkVkdWX2EyZU5nZzdWWEp4RDhsek00R2xXZi1QSjZPUEJjQVpxcmVfalRxckx5M05nd0RWZk1HbC1CVUZhQjlnRUlXN0hmZi1IUTQ5aUlwaFJmcnY0Qzl1X2ZiZlhiR2dXV09FU1JHTDR6N2dWTHhpXzFBOHIybllNeWhlYVB2endza1FyM09Fa2NIOG9OMVhvdGY2V2cwY3F6cndGNnRZTjc2OXQ2ZElyRkZYMjRxS3B1NnI2cTRvUWthNFN6WVRsWnM0Z2FJLTBfemY4UURnMGlzNWpDLV9mUF9hd0NJSGImY29udGV4dFR5cGU9bm9uZSZpZD0yMDEwNTQ5NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJhZGhvY19nYW1lczA4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmT1VjLTFBTVE3WHpUdVJGZm94RXJGYmpGb29KN25STHVBTkdRaHMtT3FHYVdKZkUwRHh1b0ZxaGpucVZVSzNJaVNOMzRrWUNVSGhwTnpCOXBaX3dpaWwwNFIwWTFxQS1nUEN6dkhIaTFMOTlxSmNpWkF4cmdLUDgwcXdUOFlQdlpUYjRGU0dsSVFkZFZHVl9hMmVOZ2c3VlhKeEQ4bHpNNEdsV2YtUEo2T1BCY0FacXJlX2pUcXJMeTNOZ3dEVmZNR2wtQlVGYUI5Z0VJVzdIZmYtSFE0OWlJcGhSZnJ2NEM5dV9mYmZYYkdnV1dPRVNSR0w0ejdnVkx4aV8xQThyMm5ZTXloZWFQdnp3c2tRcjNPRWtjSDhvTjFYb3RmNldnMGNxenJ3RjZ0WU43Njl0NmRJckZGWDI0cUtwdTZyNnE0b1FrYTRTellUbFpzNGdhSS0wX3pmOFFEZzBpczVqQy1fZlBfYXdDSUhiIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=GnvUb3mvgWD%2fo5qCB%2fOvKL%2bLHLo%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471666" tvg-chno="471666" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7914245'&EntityType='Item'&EntityId='472869'&Width=1024&Height=576",Paris 2024 CH08
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586988/assetType/media/assetFileId/20105496/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNV3NWYWhIY0N4Y3dVcF90V05TeXZCZXdzckwtTk53MzZqZEFJejdSMVJna2stZ3JuNzRZTjR5Q0VUQ0R5bHY1TkJzRFEtU2xLVkV6QWpvREFuVUtsLU82dXlBdHBZWFBpRklpSEFvNGZ2MDBuMmN2ejhMcVZjbWJnZ2RxemlyTkxOalFnQUJURjhBRmdfbkh1bndVWEZEYmpOZXBzZUdodFJkMU5iWVV5VmU1dVBQa0VLTGNMM1RTdU9IcE5WQU9vTjhEMW1RQnlZSkMxMHNZVDV6Yy1UOFp1UUpZbFg4SWI5V2hKVnJtcjNsbXRXS2RhaTlTLTUxWDJadGQxM0V3SFhNTDNHRC1Fckc4TTAtT2kwQ0RqRFprMnNWcG5PQU1nTWlFbTIyZlJJdTRFU0tocDIxTDFNU0x2TjJydGdxay1oeEphdmhoT3hodFVFUm5OejJxZlE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MjAxMDYxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2NfZ2FtZXMwOV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk1Xc1ZhaEhjQ3hjd1VwX3RXTlN5dkJld3NyTC1OTnczNmpkQUl6N1IxUmdray1ncm43NFlONHlDRVRDRHlsdjVOQnNEUS1TbEtWRXpBam9EQW5VS2wtTzZ1eUF0cFlYUGlGSWlIQW80ZnYwMG4yY3Z6OExxVmNtYmdnZHF6aXJOTE5qUWdBQlRGOEFGZ19uSHVud1VYRkRiak5lcHNlR2h0UmQxTmJZVXlWZTV1UFBrRUtMY0wzVFN1T0hwTlZBT29OOEQxbVFCeVlKQzEwc1lUNXpjLVQ4WnVRSllsWDhJYjlXaEpWcm1yM2xtdFdLZGFpOVMtNTFYMlp0ZDEzRXdIWE1MM0dELUVyRzhNMC1PaTBDRGpEWmsyc1Zwbk9BTWdNaUVtMjJmUkl1NEVTS2hwMjFMMU1TTHZOMnJ0Z3FrLWh4SmF2aGhPeGh0VUVSbk56MnFmUT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=lL3j9GeHpht7K6J6hmCWas6pp30%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471724" tvg-chno="471724" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7915704'&EntityType='Item'&EntityId='472916'&Width=1024&Height=576",Paris 2024 CH09
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586989/assetType/media/assetFileId/20106124/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFbFctcUZYblRuLUtCZnJ1QWhFRUxHWHhnVGhwTzExamtHQmtzWk91UHNic3B0T2dpVVFLU1VBUWFfNzhYTXZRZmxoZnNleFpibV85ZkdBbzFlLXR3T0VfWFp2YlNZY2JhNDIzS0cxbkNndDdXX2JYY0hVX2JhTG9ONEh6VUw4Mzd1QXRmcTl6WHI4d3pXS0g5bDkyY2ZnVE11WGVhQ0xmYXdaWUhzNzdkUVJJdGNQdkI2enBDZ3RTY0tTSVN1QXY2Yi1RenIwSkh2eEdscDNuNXVoSnZmT0J2dktVekpOb2FDdXZQQ3J6VGdBcFZLV0NaeWppem41MFg1RzVBUTlPSllna3NsS1ptalNIb2g0WkVZanZ6OWJYUG5JczFvTjBfSjZFSldNTHJoYTVlSVB6N0FraDJHSVJNT3R6TTZfbmc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTIwMTA2MjMyIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX2dhbWVzMTBfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFbFctcUZYblRuLUtCZnJ1QWhFRUxHWHhnVGhwTzExamtHQmtzWk91UHNic3B0T2dpVVFLU1VBUWFfNzhYTXZRZmxoZnNleFpibV85ZkdBbzFlLXR3T0VfWFp2YlNZY2JhNDIzS0cxbkNndDdXX2JYY0hVX2JhTG9ONEh6VUw4Mzd1QXRmcTl6WHI4d3pXS0g5bDkyY2ZnVE11WGVhQ0xmYXdaWUhzNzdkUVJJdGNQdkI2enBDZ3RTY0tTSVN1QXY2Yi1RenIwSkh2eEdscDNuNXVoSnZmT0J2dktVekpOb2FDdXZQQ3J6VGdBcFZLV0NaeWppem41MFg1RzVBUTlPSllna3NsS1ptalNIb2g0WkVZanZ6OWJYUG5JczFvTjBfSjZFSldNTHJoYTVlSVB6N0FraDJHSVJNT3R6TTZfbmc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=yTt0IWc2WPU%2b0NKa6K6zTSowKAs%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471725" tvg-chno="471725" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7915708'&EntityType='Item'&EntityId='472917'&Width=1024&Height=576",Paris 2024 CH10
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586990/assetType/media/assetFileId/20106232/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFdUV6SFctVG9VbjVGa2UyMUJjSWZ1cDB0WV9RLU56MEQyV0VPcUdQdktNazBuaDh5WDdpWElySklnczZqYVpkNjRwcjJCVXVuOVdIM0lfMjRhcXRCTzBwZmVHUHJzV2hMRU92WUhDbGZmRzdUak1tcU9rSVNsN1dERWZBUS1vLTBMczF2Vnd0YkI1aDMwVC1HdV9uUEpvSlZWRDNXWVNUY19EcXF5YnlmMmdFZFNxN1pRX2NjMGFobnN3enBReGN1cjBaUU9fQ3dtVjRVbHZiZTRJTWpEUHZiWUVoVGNFeXQ5SC0xemsyNEVROWpFOGtBcmt4TTFVU2RieHJoVWs0MDVENVRDQ3BLMFlsRUo2Vi1yQ0k3RDJMeUYyX042Z2p3dTYxSEY4Qlk4X21VeGN6T2JjbTgzQ1R4bVdoYWNjWGtMeDg1NF9vRTJxSmZGOE5rbmt0NVE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MjAxMDY0ODUiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2NfZ2FtZXMxMV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkV1RXpIVy1Ub1VuNUZrZTIxQmNJZnVwMHRZX1EtTnowRDJXRU9xR1B2S01rMG5oOHlYN2lYSXJKSWdzNmphWmQ2NHByMkJVdW45V0gzSV8yNGFxdEJPMHBmZUdQcnNXaExFT3ZZSENsZmZHN1RqTW1xT2tJU2w3V0RFZkFRLW8tMExzMXZWd3RiQjVoMzBULUd1X25QSm9KVlZEM1dZU1RjX0RxcXlieWYyZ0VkU3E3WlFfY2MwYWhuc3d6cFF4Y3VyMFpRT19Dd21WNFVsdmJlNElNakRQdmJZRWhUY0V5dDlILTF6azI0RVE5akU4a0Fya3hNMVVTZGJ4cmhVazQwNUQ1VENDcEswWWxFSjZWLXJDSTdEMkx5RjJfTjZnand1NjFIRjhCWThfbVV4Y3pPYmNtODNDVHhtV2hhY2NYa0x4ODU0X29FMnFKZkY4Tmtua3Q1UT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=wCX16d9cZslqhEwAD3lnmpkJT5M%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471739" tvg-chno="471739" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7915712'&EntityType='Item'&EntityId='472918'&Width=1024&Height=576",Paris 2024 CH11
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586991/assetType/media/assetFileId/20106485/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMOG9Ja0JpNmNFRDZra0gxVHNoVUxNSjhDY1VkNEdwdURZNEZvZFlncjZmNGN5eklxdVVfWVp4MWxleUFzUklkMGNuQXVSa05oaFJ1MWxMaUhzend3ek9VeUxvXzZXZDBqSmJzNEk1MlpuenNGb3ZFcHFQcEFTOUF1X3NPMFhsY0Jjd0c4ZkE4STRjNFZwZGJodTNDQjNaRUZNSl9uRUxhNXFRM3lYREtlMW9MWF9ScmlzaTN1RFNGLUJlU1lqRzloa2N1dHFKaGRtUDdRUm5UNkF4amhRQ1BYQTJTRVdkTkVFd3JRUTA4QUV0SVY3d2dPMzQ4UElnelZmYzlyZEJZOG8zVUhZTVB4WDJ1ZHBvSDM5eEp1Tk9YQTR0TXdyOUdsMjNoS1RTcGpJNmlnYlROVGp0SGRHTWdPRUZoak5CSGR0Y2hLV00xaUU4bl9VOW1aTko5blhYLXNnSFQ2RjRQZUwweUFTSlpwWUMmY29udGV4dFR5cGU9bm9uZSZpZD0yMDEwNjUyMSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJhZGhvY19nYW1lczEyX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTDhvSWtCaTZjRUQ2a2tIMVRzaFVMTUo4Q2NVZDRHcHVEWTRGb2RZZ3I2ZjRjeXpJcXVVX1laeDFsZXlBc1JJZDBjbkF1UmtOaGhSdTFsTGlIc3p3d3pPVXlMb182V2QwakpiczRJNTJabnpzRm92RXBxUHBBUzlBdV9zTzBYbGNCY3dHOGZBOEk0YzRWcGRiaHUzQ0IzWkVGTUpfbkVMYTVxUTN5WERLZTFvTFhfUnJpc2kzdURTRi1CZVNZakc5aGtjdXRxSmhkbVA3UVJuVDZBeGpoUUNQWEEyU0VXZE5FRXdyUVEwOEFFdElWN3dnTzM0OFBJZ3pWZmM5cmRCWThvM1VIWU1QeFgydWRwb0gzOXhKdU5PWEE0dE13cjlHbDIzaEtUU3BqSTZpZ2JUTlRqdEhkR01nT0VGaGpOQkhkdGNoS1dNMWlFOG5fVTltWk5KOW5YWC1zZ0hUNkY0UGVMMHlBU0pacFlDIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=DldrnRdCezHJ%2bVRiVcQYzohmaSs%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471742" tvg-chno="471742" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7915716'&EntityType='Item'&EntityId='472919'&Width=1024&Height=576",Paris 2024 CH12
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586992/assetType/media/assetFileId/20106521/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQMnMxU2lpQ0o1by1memlJZXBpcWNBaW1oem5QX0ZzRTUwaFNldVl2V2NJWEJVTEhfMzdvWnp5MVFteHg0VF95dTY0S3hIMXNxYW5XM2ZqX0VDX1hJbURQLVNUY2R2Uy1pOFVKVEpCTk4yWXktN1dfOG9lZFNCd3JVZjNVMC1kWWljV0gtOUZqUVpub2xrQjg0UEk1TzR0NWtGakRtdUhhd0c3T2xLNlFLelNGZHBDLUJvdmp4YU0yb3djY2lrMGxYWlNITnBWUFMtTG9zcXFqcXBlb0tBX3BzaThGRDdGeEhlODlQUl83ZzVvS3gzVHZQdVRTVXdJeHhwd1FGcUVPVGtnN0RpZy1aczE1bUhJR3RYQXhZMXhzR1dSekRvNHpvV25IaDVXUjRNSkVENGxuajFFczFXWEJBNmUxbDFaVTRKOXc2eUhDM0FBTjhQMDlJZ1dzZ1U9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MjAxMDk0NjYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2NfZ2FtZXMxM19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZlAyczFTaWlDSjVvLWZ6aUllcGlxY0FpbWh6blBfRnNFNTBoU2V1WXZXY0lYQlVMSF8zN29aenkxUW14eDRUX3l1NjRLeEgxc3FhblczZmpfRUNfWEltRFAtU1RjZHZTLWk4VUpUSkJOTjJZeS03V184b2VkU0J3clVmM1UwLWRZaWNXSC05RmpRWm5vbGtCODRQSTVPNHQ1a0ZqRG11SGF3RzdPbEs2UUt6U0ZkcEMtQm92anhhTTJvd2NjaWswbFhaU0hOcFZQUy1Mb3NxcWpxcGVvS0FfcHNpOEZEN0Z4SGU4OVBSXzdnNW9LeDNUdlB1VFNVd0l4eHB3UUZxRU9Ua2c3RGlnLVpzMTVtSElHdFhBeFkxeHNHV1J6RG80em9XbkhoNVdSNE1KRUQ0bG5qMUVzMVdYQkE2ZTFsMVpVNEo5dzZ5SEMzQUFOOFAwOUlnV3NnVT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=P30BxYNcLS0Jb3BiWi7ZjCrwclM%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471948" tvg-chno="471948" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7915720'&EntityType='Item'&EntityId='472920'&Width=1024&Height=576",Paris 2024 CH13
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586993/assetType/media/assetFileId/20109466/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOTTM2VHlBckkzU3RvcWpRZ3gwTndpR1IwLTZHanFjTnFJaG5BZXlVa3ZzZlJSODEtRnlSWTIwM0lxcFBkRVFyR1ZwYlJfQW15VVYzRkg2NkEyS05aclVaTjJtS0x3d1Nydko1aFkxeC1NT0prY3BOQy1ubUdVcDV2ZWE3aUREeFY5TFNhNmljNGV6TjM2U3FNS1NRRnJEVkdyZG9BcjM5RlNnWVNSX0J0WTFFc3FrbkhUaTVDeW9LTXlhdnR2c1p3bVNSUFkxOU8wU19KeUhTZWY2WkZmOGI3LVpUVUx3S3BSTjVPU2lJMDlYWFdtZWMyb014UW1SQVVvS0xSS2J1RFMtZElWLWtnMEV0RWZPU21yczdwZVRTN1llR3pGMGhPMElNQjhLMDBLT3k1bDIxX19TdDdUcDNKbWRFNzFybm9iUXR2MURudE9Ec2FWelJkdlN0aDA9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MjAxMDk4MTkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2NfZ2FtZXMxNF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk5NMzZUeUFySTNTdG9xalFneDBOd2lHUjAtNkdqcWNOcUlobkFleVVrdnNmUlI4MS1GeVJZMjAzSXFwUGRFUXJHVnBiUl9BbXlVVjNGSDY2QTJLTlpyVVpOMm1LTHd3U3J2SjVoWTF4LU1PSmtjcE5DLW5tR1VwNXZlYTdpRER4VjlMU2E2aWM0ZXpOMzZTcU1LU1FGckRWR3Jkb0FyMzlGU2dZU1JfQnRZMUVzcWtuSFRpNUN5b0tNeWF2dHZzWndtU1JQWTE5TzBTX0p5SFNlZjZaRmY4YjctWlRVTHdLcFJONU9TaUkwOVhYV21lYzJvTXhRbVJBVW9LTFJLYnVEUy1kSVYta2cwRXRFZk9TbXJzN3BlVFM3WWVHekYwaE8wSU1COEswMEtPeTVsMjFfX1N0N1RwM0ptZEU3MXJub2JRdHYxRG50T0RzYVZ6UmR2U3RoMD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=jRnGnu37x9aeOXBEXgM7ym5Mavw%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471959" tvg-chno="471959" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7915726'&EntityType='Item'&EntityId='472921'&Width=1024&Height=576",Paris 2024 CH14
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586994/assetType/media/assetFileId/20109819/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMWmRvMWd5YUhpTDZoNWgxMGhtNkVpWnNLTE0xZHh1U0NfNDZGYlB6ZG9oYkpFbHExUlVCMWRFSWxOcDE0cWVrcjFPMU5Xcmt4b002QVZEMTZRS3F2b3RmWTZMODk0Wmp2b2N0aHdlYTZsUjBOcTRkcWtUTG1TWjQ4WjlwOEsxMUZ5b0xnbjNpZmRUd0t3SmlMalZzemkxeHUzZ3VXN3VJRl9CblA5eEJvU0hTVGZBRDJOb3NROTlWV1FmZzFPTzdGdjBUWVF5djZuT0poY1RhYldXWFlCTGFRcE1fVU1KYmwtdjBmLWpsQ3dpSnNBMVV1WFhYaVhVYldVNFkzNG8yaWdQRHlmMjlBYklmcW5GRXBwVnpPcDliRTN6dnkyVUM1R0RWZjd0M0lGayZjb250ZXh0VHlwZT1ub25lJmlkPTIwMTA5ODMxIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX2dhbWVzMTVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMWmRvMWd5YUhpTDZoNWgxMGhtNkVpWnNLTE0xZHh1U0NfNDZGYlB6ZG9oYkpFbHExUlVCMWRFSWxOcDE0cWVrcjFPMU5Xcmt4b002QVZEMTZRS3F2b3RmWTZMODk0Wmp2b2N0aHdlYTZsUjBOcTRkcWtUTG1TWjQ4WjlwOEsxMUZ5b0xnbjNpZmRUd0t3SmlMalZzemkxeHUzZ3VXN3VJRl9CblA5eEJvU0hTVGZBRDJOb3NROTlWV1FmZzFPTzdGdjBUWVF5djZuT0poY1RhYldXWFlCTGFRcE1fVU1KYmwtdjBmLWpsQ3dpSnNBMVV1WFhYaVhVYldVNFkzNG8yaWdQRHlmMjlBYklmcW5GRXBwVnpPcDliRTN6dnkyVUM1R0RWZjd0M0lGayIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=vsj4RFo%2bHRClsqOr64%2fmLCs5dUU%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="471962" tvg-chno="471962" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7915730'&EntityType='Item'&EntityId='472922'&Width=1024&Height=576",Paris 2024 CH15
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586995/assetType/media/assetFileId/20109831/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQeExXUmQ1OGQzRVVuXzZDOExsLThBY1NIQzJJTkNmeGZqODE3c0pKNFI5ZnNKX1NJVlBnTGUyV0hEMGZsU1QwOVB1aDNoYkUzZUF5WXNxTThSa2pXVzNxNEE2N2wzemtUbmpoQWdDSURnMjR2OHZiVEtpYlBjdGJYNWRaTkl2clIwaGZGc2loek5MNWlLSE9FMGFZVkhRR1F6LVpibTdoNWNFQUNmcVhLdDNTSHJfb2d3SXRqcnhEcDZCYTVfQ3ZpZnZVMUNrQW9uV052T1hjWERmcERtTzYtYXpwUmI5VmNfaGtBMW9EaE16Wm9TNGhTeWlneGdlOGEteEE3UDNTM041U1E1NVE1NzJfWGhvY1RzTDZiSHBaV19IT2s1cmR5am11T0cweDV2am4zalFWbndJMXVBSEU0VnBnRXhIRXc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTIwMTA5ODgzIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX2dhbWVzMTZfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZQeExXUmQ1OGQzRVVuXzZDOExsLThBY1NIQzJJTkNmeGZqODE3c0pKNFI5ZnNKX1NJVlBnTGUyV0hEMGZsU1QwOVB1aDNoYkUzZUF5WXNxTThSa2pXVzNxNEE2N2wzemtUbmpoQWdDSURnMjR2OHZiVEtpYlBjdGJYNWRaTkl2clIwaGZGc2loek5MNWlLSE9FMGFZVkhRR1F6LVpibTdoNWNFQUNmcVhLdDNTSHJfb2d3SXRqcnhEcDZCYTVfQ3ZpZnZVMUNrQW9uV052T1hjWERmcERtTzYtYXpwUmI5VmNfaGtBMW9EaE16Wm9TNGhTeWlneGdlOGEteEE3UDNTM041U1E1NVE1NzJfWGhvY1RzTDZiSHBaV19IT2s1cmR5am11T0cweDV2am4zalFWbndJMXVBSEU0VnBnRXhIRXc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=eqH1tGWWAiVVapQFqoC2ufRX2So%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="472026" tvg-chno="472026" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7915734'&EntityType='Item'&EntityId='472923'&Width=1024&Height=576",Paris 2024 CH16
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586996/assetType/media/assetFileId/20109883/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLRUR0c29fbTZKSmlhR0tqQjVEWHdveUxKbVpWb0FaOFVha1pzYk0wUHIyNHlYY2hNMkpXS0txZ2N5SkNyZGZLYW1oelFMR19nbVJFdjQ0eWlqbTNjWnR1RE4zTkdkVHhUdWh0RDRES2F2Sy1udGpDUXlpZmM4ZnR5Y285QXdDOVFYRDFQMjhZUEJMV3Jta0FoZEJOSnhfQ3NLREE3LXZ2eVMxZlRMQ2RPS0xpekNNT3NCdkZhb0NOY3lrUzl0SmEySFhiWFMyTXpGOXl5cE13SW9IMUZqY3FESVd4NWk3eEQtVTJZRkRfdlVsYW9NeW1pcXFvejdQeVNuNTFkZWNPMnR6TkowRzNMTFJsLXZaNFJRVHZOeF9pZTZXdVVOcjdINFhIS2pNM2pkT0syNmRFWUR3WEhET0xYRlNhLWFwdnhfMzJsdjVjS2FjLWdUSkNHTnd3OGs9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MjAxMTA5NTIiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2NfZ2FtZXMxN19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZktFRHRzb19tNkpKaWFHS2pCNURYd295TEptWlZvQVo4VWFrWnNiTTBQcjI0eVhjaE0ySldLS3FnY3lKQ3JkZkthbWh6UUxHX2dtUkV2NDR5aWptM2NadHVETjNOR2RUeFR1aHRENERLYXZLLW50akNReWlmYzhmdHljbzlBd0M5UVhEMVAyOFlQQkxXcm1rQWhkQk5KeF9Dc0tEQTctdnZ5UzFmVExDZE9LTGl6Q01Pc0J2RmFvQ05jeWtTOXRKYTJIWGJYUzJNekY5eXlwTXdJb0gxRmpjcURJV3g1aTd4RC1VMllGRF92VWxhb015bWlxcW96N1B5U241MWRlY08ydHpOSjBHM0xMUmwtdlo0UlFUdk54X2llNld1VU5yN0g0WEhLak0zamRPSzI2ZEVZRHdYSERPTFhGU2EtYXB2eF8zMmx2NWNLYWMtZ1RKQ0dOd3c4az0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=yPas4kZGtvCbDhMRqzmmkA9EJtU%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="472215" tvg-chno="472215" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7914249'&EntityType='Item'&EntityId='472871'&Width=1024&Height=576",Paris 2024 CH17
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586997/assetType/media/assetFileId/20110952/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPN0JJOGtMU0ZILVpzczItTnc0SXBnOGh1MmpXTE4yN1RncHFuOW9VcTg4V2Y3VHNMaVNxS1ZkZ1FxU3U5dkJGSWdjcGhEX29Za0tqUExHaS12NC1DV0dSZDEzVF9aTHcza2FHclBxTGFXSWxvZ3llbktTU3NNRmJEV1FON09Ib3pkVm5NZHdMUzlmVTZlN3M2X3pXUUpLdmNxUUdndy10bTYxREVwdUpVbDhaYjJ2TzFSQ3cySzQ3eXF3ZG5zekpsZ0VXaTF2cWIyZWFsd0YtdTYwbEhLbVVvLUthcE1qWTdBWmdPa1g0bHo4NmVoRWhSWWtkcUNGMnhzT09fbDBFcnZ0N3kzbV8zWUVodkhhSkJ6TG50d0hrVU5ZMXJ3dHlVMDZjM01BdzdUN0tzMVRTQlZjYWhLdi14MUpQSmZHOWVvZ05FV0FKSzRraXJkdG5DLTJCbEk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MjAxMTA5NjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2NfZ2FtZXMxOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk83Qkk4a0xTRkgtWnNzMi1OdzRJcGc4aHUyaldMTjI3VGdwcW45b1VxODhXZjdUc0xpU3FLVmRnUXFTdTl2QkZJZ2NwaERfb1lrS2pQTEdpLXY0LUNXR1JkMTNUX1pMdzNrYUdyUHFMYVdJbG9neWVuS1NTc01GYkRXUU43T0hvemRWbk1kd0xTOWZVNmU3czZfeldRSkt2Y3FRR2d3LXRtNjFERXB1SlVsOFpiMnZPMVJDdzJLNDd5cXdkbnN6SmxnRVdpMXZxYjJlYWx3Ri11NjBsSEttVW8tS2FwTWpZN0FaZ09rWDRsejg2ZWhFaFJZa2RxQ0YyeHNPT19sMEVydnQ3eTNtXzNZRWh2SGFKQnpMbnR3SGtVTlkxcnd0eVUwNmMzTUF3N1Q3S3MxVFNCVmNhaEt2LXgxSlBKZkc5ZW9nTkVXQUpLNGtpcmR0bkMtMkJsST0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=sjPvSOU6vfRZO8zG2W0b4ftA5fU%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="472216" tvg-chno="472216" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='7915740'&EntityType='Item'&EntityId='472924'&Width=1024&Height=576",Paris 2024 CH18
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586998/assetType/media/assetFileId/20110964/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFc2RzTzlpYWxZWTBkMUtJR1pjeExVMUlrdk9nZ2RNcW9IQ09VelZkdTY5aU5QQUc1bUxTb2lOS3hteFBzR0Z2dWRkelpHUHhMQnNHVEdkUThhZE1kRWdxa29pTS1wOWpmaHRuZEZSSEp2UE43MkRUSmtfT0E5Z2tJYXE0MG8wMHFHbmlScnhlR0xGYzAtU09jUklzRTk5ck5ZdDBuQWRYRmU2VGs5aXZPWjFJZUpVMDY0NFlNbGtHWXpWcktVeUtYR1h4dGEya25OVUpNc3luNFJiLTlSUDhiRUdTVUtGZnk3NFZNSWY4OC0wb3lLUXljbk1qekVjbmJMYTFqREEyOGJoOUI2WG02UWUyY1dlc0N0Qkw2RkkySTl6NUJTT1FGLUNHTzVtaF9HQ1hRV1NjRWJ6QkZoVE9FZVRVM3pNcE1JWXpiRDEwZGQ1UHNzWXlaNk9LN009JmNvbnRleHRUeXBlPW5vbmUmaWQ9MjAxMTA5NzYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2NfZ2FtZXMxOV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkVzZHNPOWlhbFlZMGQxS0lHWmN4TFUxSWt2T2dnZE1xb0hDT1V6VmR1NjlpTlBBRzVtTFNvaU5LeG14UHNHRnZ1ZGR6WkdQeExCc0dUR2RROGFkTWRFZ3Frb2lNLXA5amZodG5kRlJISnZQTjcyRFRKa19PQTlna0lhcTQwbzAwcUduaVJyeGVHTEZjMC1TT2NSSXNFOTlyTll0MG5BZFhGZTZUazlpdk9aMUllSlUwNjQ0WU1sa0dZelZyS1V5S1hHWHh0YTJrbk5VSk1zeW40UmItOVJQOGJFR1NVS0ZmeTc0Vk1JZjg4LTBveUtReWNuTWp6RWNuYkxhMWpEQTI4Ymg5QjZYbTZRZTJjV2VzQ3RCTDZGSTJJOXo1QlNPUUYtQ0dPNW1oX0dDWFFXU2NFYnpCRmhUT0VlVFUzek1wTUlZemJEMTBkZDVQc3NZeVo2T0s3TT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=uHeHjeS7foHXYiMcrdA2V1Z6KbU%3d
+#EXTINF:-1 group-title="⭕ OLIYMPIC 2024 ⭕ (Server 1)" tvg-id="472217" tvg-chno="472217" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277899856%27&EntityType=%27Item%27&EntityId=%27472217%27&Width=1920&Height=1080",Paris 2024 CH19
+#EXTVLCOPT:x-forwarded-for=202.150.221.170
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586999/assetType/media/assetFileId/20110976/contextType/PLAYBACK/isAltUrl/False/a.mpd|X-Forwarded-For=202.150.221.170
+
+================================================================================================================================
+
+=================================🏆Olympics | Eurosport================================================
+#EXTINF:-1 group-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png",🏆Olympics | Eurosport
+
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Eurosport",UK: Eurosport
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649788
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Eurosport",UK: Eurosport 2
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649789
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 3" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Eurosport",UK: Eurosport 3
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649790
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 4" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Eurosport",UK: Eurosport 4
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649791
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 5" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Eurosport",UK: Eurosport 5
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649792
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 6" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Eurosport",UK: Eurosport 6
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649793
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 7" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Eurosport",UK: Eurosport 7
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649794
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 8" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Eurosport",UK: Eurosport 8
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649795
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 9" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Eurosport",UK: Eurosport 9
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649796
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 1" tvg-logo="" group-title="🏆Olympics | Eurosport",UK: EUROSPORT 1
+http://likea8bitboss.xyz:80/7402751496/yEtCyURYPO/761335
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Eurosport", EUROSPORT HD 1
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Eurosport", EUROSPORT HD 2
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Eurosport",SP | EUROSPORT 1 
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Eurosport",SP | EUROSPORT 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-id="Sport1.sk" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Eurosport",EUROSPORT 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2286
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-id="Sport1.sk" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Eurosport",EUROSPORT 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285
+
+=================================🏆Paris | SuperSport=================================================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",🏆Paris | SuperSport
+
+#EXTINF: tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SuperSport
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=3338&extension=ts&play_token=qd3YdQyvFS
+
+#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="SS: SuperSport Blitz" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Blitz
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609311
+
+#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="SS: SuperSport Cricket" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Cricket
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609323
+
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SS: SuperSport Football / WC Fan Zone" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Football
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609319
+
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="SS: SuperSport Golf" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Golf
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609324
+
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="SS: SuperSport Grandstand" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Grandstand
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609315
+
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SS: SuperSport La Liga / WC Select 1" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport La Liga
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609313
+
+#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="SS: SuperSport Maximo" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Maximo
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609328
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="SS: SuperSport Motorsports" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Motorsports
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609325
+
+#EXTINF:-1 tvg-id="BigTen.us" tvg-name="SS: SuperSport Premier League / SS: SuperSport WC Extra" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Premier League
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609312
+
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SS: SuperSport PSL / WC Central" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport PSL / WC Central
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609314
+
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="SS: SuperSport Rugby" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Rugby
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609322
+
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SS: SuperSport Tennis" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Tennis
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609326
+
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SS: SuperSport Variety 01 / WC Select 2" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Variety 01 / WC Select 2
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609317
+
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SS: SuperSport Variety 02" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Variety 02
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609316
+
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SS: SuperSport Variety 03" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Variety 03
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609321
+
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SS: SuperSport Variety 04" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Paris | SuperSport",SS: SuperSport Variety 04
+http://hdtt3.online:3050/jnesifo1@jhmi.edu/J2xuvFcQqj/609320
+
+=================================🏆Olympics | Paris 2024=================================================
+#EXTINF:-1 group-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png",🏆Olympics | Paris 2024
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Paris 2024",US: CNBC
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649772
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US: E!" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Paris 2024",US: E!
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649773
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="US: NBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Paris 2024",US: NBC
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649774
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US: USA Network" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Paris 2024",US: USA Network
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649775
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Paris 2024",CA: CBC
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649776
+#EXTINF:-1 tvg-id="bbconecambridgeshire.uk" tvg-name="UK: BBC One" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Paris 2024",UK: BBC One
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649777
+#EXTINF:-1 tvg-id="bbc2northernireland.uk" tvg-name="UK: BBC Two" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" group-title="🏆Olympics | Paris 2024",UK: BBC Two
+http://hdtt3.online:3050/smack76813@aol.com/bS5vw2z3ic/649778
+
+#EXTINF:-1 group-title="🏆Olympics | Paris 2024" tvg-id="5" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",CCTV-5 | CHINA
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8|user-agent=VLC/3.2.21 LibVLC/3.2.21
+
+#EXTINF:-1 group-title="🏆Olympics | Paris 2024" tvg-id="6" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",CCTV-5+ | CHINA
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8|user-agent=VLC/3.2.21 LibVLC/3.2.21
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", CCTV-16 | CHINA
+https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8|http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+
+#EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",PPTV HD | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/036_pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+
+#EXTINF:-1 tvg-chno="41" tvg-id="pptv.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",PPTV FHD | THAI
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-id="pptv.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",PPTV | THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+
+#EXTINF:-1 tvg-name="CH7 HD" tvg-id="CH7 HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", CH7 HD | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/035_7HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+
+#EXTINF:-1 tvg-chno="39" tvg-id="ch7.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",CH7 | THAI
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="mcot.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",MCOT HD | THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MCOT HD" tvg-id="MCOT HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", MCOT | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/030_mcothd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+
+#EXTINF:-1 tvg-chno="9" tvg-id="tsports.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",T-Sports7 | THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",true-premier-HD3 | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",true-premier-HD5 | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/604_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
+
+
+=================================🏆Paris 2024 | Olympics=================================================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",🏆Paris 2024 | Olympics
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FR FRANCE TV PARIS 2024 FHD
+http://extraott.com:80/live/5301246455/1849687755/400216157.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FR FRANCE TV PARIS 2024 FHD
+http://extraott.com:80/live/5301246455/1849687755/42985.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FR FRANCE TV PARIS 2024 HD
+http://extraott.com:80/live/5301246455/1849687755/42984.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FR FRANCE TV PARIS 2024 SD
+http://extraott.com:80/live/5301246455/1849687755/42983.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT 1
+http://extraott.com:80/live/5301246455/1849687755/23416.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT 2
+http://extraott.com:80/live/5301246455/1849687755/23417.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT 3
+http://extraott.com:80/live/5301246455/1849687755/23418.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT 4
+http://extraott.com:80/live/5301246455/1849687755/23422.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT 5
+http://extraott.com:80/live/5301246455/1849687755/23425.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT 6
+http://extraott.com:80/live/5301246455/1849687755/23426.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT 7
+http://extraott.com:80/live/5301246455/1849687755/23427.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT 8
+http://extraott.com:80/live/5301246455/1849687755/23428.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT 9
+http://extraott.com:80/live/5301246455/1849687755/23431.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EUROSPORT UHD/4K (CZ)
+http://extraott.com:80/live/5301246455/1849687755/23432.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK (Olympics) EUROSPORT UHD/4k
+http://extraott.com:80/live/5301246455/1849687755/401298363.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK (Olympics) EUROSPORT 2
+http://extraott.com:80/live/5301246455/1849687755/401298365.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK (Olympics) EUROSPORT 3
+http://extraott.com:80/live/5301246455/1849687755/401298366.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK (Olympics) EUROSPORT 4
+http://extraott.com:80/live/5301246455/1849687755/401298367.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK (Olympics) EUROSPORT 5
+http://extraott.com:80/live/5301246455/1849687755/401298368.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK (Olympics) EUROSPORT 6
+http://extraott.com:80/live/5301246455/1849687755/401298369.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK (Olympics) EUROSPORT 7
+http://extraott.com:80/live/5301246455/1849687755/401298370.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK (Olympics) EUROSPORT 8
+http://extraott.com:80/live/5301246455/1849687755/401298371.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK (Olympics) EUROSPORT 9
+http://extraott.com:80/live/5301246455/1849687755/401298372.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| US LATIN NBC UNIVERSO
+http://extraott.com:80/live/5301246455/1849687755/400216156.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| US LATIN UNIVERSO
+http://extraott.com:80/live/5301246455/1849687755/400216155.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| US NBC SN FHD
+http://extraott.com:80/live/5301246455/1849687755/400216154.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| US USA NETWORK
+http://extraott.com:80/live/5301246455/1849687755/400216153.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| US CNBC
+http://extraott.com:80/live/5301246455/1849687755/400216152.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CA SPORTSNET ONE HD
+http://extraott.com:80/live/5301246455/1849687755/65006.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CA CBC NEWS NETWORK HD
+http://extraott.com:80/live/5301246455/1849687755/65005.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CA TSN 1 HD
+http://extraott.com:80/live/5301246455/1849687755/65004.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CA TSN 2 HD
+http://extraott.com:80/live/5301246455/1849687755/65003.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CA TSN 3 HD
+http://extraott.com:80/live/5301246455/1849687755/65002.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CA TSN 4 HD
+http://extraott.com:80/live/5301246455/1849687755/65001.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CA TSN 5 HD
+http://extraott.com:80/live/5301246455/1849687755/65000.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CA (FR) ICI RADIO-CANADA TELE TORONTO
+http://extraott.com:80/live/5301246455/1849687755/400216148.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| MA ARRYADIA OLYMPICS HD
+http://extraott.com:80/live/5301246455/1849687755/59229.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| MA ARRYADIA OLYMPICS SD
+http://extraott.com:80/live/5301246455/1849687755/59228.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| MA ARRYADIA OLYMPICS HEVC
+http://extraott.com:80/live/5301246455/1849687755/59207.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK BBC 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400216147.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK BBC 2 HD
+http://extraott.com:80/live/5301246455/1849687755/400216146.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK EUROSPORT 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400338974.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| UK EUROSPORT 2 HD
+http://extraott.com:80/live/5301246455/1849687755/400216145.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| AU CHANNEL 7 HD
+http://extraott.com:80/live/5301246455/1849687755/400216144.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| AU SEVEN HD
+http://extraott.com:80/live/5301246455/1849687755/400216143.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| IE  RTE ONE HD
+http://extraott.com:80/live/5301246455/1849687755/400216141.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| IE  RTE TWO HD
+http://extraott.com:80/live/5301246455/1849687755/400216140.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| SH SRF INFO HD
+http://extraott.com:80/live/5301246455/1849687755/400216138.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| SH RSI LA 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400216137.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| SH RSI LA 2 HD
+http://extraott.com:80/live/5301246455/1849687755/400216136.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| DE ARD HD
+http://extraott.com:80/live/5301246455/1849687755/400216135.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| DE ZDF HD
+http://extraott.com:80/live/5301246455/1849687755/400216134.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| DE ZDFINFO HD
+http://extraott.com:80/live/5301246455/1849687755/400216133.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| DE ZDF NEO HD
+http://extraott.com:80/live/5301246455/1849687755/400216132.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FR CANAL+ SPORT HD
+http://extraott.com:80/live/5301246455/1849687755/400216131.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FR EUROSPORT 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400216130.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FR EUROSPORT 2 HD
+http://extraott.com:80/live/5301246455/1849687755/400216129.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| IT EUROSPORT 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400216128.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| IT RAI SPORT+ HD
+http://extraott.com:80/live/5301246455/1849687755/400216126.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| SW KANAL 5 HD
+http://extraott.com:80/live/5301246455/1849687755/400216117.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| RO TVR 1
+http://extraott.com:80/live/5301246455/1849687755/400216114.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| RO TVR 2
+http://extraott.com:80/live/5301246455/1849687755/400216113.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| RO TVR 3 HD
+http://extraott.com:80/live/5301246455/1849687755/400216112.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| PT RTP 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400216111.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| PT RTP 2 HD
+http://extraott.com:80/live/5301246455/1849687755/400216110.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| PT RTP 3 HD
+http://extraott.com:80/live/5301246455/1849687755/400216109.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| NO TV NORGE HD
+http://extraott.com:80/live/5301246455/1849687755/400216108.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| LT TV3 SPORT HD
+http://extraott.com:80/live/5301246455/1849687755/400216107.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| LT TV3 SPORT 2 HD
+http://extraott.com:80/live/5301246455/1849687755/400216106.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| AL RTK 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400216105.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| AL RTK 2 HD
+http://extraott.com:80/live/5301246455/1849687755/400216104.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| AL RTK 3 HD
+http://extraott.com:80/live/5301246455/1849687755/400216103.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| AL RTK 4 HD
+http://extraott.com:80/live/5301246455/1849687755/400216102.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FI YLE TEEMA FEM HD
+http://extraott.com:80/live/5301246455/1849687755/400216101.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FI YLE TV 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400216100.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| FI YLE TV2 HD
+http://extraott.com:80/live/5301246455/1849687755/400216099.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| DK DR 1 FHD
+http://extraott.com:80/live/5301246455/1849687755/400216098.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| DK DR 2 FHD
+http://extraott.com:80/live/5301246455/1849687755/400216097.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| DK DR RAMASJANG SD
+http://extraott.com:80/live/5301246455/1849687755/400216096.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CAR SPORTS MAX
+http://extraott.com:80/live/5301246455/1849687755/400216094.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| CAR SPORTS MAX 2
+http://extraott.com:80/live/5301246455/1849687755/400216093.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| BG BNT 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400216092.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| BG BNT 2 HD
+http://extraott.com:80/live/5301246455/1849687755/400216091.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| BG BNT 3 HD
+http://extraott.com:80/live/5301246455/1849687755/400216090.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| BG BNT 4 HD
+http://extraott.com:80/live/5301246455/1849687755/400216089.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| EXYU MPT 1 HD
+http://extraott.com:80/live/5301246455/1849687755/400216088.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 02
+http://extraott.com:80/live/5301246455/1849687755/401299355.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 03
+http://extraott.com:80/live/5301246455/1849687755/401299356.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 04
+http://extraott.com:80/live/5301246455/1849687755/401299357.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 05
+http://extraott.com:80/live/5301246455/1849687755/401299358.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 06
+http://extraott.com:80/live/5301246455/1849687755/401299359.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 07
+http://extraott.com:80/live/5301246455/1849687755/401299360.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 08
+http://extraott.com:80/live/5301246455/1849687755/401299361.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 09
+http://extraott.com:80/live/5301246455/1849687755/401299362.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 10
+http://extraott.com:80/live/5301246455/1849687755/401299363.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 11
+http://extraott.com:80/live/5301246455/1849687755/401299364.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 12
+http://extraott.com:80/live/5301246455/1849687755/401299365.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 13
+http://extraott.com:80/live/5301246455/1849687755/401299366.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 14
+http://extraott.com:80/live/5301246455/1849687755/401299367.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 15
+http://extraott.com:80/live/5301246455/1849687755/401299368.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 16
+http://extraott.com:80/live/5301246455/1849687755/401299369.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 17
+http://extraott.com:80/live/5301246455/1849687755/401299370.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co.com/RPgkLYx/Tiket-Olimpiade-Paris-2024.jpg" group-title="🏆Paris 2024 | Olympics",OL| TNT SPORTS EVENT 18
+http://extraott.com:80/live/5301246455/1849687755/401299371.m3u8
+
+=================================================================================================================================
 
 ################  INFORMASI #################
 #EXTINF:-1 group-logo="https://www.smpn03batu.sch.id/upload/imagecache/44508792template-pin-warna-merah-800x800.png",0⚠️ INFORMASI TV OM IDIQ ⚠️0
