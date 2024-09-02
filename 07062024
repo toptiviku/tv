@@ -1705,6 +1705,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="KIDS / ANAK-ANAK",ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jvx9qew6jkltzmdaupekj/talking-tom.jpg?rlkey=wm16mulie2eyu51itbo0qreok&dl=0" group-title="KIDS / ANAK-ANAK", TalkingTom
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
