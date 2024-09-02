@@ -3083,6 +3083,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.m
 ################################################################################################################
 <==========INDEHOME==========>
 
+#EXTINF:-1 group-logo="https://logowik.com/content/uploads/images/home-credit706.logowik.com.webp",HOME CREDIT
+
 #EXTINF:-1 group-title="HOME CREDIT"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDEHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
