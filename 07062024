@@ -1706,8 +1706,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="KIDS / ANAK-ANAK",ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jvx9qew6jkltzmdaupekj/talking-tom.jpg?rlkey=wm16mulie2eyu51itbo0qreok&dl=0" group-title="KIDS / ANAK-ANAK", TalkingTom
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTadiI3aba6VclbF3zSbzp1jhIyMTMmntcx5Q&s" group-title="KIDS / ANAK-ANAK", Talking Tom
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgk9LIhUntJfjsc4ORqeZJW0FTL0-E_JDLfw&s" group-title="KIDS / ANAK-ANAK", Talking Friends TV Mini
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s-R-NZzE1DykR8aTdSgwfTgbTOOZ1jivew&s" group-title="KIDS / ANAK-ANAK", Disney Junio
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtgJBq6fQ-CCaoTHJxMcX1p0ndhrjmTc-Fw&s" group-title="KIDS / ANAK-ANAK", Tayo the Little Bus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
