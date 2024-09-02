@@ -1570,22 +1570,6 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/video/info.m3u8
 
-#EXTINF:-1 group-title="TV DAERAH" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
-
-#EXTINF:-1 group-title="TV DAERAH" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
-
-#EXTINF:-1 group-title="TV DAERAH" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
-
-#EXTINF:-1 group-title="TV DAERAH" tvg-id="iptv.urfan.web.id" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
-	
 
 ################################################################################################################
 <=========================================== TVRI GROUP =========================================>
