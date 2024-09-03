@@ -65,7 +65,10 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 ====================
 ##################################################
-
+!
+!
+!
+!
 =====================================LIVE | LALIGA==========================================================================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0FFXxWT5HNlKkcGM9Sh7aQzJv0m6Kyjc9A&s",LIVE LALIGA
 
@@ -349,8 +352,6 @@ https://topembed.mizhls.ru/lb/premium400/playlist.m3u8
 https://topembed.mizhls.ru/lb/premium435/playlist.m3u8
 
 
-
-
 ##################################################
 ===========LIVE BOLA================
 
@@ -457,7 +458,11 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/o
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-
+##################################################
+!
+!
+!
+!
 ================BeIN Sport 2 =====================
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",BeIN Sport Channels
@@ -693,7 +698,11 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 https://thedream.biz.id/live/esceteve.m3u8
 
 ====================
-
+##################################################
+!
+!
+!
+!
 
 ############ INDOSIAR SCTV MOJI NO ACAK ##################
 
@@ -766,6 +775,11 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
 #EXTINF:-1 tvg-id="" group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI b
 http://194.120.144.74:8070/live/AmirBilali/76448035/298550.ts
 
+##################################################
+!
+!
+!
+!
 ==============================================================
 ############  BADMINTON   ############ 
 #EXTINF:-1 group-logo="https://p7.hiclipart.com/preview/461/812/18/bwf-world-championships-premier-badminton-league-badminton-world-federation-badminton-new-zealand-play-badminton.jpg",🏆 BADMINTON / BULU TANGKIS 🏆
@@ -803,6 +817,11 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="🏆 BADMINTON / BULU TANGKIS 🏆",BWF 4
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+##################################################
+!
+!
+!
+!
 =====================================================================
 <========== 👑EVENT MOTO GP👑 ==========>
 #EXTINF:-1 group-logo="https://i.ibb.co.com/m8w2PMq/moto-gp.png",🏍️ EVENT MOTO GP 🏍️
@@ -835,7 +854,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122760
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
@@ -843,7 +861,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122772
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="🏍️ EVENT MOTO GP 🏍️",SpoTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -883,6 +900,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="🏍️ EVENT MOTO GP 🏍️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+##################################################
+!
+!
+!
+!
 <========== PROLIGA ==========>
 #EXTINF:-1 group-logo="https://beetv.my.id/logo/proliga.png",🏆 PROLIGA 🏆
 
@@ -921,13 +943,11 @@ http://xtv.ooo:8080/live/miqbal/989796/350997.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.imgur.com/u47RJYl.png" group-title="🏆 PROLIGA 🏆",Moji
 http://iptvtree.net:8080/F14995/a84c0963/298550
 
-
-
-
-
-
-<noscript>
-
+##################################################
+!
+!
+!
+!
 
 
 
@@ -991,7 +1011,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", TRANS7 a 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1081,7 +1100,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
-
 
 #EXTINF:-1 tvg-id="60" tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", FIGHT SPORTS HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1384,7 +1402,6 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV no acak
 http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ",INDOSIAR Transvision
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1425,7 +1442,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #http://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3sBQgmR
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", Moji 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -1512,7 +1528,6 @@ http://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://github.com/Qingtvnew/test/raw/main/OKTV.png", OK TV V+
 http://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
 
 
 ################################################################################################################
@@ -1836,7 +1851,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NaDooKorean
 
-
 #EXTINF:-1 tvg-id="80" tvg-logo="https://www.dens.tv/images/channel-logo/80.jpg" group-title="INDONESIA TV (Server 4) 🇮🇩 ", BTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -2018,7 +2032,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport
 
-
 #EXTINF:-1 tvg-id="61" tvg-logo="https://www.dens.tv/images/channel-logo/61.jpg" group-title="INDONESIA TV (Server 4) 🇮🇩 ", CNA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -2099,6 +2112,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
 
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 ========= INDONESIA DAERAH ============
 #EXTINF:-1 group-logo="https://masdik.com/wp-content/uploads/2016/11/indonesia-merah-putih-map.png",TV DAERAH
@@ -2277,7 +2295,11 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/video/info.m3u8
 
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <=========================================== TVRI GROUP =========================================>
 
@@ -2382,7 +2404,11 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="TVRI GROUP",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
 
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <==========KIDS==========>
 
@@ -2487,7 +2513,6 @@ https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
 #EXTINF:-1 group-title="KIDS / ANAK-ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/320px-Moonbug_Kids.svg.png",BabyTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd|referer=https://www.visionplus.id
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2496,7 +2521,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-Ne
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="KIDS / ANAK-ANAK" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2546,7 +2570,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 #EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="KIDS / ANAK-ANAK",MyKids
 https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2571,7 +2594,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd|refe
 #EXTINF:-1  group-title="KIDS / ANAK-ANAK" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <==========ENTERTAINMENT==========>
 #EXTINF:-1 group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png",LIFESTYLE & ENTERTAINMENT
@@ -2703,7 +2730,11 @@ https://testfunctionlive.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <==========NEWS==========>
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Enis4n.png",NEWS / BERITA
@@ -2839,6 +2870,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 ################################################################################################################
+!
+!
+!
+!
+################################################################################################################
 <==========KNOWLEDGE==========>
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4JVKrZlAVv5V10whrCF_FS6n-zYkRg0xcW7kQMZ2oK2QjRwN1b_Znh8A4W-FAWeGteM&usqp=CAU",ENGETAHUAN & DOCUMENTARY
 
@@ -2896,7 +2932,11 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://testfunctionlive.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <==========SPORTS EXTRA==========>
 
@@ -3638,6 +3678,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 ################################################################################################################
+!
+!
+!
+!
+################################################################################################################
 <========== MUSIK TV ==========>
 
 #EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/182/465/png-clipart-mtv-logo-tv-television-music-video-others-miscellaneous-television.png",TV MUSIK
@@ -3729,7 +3774,11 @@ https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <========== AGAMA / RELIGI ==========>
 
@@ -3790,7 +3839,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 
-
+################################################################################################################
+!
+!
+!
+!
 ===========================================================================
 ################################################################################################################
 <==========INDEHOME==========>
@@ -4156,7 +4209,11 @@ https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 #EXTINF:-1 group-title="HOME CREDIT 2"   tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <========== Murrottal Alqur'an 30 juz ==========>
 
@@ -4282,8 +4339,11 @@ http://j.mp/2bFRyBF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2bFREcc
 
-
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <================ KOREA ===================>
 #EXTINF:-1 group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-15.png",KOREA TV
@@ -4346,7 +4406,11 @@ https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="https://e1.pngegg.com/pngimages/722/720/png-clipart-korean-drama-ico-korean-drama-512x512-icon-thumbnail.png" group-title="KOREA TV",Kpop SHow
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <================ RADIO ===================>
 
@@ -4751,7 +4815,11 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
 
-
+################################################################################################################
+!
+!
+!
+!
 ######################################################################################
 <==========MOVIES==========>
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/EniKeA.png",FILM MOVIES TV
@@ -4924,10 +4992,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #EXTINF:-1 tvg-id="" group-title="FILM MOVIES TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fmn.jpg",FMN
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-=============================================
-=============================================
-
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 <==========HBO GROUP==========>
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYd7B0ThmdKZ7lRfkmKrUq4b3XlfFdbpvqfQGSAmyPfm8WupTzbYUo4IWb2jlNZH9ji0&usqp=CAU",HBO GROUP
@@ -8343,9 +8412,11 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/653f6908d940521074e
 #KODIPROP:inputstream.adaptive.license_key=88bfaf1cf2aa5f80a56b1d8a30fcd23f:997bf96d4b3e2bec266b6ba0fa4ee735
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6010249c6d048943f772720c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-
-
-
+################################################################################################################
+!
+!
+!
+!
 ################################################################################################################
 ###################### YOUTUBE FAVORIT ###########################
 #EXTINF:-1 group-logo="https://seeklogo.com/images/Y/youtube-logo-51CDA55827-seeklogo.com.png",YOUTUBE FAVORIT
