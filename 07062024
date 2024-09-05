@@ -1208,24 +1208,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png" tvg-id="simpleTVFakeEpgId",SEA TODAY
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://iptv.urfan.web.id/logo/info.png" tvg-id="simpleTVFakeEpgId",iptv.urfan.web.id
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://iptv.urfan.web.id/logo/info.png" tvg-id="simpleTVFakeEpgId",Playlist Ini Gratis
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://iptv.urfan.web.id/logo/info.png" tvg-id="simpleTVFakeEpgId",Playlist Ini Tanpa Donasi
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://iptv.urfan.web.id/logo/info.png" tvg-id="simpleTVFakeEpgId",Tidak Boleh Diperjualbelikan
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://iptv.urfan.web.id/logo/info.png" tvg-id="simpleTVFakeEpgId",Tidak Boleh Dibundling Untuk Jualan
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://iptv.urfan.web.id/video/info.m3u8
-#EXTINF:-1 group-title="Daerah" tvg-logo="https://iptv.urfan.web.id/logo/siaktv.png" tvg-id="simpleTVFakeEpgId",SIAKTV
-#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch60.m3u8
 
 ==================================================================================
 
