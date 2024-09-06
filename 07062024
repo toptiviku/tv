@@ -1479,12 +1479,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dusk.biz.id/red/play.m3u8?id=206&type=hls
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA TV (Server 3) 🇮🇩 ", MOJI TV
-#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8", MOJI TV
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA TV (Server 3) 🇮🇩 ", MOJI TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
- 
 
 ################################################################################################################
 ################ "INDONESIA TV (Server 4) 🇮🇩 "  ###################
@@ -1643,7 +1640,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
-
 
 #EXTINF:-1 tvg-id="38" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg" group-title="INDONESIA TV (Server 4) 🇮🇩 ", ANIPLUS HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
