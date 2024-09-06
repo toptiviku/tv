@@ -2047,7 +2047,7 @@ https://iptv.urfan.web.id/video/info.m3u8
 ################################################################################################################
 <=========================================== TVRI GROUP =========================================>
 
-#EXTINF:-1 group-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png",TVRI GROUP
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&s",TVRI GROUP
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="TVRI GROUP",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
