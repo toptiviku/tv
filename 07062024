@@ -429,8 +429,62 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 
 ##################################################
 !
+
+=======BEIN|AR=======
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/ce/23/7d/ce237d50dfbf3e94436ff047ac31ba47.png",BEIN|AR
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 1
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/46394.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 2
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/76.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 3
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/77.m3u8
+
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 4
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/61.m3u8
+
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 5
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/62.m3u8
+
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 6
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/63.m3u8
+
 !
 !
+===========
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/ce/23/7d/ce237d50dfbf3e94436ff047ac31ba47.png",BEIN AUTO
+
+https://gatotkaca007.serv00.net/red/play.mpd?id=6299&type=dash 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/bein_id.png" group-title="BEIN AUTO",Bein ID 3 (HD) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6317&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+https://gatotkaca007.serv00.net/red/play.mpd?id=6317&type=dash 
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben2.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben6.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben7.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN EXTRA 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra1.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN EXTRA 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
 !
 ================BeIN Sport 2 =====================
 
