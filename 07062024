@@ -671,19 +671,17 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
 
 =========================
 
-############  PIALA PRESIDEN ############ 
+############  BRI LIGA 1############ 
 
 #EXTINF:-1 group-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=650",🏆 BRI LIGA 1 🏆
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="🏆 BRI LIGA 1 🏆",INDOSIAR 2
-http://stb.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8da.m3u8
+#EXTINF:-1 group-title="🏆 BRI LIGA 1 🏆" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1(A)
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#EXTVLCOPT:http-referrer=https://colloriptvpro.my.id/
+https://colloriptvpro.my.id/stream/live/indosiar&tokenkey=ikan.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="🏆 BRI LIGA 1 🏆",INDOSIAR 3
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🏆 BRI LIGA 1 🏆", INDOSIAR 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#EXTINF:-1 group-title="🏆 BRI LIGA 1 🏆" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1(B)
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/162138
 
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/306/2024/07/11/Logo-Piala-Presiden-Twitter-4269523415.png", tvg-id="ksport1hd" group-title="🏆 BRI LIGA 1 🏆", LIGA INDO U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
