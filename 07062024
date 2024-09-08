@@ -699,48 +699,16 @@ https://thedream.biz.id/live/esceteve.m3u8
 
 #EXTINF:-1 group-logo="https://ia601802.us.archive.org/25/items/live-event_202103/live-event.jpg",🏆🟢 LIVE EVENT NO ACAK 🟢🏆
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/endosiar.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
 https://thedream.biz.id/live/esceteve.m3u8
 
-#EXTINF:-1 group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆" tvg-logo="https://rakuda.infosport.web.id/include/img/rakuda-logo.png" , Live-Rakuda
-http://172.16.51.2:8080/memfs/b2b93a67-633e-48a3-b6b1-1a27222351a7.m3u8
-
 #EXTINF:-1 group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆" tvg-logo="https://thumbor.prod.vidiocdn.com/modYefAxqva6RNHQfcBSELn-c5M=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/338/asean-u19-ee4d40.png" , RMBTV
 http://1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w1087499960_b1800000_sleng.m3u8
 
-#EXTINF:-1 group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",RIMBA TV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://i.fdcdn.xyz/v11/?id=e1jygQx&theme_id=vebotv&t=1&n=Backup1&c=&link=https%3A%2F%2Fapisportvb90xltcbk-secure.nsnd.live%2FnI7l71q73lpDwSOe7yK7dA%2FFv2lucGIbhPi2caWYvF5Lg%2F1722018822786%2Flive%2Fsd-6MsGPztbfGAfw25nVq%2Fplaylist.m3u8
-
-#EXTINF:-1 group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆" tvg-id="Indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krUQa0bXUdPB1cr1pk6HPB4_bHkXzVhUOJzHVZf7CWU2AF1Fvd5ETqjRyV8K2_NvW24&usqp=CAU",INDOSIAR THAILAND (xStream)
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://xyssatu.pages.dev/hls/ttsd.m3u8
-
 #EXTINF:-1 group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 1
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
-
-#EXTINF:-1 group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 2
-http://iptvtree.net:8080/e891d265/89d742c3/162138
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆",INDOSIAR 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆",INDOSIAR 2
-http://stb.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8da.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆",INDOSIAR 3
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
-
-#EXTINF:-1 tvg-id="" group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR a
-http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
 
 #EXTINF:-1 tvg-id="" group-title="🏆🟢 LIVE EVENT NO ACAK 🟢🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR b
 http://xtv.ooo:8080/321166661/52816191/350972
