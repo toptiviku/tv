@@ -430,26 +430,26 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 ##################################################
 !
 
-=======BEIN|AR=======
+=======BEIN | AR=======
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/ce/23/7d/ce237d50dfbf3e94436ff047ac31ba47.png",BEIN|AR
+#EXTINF:-1 group-logo="https://i.pinimg.com/originals/ce/23/7d/ce237d50dfbf3e94436ff047ac31ba47.png",BEIN | AR
 
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 1
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN | AR",beIN 1
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/46394.m3u8
 
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 2
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN | AR",beIN 2
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/76.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 3
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN | AR",beIN 3
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/77.m3u8
 
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 4
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN | AR",beIN 4
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/61.m3u8
 
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 5
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN | AR",beIN 5
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/62.m3u8
 
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN|AR",beIN 6
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beINSports.png" group-title="BEIN | AR",beIN 6
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/63.m3u8
 
 !
