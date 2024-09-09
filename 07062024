@@ -10817,6 +10817,375 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90dae6ba74fe65548
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YEeZ4c9UgB17RydT36Jfwg","kid":"MVmfJuVSikUENmDWWYs1Cg"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6431f52cd940521074cdc879_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
+====================
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016336X0-portrait.jpg",The Tuskegee Airmen 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/d8Res15khfnNWhM7P8B0A","kid":"AnbiO8N1WHyoPE5mQYO2Hg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c767514be7189575a8c5a79_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018585X0-portrait.jpg",Hbo Comedy Half-Hour 10: Dana Gould 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eNogNxH0m4rd4zJe4EucnQ","kid":"qE22PfTEWCKczy3VghPZ9A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912aafba74fe65548cba36_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018851X0-portrait.jpg",Hbo Comedy Half-Hour 09: Steve Harvey 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kHR6PjhL+cHNSeiww/NmWw","kid":"XRA6fIK3VfeaT+kRpotGgg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912b8eba74fe65548cba50_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009217X0-portrait.jpg",Virtuosity 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0ryXV3oAAfWZYnuvu8yiYw","kid":"h3wP3OWhSqpkhDXG3okPVA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63d1bebcd940521074c4be90_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014541X0-portrait.jpg",Clueless 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DYIcqgX6HAWZ5xjrOVsFDA","kid":"9Rp38+15XjmFd3aWhvsOIQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f5886f16d048943f7618336_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009176X0-portrait.jpg",Batman Forever 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0X2iQc3uHt8s8UUxPkPk8Q","kid":"uaC9tGnXUzCsDViGLJE4oA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe83fee59f821aa9e6ef63_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019076X0-portrait.jpg",Indictment: The Mcmartin Trial 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hh8zFEPKL+5ma2dl9b4d0g","kid":"Igk4e9vcX36KIBf3iXqDAA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c0dafbe7189575a8ce2bd_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014867X0-portrait.jpg",One Survivor Remembers 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5RnQ/D/pTFhn1Hx1evy9ag","kid":"YdTzKX4XXbyiCbdhwSSbhQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90d466ba74fe65548cb132_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015952X0-portrait.jpg",Tyson 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0NHrdnzyywVpAcyiFE8K9Q","kid":"DhJQqYxAVSieQDHwvbSpYw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dbbd01dcbea8a6a4ef3b9d2_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017829X0-portrait.jpg",In Pursuit Of Honor 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EEruK8csAybvxvopwILvqQ","kid":"g+WFbUnTVSu46WSTOsIe5w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c790a00be7189575a8c99a4_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017831X0-portrait.jpg",Citizen X 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"veXCn6XVqcOWVedPZOZjgQ","kid":"xGRIEQPhUOOGwxDMNBmBpQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c790a23be7189575a8c99a9_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017445X0-portrait.jpg",5 American Handguns - 5 American Kids: America Undercover 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TK0vdtR0UKxT9wB/EdaY1Q","kid":"hi2h/qyxXTOFzl5w2il9vQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912286ba74fe65548cb94f_hbovodsd/dash0/IDN_index.mpd
+
+====================
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018037X0-portrait.jpg",Witch Hunt 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a0isDWGMA5GzmoOlGaNkyg","kid":"ssiegy/UUKOxgnYj0tj0fg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c79e4d1be7189575a8cae11_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017832X0-portrait.jpg",The Enemy Within 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bBfYiACzeVO4wDUt7+Y41A","kid":"av5pdtXAVbi34CTI+9tfTQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c790a3ebe7189575a8c99ad_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018583X0-portrait.jpg",Hbo Comedy Half-Hour 07: Eddie Griffin 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tbDrrLyEedhRtnO+m+Phkw","kid":"c7lZmiBSUz2hLp4QiGi7wA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912a4cba74fe65548cba29_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018582X0-portrait.jpg",Hbo Comedy Half-Hour 06: Bob Smith 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"P6krdkd1pMi36jAPSxI4Lg","kid":"EoFtyidRWbK+W/kilpZiGA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912a1aba74fe65548cba22_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019624X0-portrait.jpg",P.O.W.E.R. The Eddie Matos Story 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"15BAigy5mMg6rwGieZIMcg","kid":"+dPIVPwvUx+SrkUcf3IVWQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c913180ba74fe65548cbaf5_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017367X0-portrait.jpg",Lock Up: The Prisoners Of Rikers Island 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZxTJqNxGUMERu0tsixaH/A","kid":"heHv8UYrV3iJc7giDkCrwA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c91201fba74fe65548cb90d_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016332X0-portrait.jpg",White Mile 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x2mi/PNY87mIUx6dCtUsYg","kid":"h10Rv3VfUSKUS90fivPZbw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7674c8be7189575a8c5a6e_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019647X0-portrait.jpg",Confronting Brandon: The Intervention Of An Addict 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RHH8wRkcFhbRHrBdeFKytQ","kid":"DwZpkI+QXFepuZgXejFHYQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c9131b8ba74fe65548cbafc_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015601X0-portrait.jpg",A Deadly Secret 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+dz4yVUEKdctYtryxpFmog","kid":"AvFjwScGV56XIaMEvEFAOg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90e1a4ba74fe65548cb2c0_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018295X0-portrait.jpg",Martin Lawrence You So Crazy 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LXPpU33JuRySS+1SVsMptQ","kid":"RSvBSCVmX8O0/6wmy8ac7g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5de8cd38cbea8a6a4ef805a4_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015597X0-portrait.jpg",Lifestories 10: Families In Crisis: A Child Betrayed: The Calvin Mire Story 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IMhN5OdbYNVZPoUv0TqekQ","kid":"FyhNAbgJX3SOQ3QtToyuXA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90da51ba74fe65548cb1d9_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018045X0-portrait.jpg",Against The Wall 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cKPcDii0QfoGOZdNX0XyyA","kid":"nJXgLIRrXzG2UNTowsQUgQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c79e54fbe7189575a8cae25_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018441X0-portrait.jpg",Hbo Comedy Half-Hour 28: David Cross 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"L8yvlfy4p+n5BD2bhffB5Q","kid":"WGZ3ZtH+UfanDCmwGZ2lbw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912965ba74fe65548cba0e_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018584X0-portrait.jpg",Hbo Comedy Half-Hour 08: Margaret Cho 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"f6B/LJ4RlasjxH2h4ic3+g","kid":"MKTgdgERUaSsaoAZaYcsdg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912a7dba74fe65548cba2f_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018907X0-portrait.jpg",Hbo Comedy Half-Hour 02: D.L. Hughley 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CV7dq94LLPSW7rsXMwyRhA","kid":"qreGncptV2e/woqu99JgdA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912bc1ba74fe65548cba57_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018918X0-portrait.jpg",Hbo Comedy Half-Hour 03: Simply Marvalous 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"teAJ8FNO4unKduXyZ9Mkzg","kid":"IZiddq2cWLiSi40UWFH0kA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912cacba74fe65548cba71_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019149X0-portrait.jpg",Autopsy: Confessions Of A Medical Examiner 1994
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YRbHKN9nDvn47LvcxKFehw","kid":"uzIKULMxUI6SmhNw+C72eQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912e8fba74fe65548cbaa5_hbovodsd/dash0/IDN_index.mpd
+
+====================
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019105X0-portrait.jpg",Batman: Mask Of The Phantasm 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BYUbXlIe01hXwbYBFxq08w","kid":"RjtvcozBWRycv9+y37mFSA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6125aac32bd0bb5cd89fc5a8_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017356X0-portrait.jpg",The Last Outlaw 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ERndlbeFwUG8XcmIwgRRKQ","kid":"PP+EWKHBUL2VZGt8lOvtiw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c78e258be7189575a8c9562_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014716X0-portrait.jpg",And The Band Played On 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZIKHhF/api2P4KHdf2+Xpg","kid":"fE10seF+VdK7FLT4/dUvAg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c715e2cbe7189575a8bde9c_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029391X0-portrait.jpg",Tom And Jerry: The Movie 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jF1ocz7bRp5JlARz1iI2Kw","kid":"yh6GrRqXXKiE8kKRESufYg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6018f3566d048943f7734227_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018019X0-portrait.jpg",Jurassic Park 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6bJRLE9bD6iFEcd54YmVQA","kid":"Zc/ioTX/V8a05jCJOPJ+kQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fd9273ae366782ad9ab33_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016274X0-portrait.jpg",Daybreak 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e9B3RmdzJ6w+Tv0gOFAHcQ","kid":"xLnhgkUFXBCbz4b8xR2YCg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c766ca8be7189575a8c5995_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019069X0-portrait.jpg",Skinheads Usa: Soldiers Of The Race War 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uN+RTmjdKVg6RWBje22IGw","kid":"DH2M57iQXNyR/IcGTBEE7w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912d8fba74fe65548cba89_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015595X0-portrait.jpg",Dead Drunk: The Kevin Tunell Story 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Fdi7Lyf/bZHkLh1WJO41yg","kid":"jMQgAhnoXQWdPaqAWEm5dQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90d9d9ba74fe65548cb1ca_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015599X0-portrait.jpg",No Visible Bruises: The Katie Koestner Story 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"W0RPK2Mm/cTmGHGNpfbFyA","kid":"4vM8b7mOVeKSUBTw8RH60g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c750f12be7189575a8c37f2_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016564X0-portrait.jpg",Mob Stories 1993
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fj2fkAqjST+m01ZcnJGDhw","kid":"FC2Sy8smW46U65oxU2zhEQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c911763ba74fe65548cb80f_hbovodsd/dash0/IDN_index.mpd
+
+====================
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015602X0-portrait.jpg",Bloodbrothers: The Joey Dipaolo Story 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4RqJD/MOQyQT9FR3M+LhUQ","kid":"DbPBLWjrVoqeqH4hE07VIQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90e1f5ba74fe65548cb2ca_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015598X0-portrait.jpg",Gunplay: The Last Day In The Life Of Brian Darling 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q/JPbixyFJv/aVH7Jvs6xQ","kid":"Sm6Lbd+1VAyFWZ3/zANV9Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c750ee4be7189575a8c37ec_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015596X0-portrait.jpg",Public Law 106: The Becky Bell Story 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lWKPQU3qRUZDcAh95TH9wg","kid":"3DcPvZyKVyiCSXE2zcbjQA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90da18ba74fe65548cb1d2_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015600X0-portrait.jpg",The Secret Life Of Mary-Margaret: Portrait Of A Bulimic 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MOfTDxjNEDBb80ppNnR/FA","kid":"wS38ESiVV2OsWIvEpYTBoQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90da94ba74fe65548cb1e1_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009606X0-portrait.jpg",Batman Returns 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ysIc4cD57CMmSme4u+FvMw","kid":"ylphBMYvUxucDjOIZZujOw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fbc8a3e59f821aa9e6ae4b_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014096X0-portrait.jpg",Lethal Weapon 3 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cwrYA4jxlhn3inZmwnb7kg","kid":"dP9YgmvPJoB39OVb1Q2HXQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63805261d940521074bd1593_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019067X0-portrait.jpg",Abortion: Desperate Choices 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"m4uiH+2nvpkuLLjPpdF0ug","kid":"S3fiUG4HVmav4DjmWpH3Zg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912d23ba74fe65548cba7d_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016277X0-portrait.jpg",The Last Of His Tribe 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wKPmLUYLtTFBnPfgcBFPBg","kid":"U5Ld61mAUQe98uHdJ18rpg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c766cc9be7189575a8c599a_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020663X0-portrait.jpg",For Richer, For Poorer 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JGhd0Kj13Wh70l+Kp9a75A","kid":"8h13Jb4TXXSdpH+3QyS4Uw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dcd18cbea8a6a4eef59cc_hbovodsd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018085X0-portrait.jpg",The Iceman Tapes: Conversations With A Killer 1992
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ArtkFC4CcCoOxlk62oG3dQ","kid":"rIyGUiGfUBGx04tLm8jSzA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912443ba74fe65548cb980_hbovodsd/dash0/IDN_index.mpd
+
+====================
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018071X0-portrait.jpg",Cast A Deadly Spell 1991
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bmz2DoD2YA5Qr2uftcSNSw","kid":"S57U9LIVWLSXr2iCYybCdQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c79e60bbe7189575a8cae3a_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016387X0-portrait.jpg",Without Warning: The James Brady Story 1991
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cox0DTLgE83b3y18v36hbg","kid":"URHILFlFXcurWNbAVdFVGA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c9114e7ba74fe65548cb7c9_hbovodsd/dash0/IDN_index.mpd
+
+====================
+
 ################################################################################################################
 !
 !
