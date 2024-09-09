@@ -61,26 +61,25 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65ab21b8d940521074f
 ===================================================================
  HBOGO ASIA 2023
 ===================================================================
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 group-title="HBOGO ASIA 2023" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041607X0-portrait.jpg",Oprah And The Color Purple Journey 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/658501a6d940521074ed91ac_hbovodhd/dash0/IDN_index.mpd
 
+#EXTINF:-1 group-title="HBOGO ASIA 2023" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041831X0-portrait.jpg",Aquaman And The Lost Kingdom 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wfASatvCunB1rGsUOmjNxg", "kid":"K/UnBJ8aM/b6NDWPucK5ew" } ], "type":"temporary" }
-#EXTINF:-1 group-title="HBOGO ASIA 2023" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041831X0-portrait.jpg",Aquaman And The Lost Kingdom 2023
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65d41058d940521074f4f78c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
+#EXTINF:-1 group-title="HBOGO ASIA 2023" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041832X0-portrait.jpg",Wonka 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b9eee44a4d9cbe34c002ed047cdbde:bde829af20214a2a07907c0a537686db
-#EXTINF:-1 group-title="HBOGO ASIA 2023" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041832X0-portrait.jpg",Wonka 2023
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/66570a7ed940521074012bee_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #EXTINF:-1 group-title="HBOGO ASIA 2023" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041481X0-portrait.jpg",Genie 2023
