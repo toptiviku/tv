@@ -7770,6 +7770,384 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/653f6908d940521074e
 #KODIPROP:inputstream.adaptive.license_key=88bfaf1cf2aa5f80a56b1d8a30fcd23f:997bf96d4b3e2bec266b6ba0fa4ee735
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6010249c6d048943f772720c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014106X0-portrait.jpg",Hemingway & Gellhorn 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CN19xBLLX4Wo2Brk1EYDHA","kid":"VzfdEOPLWzGVKjUzFX8Slg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7002e7be7189575a8bbd1d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019966X0-portrait.jpg",The Weight Of The Nation For Kids 01: The Great Cafeteria Takeover 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AREXmrBYgyoZbvzXTPJFow","kid":"fZgstJPjXiieX+ebsVXbrg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ca4994cba74fe65548e8c21_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019962X0-portrait.jpg",The Weight Of The Nation Part 1: Consequences 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"m+JiVIsnBmHSi9Q8ZnebtA","kid":"DBJy4ZogU1q3z72tUhK7GA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e1dfcbe7189575a8d14f0_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019963X0-portrait.jpg",The Weight Of The Nation Part 2: Choices 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3MR1HW1OwHXEHtYMDxkVoA","kid":"df9PB3t9WqWLISilyrJskQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e1e53be7189575a8d14fa_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019964X0-portrait.jpg",The Weight Of The Nation Part 3: Children In Crisis 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fTDo1LBNskZGbTMvGeyafQ","kid":"DtZug37uVvOu9rHMVXBPug"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e1f1abe7189575a8d150f_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019965X0-portrait.jpg",The Weight Of The Nation Part 4: Challenges 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JqfiDJ8Y0PhPY2HTYstaZw","kid":"dlY8DhxtUTWyZ1d2I3JHTw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e1fdfbe7189575a8d1523_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019967X0-portrait.jpg",The Weight Of The Nation For Kids 02: Kebreeya'S Salad Days 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/gn5DgRcAxMOHiJO+pY1rA","kid":"bZEq+0dRUECtT2XvD1ULOA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e2084be7189575a8d1536_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019968X0-portrait.jpg",The Weight Of The Nation For Kids 03: Quiz Ed! 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0Zuk9m4nAfRYEL96m8yeDw","kid":"fiIcWG8DXwqFNCGm2jhTlw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e20e2be7189575a8d1541_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037282X0-portrait.jpg",The Five-Year Engagement 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UeNIA4pIhp55anx6wopv2g","kid":"yPn0Hr+hLk33rVlIbN3aCg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/634281d3d940521074b742ad_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019660X0-portrait.jpg",Mondays At Racine 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qy+mAmsNPp6EbfPRPOPVvQ","kid":"7ghj6HSrWHK5q6fhTINklA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c7516be7189575a8ced11_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019645X0-portrait.jpg",God Is The Bigger Elvis 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aE6AbxVTRi/nuDye7+d0XQ","kid":"VHdxlGOOXFqMkqMxLyvd1g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c73e8be7189575a8ceced_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015142X0-portrait.jpg",Ben 10: Destroy All Aliens 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wXvy00zCgO7HEFOLU0zIzw","kid":"WVX7SXZ/VHmSB2qXT8eM3w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ffc125a6d048943f77092b2_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026454X0-portrait.jpg",Scooby-Doo! Music Of The Vampire 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/zKWL/aK3flSnJQEBXtoqw","kid":"7HdXePCuVl+0Lw9QhNnqHg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fafd3996d048943f769929d_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013809X0-portrait.jpg",Game Change 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZF1cTTfiV0zOCg+vquXqGA","kid":"cyRhTLmUUp2pn0itcZVJew"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dba9c22cbea8a6a4ef39c7d_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014932X0-portrait.jpg",A Thousand Words 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zySppMEzjjjL90TjUOmVgg","kid":"/RZL2uV5U5WTzEMiiihXSA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f4d22566d048943f760779b_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/033344X0-portrait.jpg",Nameless Gangster: Rules Of The Time 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"T8mJ6RV7+qjRlwa9ymBgCw","kid":"5N6uCjQsUiu15LxscFSrNg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64d45453d940521074dd0168_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034830X0-portrait.jpg",The Wedding Diary 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rHfjmZXL/iHe64v8WHkaIQ","kid":"z0ociu3E4fliY8DA/OGJHQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa2076d940521074d90a56_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019661X0-portrait.jpg",In Tahrir Square: 18 Days Of Egypt'S Unfinished Revolution 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pv2xLukvee8Fw4I46ttlNQ","kid":"wD5DbVZ9U822I3fhN3IQ4g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7c7584be7189575a8ced1e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014191X0-portrait.jpg",Mission: Impossible Ghost Protocol 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NYRrrNN8UCd1uYbffaC5QA","kid":"GU3VYXH/UnKtPFygDMqy8g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da5936ccbea8a6a4ef19db9_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021252X0-portrait.jpg",Alvin And The Chipmunks: Chipwrecked 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bd03QgM0XPms4btJ31Hk8g","kid":"cl1f5cS1XA6JASqj0gbI7A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac51b46d048943f7693ebd_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034737X0-portrait.jpg",Already Famous 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wvnZaLtIbqEcMZLDbMmchA","kid":"7f4W0YlKCMdJ2IKLmUhXTg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa1ac3d940521074d909c4_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014810X0-portrait.jpg",Hugo 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0PTVp30hxaf6ERX5LREROw","kid":"/blgnx5aUMOXP5xQCiTK0A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d80ce0f478edf47921f482c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023332X0-portrait.jpg",The Twilight Saga: Breaking Dawn - Part 1 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TcLX2rHcapHaP9XDeArcZQ","kid":"gfLKJwonUPycM4HXtVAWJg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dccd96ccbea8a6a4ef55e32_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014476X0-portrait.jpg",Happy Feet Two 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ksYK4LYMOKxMiJIYvJqhog","kid":"4pCMSfHYcVWUGVZd5FgHIQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62ac68c3d940521074a92e2c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014153X0-portrait.jpg",Puss In Boots (2011) 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3SNw8r37vm08zDvmz7QmGQ","kid":"ksnquE61WBeAbh/OyGcWJQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d80bd886ca45c43bbd80ed0_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021155X0-portrait.jpg",In Time 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SYadyG8IRCbL/vfoQU+abg","kid":"boIl8ZLHX8CNzt0cwhYBlw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb28a8e6d048943f751c8d3_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014414X0-portrait.jpg",Paradise Lost 3: Purgatory 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9fnA/36BskM25JgdehNpNg","kid":"gnZmTvqUVGyoQU3ifJap7g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c70e0a9be7189575a8bd23d_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037591X1-portrait.jpg",50/50 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dHuDFC+NrkGr+mQbiX3Iag","kid":"e+1PA7K2oVm7OfJfZSOyAQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b3df4d940521074bb17f1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014473X0-portrait.jpg",Dolphin Tale 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OJtIskLbiiql8PBf4Wl/2A","kid":"kPteCAgRW4qfiNBLvWJvsw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5cdbdf532db9d34d928fe8c1_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014216X0-portrait.jpg",Abduction 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KSTIutuJRrl2oN4eYvTJJg","kid":"y3pJMRrFot+C5yD7rlgtWQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63d1c016d940521074c4beb4_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026452X0-portrait.jpg",Scooby-Doo! Legend Of The Phantosaur 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LaEWlXX5SlC2HbZJT8RqZQ","kid":"a9X2jI13VlCbDv+0G/uoWw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fbb7a1d6d048943f76aa436_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/026583X0-portrait.jpg",Tom And Jerry And The Wizard Of Oz 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"N1kO0J0Y9MtcbyyXdbBWHQ","kid":"nSlGzJw3X1ezg73H1zPzQA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fab752a6d048943f7692998_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014724X0-portrait.jpg",Spy Kids: All The Time In The World 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IWnAzBIzsywMgOWOm8pp3A","kid":"m3RDeO5R52Foi4H6EWFD8w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64827790d940521074d5541b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014113X0-portrait.jpg",Final Destination 5 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QX/WUZBta7+HAz+V78H3vA","kid":"s/jELSsFV06RrYhAdUB3xQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb10bce6d048943f751a3af_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016573X0-portrait.jpg",There’S Something Wrong About Aunt Diane 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U6ExNbaqyOB0jw6nM7wsqA","kid":"ffODm9+EXLqj5c941BE3Hw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7688a8be7189575a8c5ca0_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014122X0-portrait.jpg",Harry Potter And The Deathly Hallows - Part 2 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8QCGavjStkeCq9z6MknUXw","kid":"FtBJqblyU+y/NB1SyzAUSQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d90582bcbea8a6a4eef99dc_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014864X0-portrait.jpg",Love Crimes Of Kabul 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XrG6Y8cY3yjePJloOAP+KQ","kid":"D4cmGyLlUvqKkCxzqOdwBQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7211a0be7189575a8bef52_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013685X0-portrait.jpg",Transformers: Dark Of The Moon 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MJ7gGzSDJIVFXB8ZYbKvxA","kid":"lTubvZMBUmCLU+d2uwvfyg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fa0c63ae366782ad9a573_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013684X0-portrait.jpg",Super 8 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qcbcKxePIgcs8Nifh23Dew","kid":"H/lukx6jXRmoi1uxHiFr7g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fbaa53ae366782ad9a81f_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015874X0-portrait.jpg",Mann V. Ford 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Se4PuOpM9j34b2wEbwu6ag","kid":"RKjPMMgoXT6+NPxQJTWgFQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dbf9d2ccbea8a6a4ef41636_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/012641X0-portrait.jpg",Too Big To Fail 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FeRLYUEydhCCz2vRhJzhyA","kid":"PgaR7yShX2K5Q+xCGAQ3Ng"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dbf93bbcbea8a6a4ef41541_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013749X0-portrait.jpg",Kung Fu Panda 2 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CYBq/DuE+mJuYPGU6dWBpw","kid":"ZEXyLLa/V4KpdXLPi0qNPw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fb2323ae366782ad9a74c_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020030X0-portrait.jpg",Habla Texas Part 1 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BQu25/gEsViv+hOy/Vag0A","kid":"4vlRBD6fUrucxMqZ+g4gqQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e2df3be7189575a8d16b3_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020031X0-portrait.jpg",Habla Texas Part 2 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UuLfDJ4ui3W3n09DDIELuQ","kid":"wXYr5PJCWo2x1M3h1yX7Xw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e2e47be7189575a8d16bd_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013388X0-portrait.jpg",Cinema Verite 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"c03yqg425cJAoQtYsuXAHg","kid":"3Wqd2QGfX5CJKPyW8xIXsQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c6ad2868e4430572486d940_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014843X0-portrait.jpg",Saving Pelican 895 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OECSUjV97IgVsX5OpU21Ng","kid":"6u9lZAbTWKqsJJMwHXK4Hw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c72104ebe7189575a8bef2d_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014923X0-portrait.jpg",Triangle: Remembering The Fire 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3X9HNxUjodKU4Dcgqt3UgA","kid":"zWKvPWeNWIiQ0N4tl5uIEw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c722c17be7189575a8bf222_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013287X0-portrait.jpg",Fast Five 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X2oPNYt94o31VfNmjs1sBg","kid":"llykr+j4XnOEVqk8Hank1w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7f7bc93ae366782ad9a1ac_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015579X0-portrait.jpg",No One Dies In Lily Dale 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9m9UJFN657+WEC0lOWIqrw","kid":"YSC64XcbXcSwGiEeMZWnNg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c750a6cbe7189575a8c3761_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015297X0-portrait.jpg",When Strangers Click: Five Stories From The Internet 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7qUKdFvb6Ydx4+s2PgldAQ","kid":"GT3Mjai/VNaWsLPvLcwMog"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7487dbbe7189575a8c2ad2_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013575X0-portrait.jpg",The Sunset Limited 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WBJZlab8gQlf1qBnk1/SfQ","kid":"43eDkaF2VU+sT7+b9/wQCQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c6adb6d8e4430572486da2a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014149X0-portrait.jpg",The Lxd: Secrets Of The Ra 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qpShH+U20x94rhfwpMVp7Q","kid":"BuQ3HNWGmdeAm/p4qb76zg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63805761d940521074bd1624_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020717X0-portrait.jpg",Silencing The Song: An Afghan Fallen Star 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KDm44gJGQcGP3O9i+Nsntw","kid":"9qtUlkXxWnue8+sjzFHYIA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e132ecbea8a6a4eef60b4_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014920X0-portrait.jpg",Citizen U.S.A.: A 50-State Road Trip 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BtxbGtJLxLJVYOU8XKztYQ","kid":"oV9g1mSWXd+FYJi7RrLILQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c722ab2be7189575a8bf1fb_hbovodhd/dash0/IDN_index.mpd
+
 
 ################################################################################################################
 !
