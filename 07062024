@@ -4376,6 +4376,54 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #################### HBO GO ASIA VOD #######################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBO GO ASIA (VOD) 🎥
 
+#EXTINF:-1 type="movie" group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042181X0-portrait.jpg",Am I Ok? 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=765c8bcaf473c5569fded758e9283746:c89579e1ca850deba8d07a3bfd452669
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6645532dd940521074ff8740_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042165X0-portrait.jpg",Gaga Chromatica Ball 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f84f7a48e452feb289a07122e71b6cb:f40b41e1741bd87ca9267a168707a69d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/664e9d69d940521074006392_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042100X0-portrait.jpg",Turtles All The Way Down 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01f3277731487170356fe98c79b4e4cc:fd1e67236efae838767ecd7da6e7571f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6630593bd940521074fd9110_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042172X0-portrait.jpg",Call Me Country: Beyonce & Nashville'S Renaissance 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b6c7c61f56b405019e07b1c9593104d:98d328cc1b8d33c68cb7441772871e38
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/664c3c53d940521074002b63_hbovodhd/dash0/IDN_index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ubxkPl8qn/XgkhJWcmzqOg", "kid":"EOOHCOtx2ahwRHsBMiWSgA" } ], "type":"temporary" }
+#EXTINF:-1 type="movie" group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042191X0-portrait.jpg",Godzilla X Kong: The New Empire 2024
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/667cf90ad94052107404ae58_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042083X0-portrait.jpg",Dune: Part Two 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41205ddb3acb6e2279c32f151fd1d575:a5ecad8c5a6b89e429cdacaffba8ef5e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6642f030d940521074ff4e87_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041673X0-portrait.jpg",Craig Before The Creek 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cc95e339328cddb69ef742087fe5c8c:9a23f9ea4e6e033a2ddc91d2bb38da75
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65ab21b8d940521074f1222e_hbovodhd/dash0/IDN_index.mpd
 
 #EXTINF:-1 group-title="HBO GO ASIA (VOD) 🎥" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041607X0-portrait.jpg",Oprah And The Color Purple Journey 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
