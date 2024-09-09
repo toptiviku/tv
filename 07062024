@@ -123,6 +123,16 @@ https://canale.mizhls.ru/lb/premium415/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://img.okezone.com/content/2016/08/12/45/1462202/soccerpedia-mengenal-logo-baru-liga-inggris-ItLOvS0kKc.jpg",LIVE PREMIER LEAGUE
 
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://hometv.pw/logo/sports2/arena_sport.png" group-title="LIVE PREMIER LEAGUE", ARENA Premier League 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+
+#EXTINF:-1 group-title="LIVE PREMIER LEAGUE" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg", Premier League
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Play_Sports_%282021%29.svg/440px-Play_Sports_%282021%29.svg.png" group-title="LIVE PREMIER LEAGUE",PLAY SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
