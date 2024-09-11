@@ -18,6 +18,7 @@ COPA AMERICA
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/au/Melbourne/epg.xml"  refresh="3600"
 
 ====
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 2024
 
 
 #EXTINF:-1 group-title="HBOGO ASIA 2024" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042181X0-portrait.jpg",Am I Ok? 2024
@@ -73,6 +74,9 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65ab21b8d940521074f
 ===================================================================
  HBOGO ASIA 2023
 ===================================================================
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 2023
+
 #EXTINF:-1 group-title="HBOGO ASIA 2023" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041607X0-portrait.jpg",Oprah And The Color Purple Journey 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -370,6 +374,8 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012f6fd940521074e
 ===================================================================
  HBOGO ASIA 2022
 ===================================================================
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 2022
 
 #EXTINF:-1 group-title="HBOGO ASIA 2022" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039482X0-portrait.jpg",Lizzo: Live In Concert 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1082,6 +1088,8 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b
  HBOGO ASIA 2021
 ===================================================================
 
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 2021
+
 #EXTINF:-1 group-title="HBOGO ASIA 2021" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037632X0-portrait.jpg",The Super Bob Einstein Movie 2021
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1575,6 +1583,8 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61c1add0fbbcc21f45d
 ===================================================================
  HBOGO ASIA 2016-2020
 ===================================================================
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 2016-2020
 
 #EXTINF:-1 group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030581X0-portrait.jpg",Wonder Woman 1984 2020
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3388,6 +3398,8 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8d949dcbea8a6a4ee
  HBOGO ASIA 2011-2015
 ===================================================================
 
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 2011-2015
+
 #EXTINF:-1 group-title="HBOGO ASIA 2011-2015" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021251X0-portrait.jpg",Alvin And The Chipmunks: The Road Chip 2015
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4983,6 +4995,8 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c722ab2be7189575a8
  HBOGO ASIA 2006-2010
 ===================================================================
 
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 2006-2010
+
 #EXTINF:-1 group-title="HBOGO ASIA 2006-2010" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017365X0-portrait.jpg",Top Ten Monks 2010
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6325,6 +6339,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c90bbd0ba74fe65548
 ===================================================================
  HBOGO ASIA 2001-2005
 ===================================================================
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 2001-2005
 
 #EXTINF:-1 group-title="HBOGO ASIA 2001-2005" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016474X0-portrait.jpg",King Kong (2005) 2005
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7199,6 +7214,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c766663be7189575a8
 ===================================================================
  HBOGO ASIA 1996-2000
 ===================================================================
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 1996-2000
 
 #EXTINF:-1 group-title="HBOGO ASIA 1996-2000" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/012962X0-portrait.jpg",Traffic 2000
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7681,6 +7697,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6431f52cd940521074c
 ===================================================================
  HBOGO ASIA 1991-1995
 ===================================================================
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 1991-1995
 
 #EXTINF:-1 group-title="HBOGO ASIA 1991-1995" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016336X0-portrait.jpg",The Tuskegee Airmen 1995
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -8058,6 +8075,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c9114e7ba74fe65548
 ===================================================================
  HBOGO ASIA 1975-1990
 ===================================================================
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBOGO ASIA 1975-1990
 
 #EXTINF:-1 group-title="HBOGO ASIA 1975-1990" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029392X0-portrait.jpg",Tom And Jerry'S 50Th Birthday Bash 1990
 #KODIPROP:inputstreamaddon=inputstream.adaptive
