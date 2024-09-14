@@ -733,7 +733,7 @@ https://thedream.biz.id/live/esceteve.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
+#http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png" group-title="🏆 BRI LIGA 1 🏆",SCTV (vidio)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -741,7 +741,7 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=204&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=204&type=dash
+#http://gatotkaca007.serv00.net/red/play.mpd?id=204&type=dash
 
 ====================
 ##################################################
@@ -1084,7 +1084,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=204&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=204&type=dash
+#http://gatotkaca007.serv00.net/red/play.mpd?id=204&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
@@ -1120,7 +1120,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
+#http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ",INDOSIAR (Transvision)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
