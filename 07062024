@@ -35,6 +35,70 @@ COPA AMERICA
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 ##################################################
+FORMULA 1
+#################################################
+#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/975/745/png-clipart-formula-1-logo-formula-1-logo-icons-logos-emojis-iconic-brands.png",FORMULA 1
+
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1" , DAZN F1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+#EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg" group-title=" FORMULA 1",DAZN F1 ES
+https://webhdrunns.mizhls.ru/lb/premium537/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Sky Sport F1 Italy
+https://webhdrunns.mizhls.ru/lb/premium577/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1", Sky SPORT F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium60/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Sky Sport F1 Italy
+https://webhdrunns.mizhls.ru/lb/premium577/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",Sky Sports F1 UK
+https://webhdrunns.mizhls.ru/lb/premium60/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 1
+http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 2 HD
+http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 3 HD
+http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1"“FORMULA 1”,TSN 4
+http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 5
+http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
+
+#EXTINF:0 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",Bein Sport8
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium98/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ElevenCHANNEL | SPORT1.pl" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="FORMULA 1" , DIEMA SPORT 
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/160365.m3u8
+
+#EXTINF:-1 tvg-id=" FORMULA 1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1" , DIEMA SPORT 2
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/16762.m3u8
+
+#EXTINF:-1 tvg-id=" FORMULA 1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1" , DIEMA SPORT 3
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/33100.m3u8
+
+#EXTINF:-1 tvg-name="Diema Sport Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Diema Sport Bulgaria
+https://webhdrunns.mizhls.ru/lb/premium465/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Diema Sport 2 Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Diema Sport 2 Bulgaria
+https://webhdrunns.mizhls.ru/lb/premium466/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Diema Sport 3 Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Diema Sport 3 Bulgaria
+https://webhdrunns.mizhls.ru/lb/premium467/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 ##################################################
 !
 !=====KUALIFIKASI PIALA DUNIA======
