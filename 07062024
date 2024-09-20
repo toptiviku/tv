@@ -1969,6 +1969,8 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 ################ "INDONESIA TV (Server 6) 🇮🇩 "  ################### quuen2024/llgnew/raw/refs/heads/queen/live.m3u8
 sumber live queen
 
+#EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 6) 🇮🇩
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/trans7.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",TRANS 7 Auto
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
