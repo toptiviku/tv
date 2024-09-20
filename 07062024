@@ -1979,7 +1979,7 @@ sumber live queen
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 
-#EXTINF:-1 group-title=" 🇮🇩 LOKAL ID Auto🇮🇩" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/trans7.png",Trans 7
+#EXTINF:-1 group-title="INDONESIA TV (Server 6) 🇮🇩 " tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/trans7.png",Trans 7
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 ===========================================================================================================================================
