@@ -1966,9 +1966,227 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 ################################################################################################################
-!
-!
-!
+################ "INDONESIA TV (Server 6) 🇮🇩 "  ################### quuen2024/llgnew/raw/refs/heads/queen/live.m3u8
+sumber live queen
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/trans7.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",TRANS 7 Auto
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+
+
+#EXTINF:-1 group-title=" 🇮🇩 LOKAL ID Auto🇮🇩" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/trans7.png",Trans 7
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+===========================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/transtv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",TRANS TV Auto
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+--------------------------------------------------------------------------------------------------------------------------------------------------====
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/indosiar.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",INDOSIAR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/indosiar.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",INDOSIAR HD
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/indosiar.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://filex.tv:8080/gtr/gtr/302264
+-----------------------------------------------------------------------------------------------------------------------------------------------------=
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://saktitv.my.id/logo/lokal1/sctv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rcti.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",RCTI (CBM)
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV (Server 6) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rcti.png", RCTI 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA TV (Server 6) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rcti.png", RCTI (V+) 
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/mnc.png"  group-title="INDONESIA TV (Server 6) 🇮🇩 ",MNC TV Auto
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=mnc
+#https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8|referer=https://www.visionplus.id
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="13345" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/gtv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",GTV Auto
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+
+==========================================================================================================================================
+----------------------------------------------------------------------------------------------------------------------------------------
+=============================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/antv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=https://www.visionplus.id/
+==============================================================================================================================================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/net.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",NET TV Auto
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+
+==================================================================================================================================================
+=================================================================================================================================================
+================================================================================================================================================
+
+
+#EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rtv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",RTV Auto
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referer=https://www.visionplus.id
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/vtv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+===========================================================================================================================================
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",Jowo Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+=========================================================================================================================================
+=====================================================================================================================================
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/jaktv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",Jaktv 
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
+===================================================================================================================================
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/daaitv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ", DAAI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+ 
+-----------------------------------------------------------------------------------------------------------------------------------
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",Moji 
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",Moji
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-name="MentariTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/mentaritv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ", Mentari TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 10) ExoPlayerLib/2.18.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+
+=======================================================NEWS================================================================================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/inews.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",iNEWS Auto
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://raw.githubusercontent.com/itttv/sourcestream/main/Streaming/indonesia/inews.m3u8
+===========================================================================================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/sindo_news.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ", SINDO NEWS TV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+====================================================================================================================================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/cnn_indonesia.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384000_sleng.m3u8
+======================================================================================================================================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/cnbc_indonesia.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+============================================================================================================================================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/tvri.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+============================================================================================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beritasatu.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",BTV 
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+
+===========================================================================================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/metrotv.png" group-title="INDONESIA TV (Server 6) 🇮🇩 ",Metro TV 
+https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+==========================================================================================================================================
+#EXTINF:-1 group-title="INDONESIA TV (Server 6) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/kompastv.png",KOMPAS TV Auto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+==========================================================================================================================================
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" group-title="INDONESIA TV (Server 6) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/tvone.png",01 TV One 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+==========================================================================================================================================
+#EXTINF:-1 group-title="INDONESIA TV (Server 6) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/jawapostv%20(1)%20(1).png",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+ =========================================================================================================================================
+
+#EXTINF:-1 group-title="INDONESIA TV (Server 6) 🇮🇩 ", tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/BNchannel.png", BN Channel First
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch112.m3u8
+===========================================================================================================================================
+
+
+#EXTINF:-1 group-title="INDONESIA TV (Server 6) 🇮🇩 " tvg-id="seatoday.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/sea_today.png",Sea Today
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://hls.seatoday.com/hls_hd/seatoday.m3u8
+
+################################################################################################################
 !
 ################################################################################################################
 ========= INDONESIA DAERAH ============
