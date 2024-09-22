@@ -772,6 +772,9 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
 
 #EXTINF:-1 group-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=650",🏆 BRI LIGA 1 🏆
 
+#EXTINF:-1 group-title="🏆 BRI LIGA 1 🏆" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg", INDOSIAR no acak 2 TSA
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+
 #EXTINF:-1 group-title="🏆 BRI LIGA 1 🏆" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1(A)
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 #EXTVLCOPT:http-referrer=https://colloriptvpro.my.id/
