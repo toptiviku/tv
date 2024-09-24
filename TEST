@@ -1,545 +1,718 @@
-################################################################################################################
-################ "INDONESIA TV (Server 2) 🇮🇩 "  ################### TVcrack/tontonan/main/S%20(2).m3u
-sumber tv crack
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 3) 🇮🇩 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png", RCTI
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png", MNC TV
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png", GTV
-https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/sgo7owplmt5j7sl/jaktv.png", JakTV
-https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/p4813vn2o8275z1/trans7.png", TRANS 7
-https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/omsox8tmmfq6jwb/daaitv.png", DAAI TV
-https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/gw7a9w0miy795vy/rtv.png", RTV
-https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/vxm41wbiyfmhbx1/inews.png", INEWS
-https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/v0c8ypclystuwkg/tvone.png", TVONE
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne (INDIHOME)
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
-https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1500000=6-mp4a_96000=5.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://dl.dropbox.com/scl/fi/7slpogdnv5te3lotbspfq/Sindonews.png?rlkey=rfmsc69pehmwvp7qfs529ku2o&dl=0" group-title="INDONESIA TV (Server 4) 🇮🇩 ", SINDO NEWS TV
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/aswki0zykc42s1o/metrotv.png", Metro TV
-https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
-https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
- 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="Nasional" tvg-logo="https://1.bp.blogspot.com/-Jrub7s9M-8o/YJVWxmOMmiI/AAAAAAAAEa8/fHKx6VD5nc4FAZtBgDwAwviX1UVzVVLKACLcBGAsYHQ/s720/sctv-p.png", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-
-
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="INDONESIA TV (Server 4) 🇮🇩 ",SCTV alt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA TV (Server 4) 🇮🇩 " ,SCTV cubmu 
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=881afa67ea57b41c1822d745d67559e6&kid=5eaddccd893a47ac8b65f9b31963a3ae&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="Indosiar" group-title="Nasional" tvg-logo="https://1.bp.blogspot.com/-sr_JztcW1i0/YJVWujZQJMI/AAAAAAAAEaU/3E_UVUSecGgVGKfzk_SUgeVrejjIo4LDACLcBGAsYHQ/s720/indosiar-p.png", Indosiar
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA TV (Server 4) 🇮🇩 ",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-
-#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="INDONESIA TV (Server 4) 🇮🇩 ", INDOSIAR alt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
-#https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/svda56px53dzs70/jtv.png", JTV
-https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
- 
- 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/jaktv.jpg" group-title="INDONESIA TV (Server 4) 🇮🇩 ",JAK TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
- 
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png", NET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="INDONESIA TV (Server 4) 🇮🇩 ", Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="INDONESIA TV (Server 4) 🇮🇩 ", Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/4mga5xltpd3ygxn/kompastv.png", Kompas TV
-https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA TV (Server 4) 🇮🇩 " tvg-logo="https://dl.dropboxusercontent.com/s/7yyhr140lqt832e/tvri.png", TVRI
-https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-
-#EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/3otsx9tmmh18aqn/cnnindo.png" group-title="INDONESIA TV (Server 4) 🇮🇩 ",CNN Indo
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-
-
-=========================================
-!
-!  >>>>>> INDONESIA TV NERVER DIE >>>>>
-=========================================
-
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 1) 🇮🇩 
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/u47RJYl.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", Moji 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://rr3.dens.tv/s/s41/index.m3u8
-
-#EXTGRP:INDONESIA TV (Server 1) 🇮🇩 
-#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png", GTV (R+) 1
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png", GTV (HD) 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://iptvtree.net:8080/AmirBilali/76448035/157578
-
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ",Garuda TV 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/u47RJYl.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", Moji 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://rr3.dens.tv/s/s41/index.m3u8
-
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/NEWS/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ",MOJI TV 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s.id/mojiHD_shareext-xs
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", ProLiga CH 2 1
-#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
-http://45.12.2.240:8080/b7c2ba83/b65f5b29/298550
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", ProLiga CH 3 1
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-http://xtv.ooo:8080/live/miqbal/989796/350997.m3u8
-
-##http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.imgur.com/u47RJYl.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ",Moji 1
-http://iptvtree.net:8080/F14995/a84c0963/298550
-
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png",OK TV 1
-https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
-#EXTINF:-1 tvg-id="TRANSTV - [Channel 87].id" tvg-name="TRANSTV" tvg-logo="https://i.ibb.co/k3S01Fh/transtv.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", TRANS TV 🇮🇩 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", TRANS7 a 🇮🇩 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", TRANS7 b 🇮🇩 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", TRANS7 c 🇮🇩 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", TV ONE 🇮🇩 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ",TV Kesehatan 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", Metro TV 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
-
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", tvOne 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
-
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.dens.tv/images/channel-logo/14.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", Kompas TV 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV
-
-#EXTINF:-1 tvg-id="80" tvg-logo="https://www.dens.tv/images/channel-logo/80.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", BTV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=BTV
-
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", antv 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
-
-#EXTINF:-1 tvg-id="13" tvg-logo="https://www.dens.tv/images/channel-logo/13.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", NET. 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
-
-#EXTINF:-1 tvg-id="22" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", RTV 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
-
-#EXTINF:-1 tvg-id="122" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", Magna Channel 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
-
-#EXTINF:-1 tvg-id="118" tvg-logo="https://www.dens.tv/images/channel-logo/118.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", TVRI Sport 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI_Sport
-
-#EXTINF:-1 tvg-id="17" tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", TVRI 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI
-
-#EXTINF:-1 tvg-id="112" tvg-logo="https://www.dens.tv/images/channel-logo/112.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", Jak tv 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Jak_tv
-
-#EXTINF:-1 tvg-id="21" tvg-logo="https://www.dens.tv/images/channel-logo/21.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", RodjaTV 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
-
-#EXTINF:-1 tvg-id="23" tvg-logo="https://www.dens.tv/images/channel-logo/23.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", DAAI TV 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
-
-#EXTINF:-1 tvg-id="60" tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", FIGHT SPORTS HD 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
-
-#EXTINF:-1 tvg-id="82" tvg-logo="https://www.dens.tv/images/channel-logo/82.jpg" group-title="INDONESIA TV (Server 1) 🇮🇩 ", Quran TV 1
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
-
-====================================================
-/////////⛔BEIN sports⛔//////
-
-#EXTINF:-1 group-logo="https://seeklogo.com/images/B/bein-sports-logo-485377DB16-seeklogo.com.png",BeIN Sports Channel
-
-#EXTINF:-1 xui-id="154" tvg-id="" tvg-name="Infinity Champions 1 HD" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-horizontal2912.logowik.com.webp" group-title="BeIN Sports Channel",beIN Sports 
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRJFOg0OPlsugRfELSOg5-84
-
-#EXTINF:-1 xui-id="151" tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest/scale-to-width-down/150?cb=20230910184457" group-title="BeIN Sports Channel",beIN Sports 1 
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRKlo-W027jxYPBv0w-KTDM8
-
-#EXTINF:-1 xui-id="152" tvg-id="" tvg-name="beIN Sports 3 ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest/scale-to-width-down/250?cb=20170624060242" group-title="BeIN Sports Channel",beIN Sports 3 
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRP8nPGI-vHLj22I6fqewrQI
-
-#EXTINF:-1 group-title="BeIN Sports Channel" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",beIN Sport Xtra
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download%20(14).png" group-title="BeIN Sports Channel",beIN 1 🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
-https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download%20(14).png" group-title="BeIN Sports Channel",beIN 2 TH 🇹🇭
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download%20(14).png" group-title="BeIN Sports Channel",beIN 3 TH 🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
-https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BeIN Sports Channel" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NBA_DIGITAL_Mono.png",Bein sports NBA 🇺🇸
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BeIN Sports Channel",Bein Premium 1 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BeIN Sports Channel",Bein Premium 2 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BeIN Sports Channel",Bein Premium 3
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="BeIN Sports Channel",beIN 1 🇮🇩
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="BeIN Sports Channel",beIN 3 🇮🇩
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="BeIN Sports Channel",beIN 1 FRANCE 🇫🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.vipboxtv.stream/lb/premium116/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="BeIN Sports Channel",beIN 2 FRANCE 🇫🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.vipboxtv.stream/lb/premium117/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="BeIN Sports Channel",beIN 3 FRANCE 🇫🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.vipboxtv.stream/lb/premium118/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BeIN Sports Channel",beIN 1
-http://iptvtree.net:8080/F14995/a84c0963/100
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BeIN Sports Channel",beIN 2
-http://iptvtree.net:8080/F14995/a84c0963/101
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BeIN Sports Channel",beIN 3 
-http://iptvtree.net:8080/F14995/a84c0963/102
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BeIN Sports Channel",beIN 4 
-http://iptvtree.net:8080/F14995/a84c0963/103
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BeIN Sports Channel",beIN 5 
-http://iptvtree.net:8080/F14995/a84c0963/104
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BeIN Sports Channel",beIN 6 
-http://iptvtree.net:8080/F14995/a84c0963/105
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="BeIN Sports Channel",beIN 7 
-http://iptvtree.net:8080/F14995/a84c0963/106
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BeIN Sports Channel",beIN 1 Arb
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BeIN Sports Channel",beIN 2 Arb
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="BeIN Sports Channel",beIN 3 Arb
-
-
-================
-
-
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 1
-http://xtv.ooo:8080/321166661/52816191/350972
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9X36LjDRTc40c_9efItdi6g/.m3u8?7
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 1*
-https://kodonolonz.serv00.net/tol/ikitv-moji.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 2
-http://iptvtree.net:8080/everton/7def2e7e/162138
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.m3u8
-
-#EXTINF:-1 group-title="TEST" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
-http://extraott.com/live/7921751389/6097373662/45098.ts
-http://extraott.com/live/7921751389/6097373662/45098.m3u8
-http://cheaptv.online:8080/live/one-day-test-89fc/54CbToqS2c/162138.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
-http://iptvtree.net:8080/everton/7def2e7e/162141
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.m3u8
-
-#EXTINF:-1 group-title="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s",SCTV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 3
-http://iptvtree.net:8080/everton/7def2e7e/298550
-http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.m3u8
-
-=============================================================================
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 1
-http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1
-http://108.181.123.13:8070/live/e9cd5f24/079fd2c9/162141.ts
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1 *
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721490886~acl=/drm/dash/*~id=69578335~hmac=6270dfd11ddf27c1e98a543198d998a05d0d7f3b5b9466a1a0c0ca8ea4c82b5e
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 1
-http://194.120.144.74:8070/live/e9cd5f24/079fd2c9/298550.ts
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 2
-http://108.181.132.217:8070/live/AmirBilali/76448035/162138.ts
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
-http://108.181.123.13:8070/live/AmirBilali/76448035/162141.ts
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 2
-http://194.120.144.74:8070/live/AmirBilali/76448035/298550.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="TEST",TSN 1
-http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="TEST",TSN 2 HD
-http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="TEST",TSN 3 HD
-http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="TEST",TSN 4
-http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="TEST",TSN 5
-http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
-
-#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="TEST", Sky SPORT 251
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558701
-
-#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="TEST", Sky SPORT 252
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558702
-
-#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="TEST", Sky SPORT 253
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558705
-
-#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co/W2pff22/skysport25x.png" group-title="TEST", Sky SPORT 254
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558707
-
-#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.ibb.co/qkrBGMd/skycalcio.png" group-title="TEST", Sky SPORT CALCIO
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558718
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://i.ibb.co/TBWFWwZ/skymtgp.png" group-title="TEST", Sky SPORT MOTOGP
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558726
-
-#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://i.ibb.co/hFrqB1J/skysportuno.png" group-title="TEST", Sky SPORT UNO 
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/558732
+
+---------------------------------------------ACTION------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/01/film-american-star-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",American Star (2024)
+https://stream.hownetwork.xyz/xxx/american-star-2024-bluray_X_d4d9931c/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-force-of-nature-the-dry-2-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Force of Nature: The Dry 2 (2024)
+https://stream.hownetwork.xyz/xxx/force-of-nature-the-dry-2-2024-webdl_X_bdbfeab8/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-civil-war-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Civil War (2024)
+https://stream.hownetwork.xyz/xxx/civil-war-2024-hdcam_X_f42b2ead.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-mothers-instinct-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Mothers’ Instinct (2024)
+https://stream.hownetwork.xyz/xxx/mothers-instinct-2024-webdl_X_eec79723.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Fall Guy (2024)
+https://stream.hownetwork.xyz/xxx/the-fall-guy-2024-webdl_X_fd402777/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-you-cant-run-forever-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",You Can’t Run Forever (2024)
+https://stream.hownetwork.xyz/xxx/you-cant-run-forever-2024-webdl_X_410df6dd.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-unpredictable-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Unpredictable (2024)
+https://stream.hownetwork.xyz/xxx/unpredictable-2024-webdl_X_09c523a7.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-the-last-stop-in-yuma-county-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Last Stop in Yuma County (2024)
+https://stream.hownetwork.xyz/xxx/the-last-stop-in-yuma-county-2024-webdl_X_ae90cfb0/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Godzilla x Kong: The New Empire (2024)
+https://stream.hownetwork.xyz/xxx/godzilla-x-kong-the-new-empire-2024-webdl_X_33b2442a.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-darkness-of-man-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Darkness of Man (2024)
+https://stream.hownetwork.xyz/xxx/darkness-of-man-2024-webdl_X_57342e9f.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-atlas-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Atlas (2024)
+https://stream.hownetwork.xyz/xxx/atlas-2024-webdl_X_ce47c5b9/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-4-kings-2-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",4 Kings 2 (2023)
+https://stream.hownetwork.xyz/xxx/4-kings-2-2023-webdl_X_2a2beef8.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-welcome-to-sarajevo-1997.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Welcome to Sarajevo (1997)
+https://stream.hownetwork.xyz/xxx/welcome-to-sarajevo-1997-bluray_X_b062a0e2.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-ruthless-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Ruthless (2023)
+https://stream.hownetwork.xyz/xxx/ruthless-2023-webdl_X_70a048db/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-dark-obsession-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Dark Obsession (2023)
+https://stream.hownetwork.xyz/xxx/dark-obsession-2023-webdl_X_42a1f179.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-crakk-jeetega-toh-jiyegaa-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Crakk: Jeetega… Toh Jiyegaa (2024)
+https://stream.hownetwork.xyz/xxx/crakk-jeetega-toh-jiyegaa-2024-webdl_X_a082e27d/22/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/05/film-laroy-texas-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",LaRoy, Texas (2024)
+https://stream.hownetwork.xyz/xxx/laroy-texas-2024-webdl_X_c0ec5d99.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/05/film-the-ministry-of-ungentlemanly-warfare-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Ministry of Ungentlemanly Warfare (2024)
+https://stream.hownetwork.xyz/xxx/the-ministry-of-ungentlemanly-warfare-2024-webdl_X_301538eb.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/05/film-lazareth-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Lazareth (2024)
+https://stream.hownetwork.xyz/xxx/lazareth-2024-webdl_X_8368d127.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/05/film-bad-hombres-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Bad Hombres (2023)
+https://stream.hownetwork.xyz/xxx/bad-hombres-2023-webdl_X_3152b6bb/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-ghost-rider-2007.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Ghost Rider (2007)
+https://stream.hownetwork.xyz/xxx/ghost-rider-2007-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/09/film-birth-rebirth-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Birth/Rebirth (2023)
+https://stream.hownetwork.xyz/xxx/birth-rebirth-2023-webdl/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2017/03/film-dial-m-for-murder-1954.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Dial M for Murder (1954)
+https://stream.hownetwork.xyz/xxx/dial-m-murder-1954-bluray/16/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-american-gangster-2007.jpg.webp" group-title="VOD UPDATE ACTION to 2024",American Gangster (2007)
+https://stream.hownetwork.xyz/xxx/american-gangster-2007-bluray/3/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/05/film-something-in-the-water-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Something in the Water (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/something-in-the-water-2024-webdl_X_7c027b67.720/22/720.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Godzilla x Kong: The New Empire (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/godzilla-x-kong-the-new-empire-2024-ts_X_a7cf43ad/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/05/film-6-hours-away-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",6 Hours Away (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/6-hours-away-2024-webdl_X_82518d93/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/04/film-mighty-morphin-power-rangers-once-always-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Mighty Morphin Power Rangers: Once & Always (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/mighty-morphin-power-rangers-once-always-2023-webdl/10/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2022/10/film-blade-of-the-47-ronin-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Blade of the 47 Ronin (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/blade-of-the-47-ronin-2022-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/01/film-transfusion-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Transfusion (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/transfusion-2023-webrip/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/04/film-peter-pan-wendy-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Peter Pan & Wendy (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/peter-pan-wendy-2023-webdl/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2022/07/film-the-witch-part-2-the-other-one-the-witch-part-2-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Witch: Part 2. The Other One (The Witch: Part 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/the-witch-part-2-the-other-one-the-witch-part-2-2022-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/04/film-breathe-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Breathe (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/breathe-2024-webdl_X_f8963a78/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/04/film-blood-for-dust-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Blood for Dust (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/blood-for-dust-2024-bluray_X_9c12a785.720/22/720.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/07/film-indiana-jones-and-the-dial-of-destiny-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Indiana Jones and the Dial of Destiny (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/indiana-jones-and-the-dial-of-destiny-2023-bluray_X_a38998df/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2022/09/film-vesper-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Vesper (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/vesper-2022-webrip/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/04/film-creed-iii-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Creed III (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/creed-iii-2023-bluray/9/480.m3u8
+
+EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/04/film-the-wandering-earth-ii-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Wandering Earth II (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/the-wandering-earth-ii-2023-webdl_X_05d5f17e/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2022/12/film-the-guardians-of-the-galaxy-holiday-special-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Guardians of the Galaxy Holiday Special (2022)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/the-guardians-of-the-galaxy-holiday-special-2022-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/05/film-stockholm-bloodbath-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Stockholm Bloodbath (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/stockholm-bloodbath-2024-webdl_X_aed1bb57/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/05/film-a-chefs-deadly-revenge-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",A Chef’s Deadly Revenge (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/a-chefs-deadly-revenge-2024-webdl_X_216865bc/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/04/film-monkey-man-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Monkey Man (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/monkey-man-2024-webdl_X_23483923/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/04/film-ghostbusters-frozen-empire-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Ghostbusters: Frozen Empire (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/ghostbusters-frozen-empire-2024-webdl_X_d491eebf/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/04/film-mr-9-do-or-die-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",MR-9: Do or Die (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/mr-9-do-or-die-2023-webdl_X_1f7064e1/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/05/film-the-mother-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Mother (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://stream.hownetwork.xyz/xxx/the-mother-2023-webdl/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/03/film-operation-fortune-ruse-de-guerre-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Operation Fortune: Ruse de guerre (2023)
+https://stream.hownetwork.xyz/xxx/operation-fortune-ruse-de-guerre-2023-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/04/film-heart-of-the-hunter-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Heart of the Hunter (2024)
+https://stream.hownetwork.xyz/xxx/heart-of-the-hunter-2024-webdl_X_450cbd7a/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2022/10/film-black-adam-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Black Adam (2022)
+https://stream.hownetwork.xyz/xxx/black-adam-2022-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Transformers: Rise of the Beasts (2023)
+https://stream.hownetwork.xyz/xxx/transformers-rise-of-the-beasts-2023-bluray/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/02/film-ant-man-and-the-wasp-quantumania-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Ant-Man and the Wasp: Quantumania (2023)
+https://stream.hownetwork.xyz/xxx/ant-man-and-the-wasp-quantumania-2023-bluray/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Guardians of the Galaxy Vol. 3 (2023) 
+https://stream.hownetwork.xyz/xxx/guardians-of-the-galaxy-vol-3-2023-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/06/film-the-little-mermaid-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Little Mermaid (2023)
+https://stream.hownetwork.xyz/xxx/the-little-mermaid-2023-bluray/4/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/01/film-black-panther-wakanda-forever-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Black Panther: Wakanda Forever (2022)
+https://stream.hownetwork.xyz/xxx/black-panther-wakanda-forever-2022-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2022/10/film-project-wolf-hunting-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Project Wolf Hunting (2022)
+https://stream.hownetwork.xyz/xxx/project-wolf-hunting-2022-bluray_X_0be4e3c9/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Shazam! Fury of the Gods (2023)
+https://stream.hownetwork.xyz/xxx/shazam-fury-of-the-gods-2023-bluray/9/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/04/film-65-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",65 (2023)
+https://stream.hownetwork.xyz/xxx/65-2023-bluray/9/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2022/11/film-enola-holmes-2-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Enola Holmes 2 (2022)
+https://stream.hownetwork.xyz/xxx/enola-holmes-2-2022-webdl/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2022/12/film-troll-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Troll (2022)
+https://stream.hownetwork.xyz/xxx/troll-2022-webdl/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2022/11/film-the-woman-king-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Woman King (2022)
+https://stream.hownetwork.xyz/xxx/the-woman-king-2022-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/03/film-missing-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Missing (2023)
+https://stream.hownetwork.xyz/xxx/missing-2023-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/07/film-resident-evil-death-island-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Resident Evil: Death Island (2023)
+https://stream.hownetwork.xyz/xxx/resident-evil-death-island-2023-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/04/film-scream-vi-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Scream VI (2023)
+https://stream.hownetwork.xyz/xxx/scream-vi-2023-webdl/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2022/07/film-thor-love-and-thunder-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Thor: Love and Thunder (2022)
+https://stream.hownetwork.xyz/xxx/thor-love-and-thunder-2022-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2022/09/film-fall-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024"Fall (2022),
+https://stream.hownetwork.xyz/xxx/fall-2022-bluray/3/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/03/film-batman-the-doom-that-came-to-gotham-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Batman: The Doom That Came to Gotham (2023)
+https://stream.hownetwork.xyz/xxx/batman-the-doom-that-came-to-gotham-2023-bluray_X_c5aec8b4/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/10/film-dangerous-waters-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Dangerous Waters (2023)
+https://stream.hownetwork.xyz/xxx/dangerous-waters-2023-bluray_X_665f63f7/21/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/04/film-late-night-with-the-devil-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Late Night with the Devil (2024)
+https://stream.hownetwork.xyz/xxx/late-night-with-the-devil-2024-webdl_X_8979fea7/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/04/film-arcadian-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Arcadian (2024)
+https://stream.hownetwork.xyz/xxx/arcadian-2024-webdl_X_c89bb05b/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/03/film-dune-part-two-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Dune: Part Two (2024)
+https://stream.hownetwork.xyz/xxx/dune-part-two-2024-webdl_X_1cf9d26c/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2022/08/film-the-killer-jugeodo-doeneun-ai-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Killer (Jugeodo Doeneun Ai) (2022)
+https://stream.hownetwork.xyz/xxx/the-killer-jugeodo-doeneun-ai-2022-bluray_X_669522f0/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-prey-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Prey (2024)
+https://stream.hownetwork.xyz/xxx/prey-2024-webdl_X_edeeabb9/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/04/film-arthur-the-king-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Arthur the King (2024)
+https://stream.hownetwork.xyz/xxx/arthur-the-king-2024-webdl_X_e63a21ba/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-bob-marley-one-love-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Bob Marley: One Love (2024)
+https://stream.hownetwork.xyz/xxx/bob-marley-one-love-2024-webdl_X_cc5022ed/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/02/film-einstein-and-the-bomb-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Einstein and the Bomb (2024)
+https://stream.hownetwork.xyz/xxx/einstein-and-the-bomb-2024-webdl_X_5af6571f/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/04/film-kung-fu-panda-4-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Kung Fu Panda 4 (2024)
+https://stream.hownetwork.xyz/xxx/kung-fu-panda-4-2024-webdl_X_0ca86d0f/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/04/film-dangerous-evidence-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Dangerous Evidence (2024)
+https://stream.hownetwork.xyz/xxx/dangerous-evidence-2024-webdl_X_bc389d91/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-titanic-1997.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Titanic (1997)
+https://stream.hownetwork.xyz/xxx/titanic-1997-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",John Wick: Chapter 4 (2023)
+https://stream.hownetwork.xyz/xxx/john-wick-chapter-4-2023-bluray/8/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2022/07/film-sniper-the-white-raven-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Sniper. The White Raven (2022)
+https://stream.hownetwork.xyz/xxx/sniper-the-white-raven-2022-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Avengers: Endgame (2019) 
+https://stream.hownetwork.xyz/xxx/avengers-endgame-2019-bluray/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-the-three-musketeers-dartagnan-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Three Musketeers: D’Artagnan (2023)
+https://stream.hownetwork.xyz/xxx/the-three-musketeers-dartagnan-2023-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/01/film-hanu-man-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Hanu Man (2024)
+https://stream.hownetwork.xyz/xxx/hanu-man-2024-webdl_X_eea6d9db/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2021/05/film-f9-2021-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",F9 Fast and Furious 9 : The Fast Saga (2021)
+https://stream.hownetwork.xyz/xxx/f9-2021-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2022/12/film-avatar-the-way-of-water-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Avatar: The Way of Water (2022)
+https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Spider-Man: No Way Home (2021)
+https://stream.hownetwork.xyz/xxx/spider-man-no-way-home-2021-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/01/film-iron-man-2008.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Iron Man (2008)
+https://stream.hownetwork.xyz/xxx/iron-man-2008-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-300-rise-of-an-empire-2014.jpg.webp" group-title="VOD UPDATE ACTION to 2024",300: Rise of an Empire (2014)
+https://stream.hownetwork.xyz/xxx/300-rise-empire-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-fast-five-2011.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Fast Five (2011)
+https://stream.hownetwork.xyz/xxx/fast-five-2011-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2016/06/film-annika-bengtzon-crime-reporter-studio-sex-2012.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Annika Bengtzon: Crime Reporter – Studio Sex (Studio Sex) (2012)
+https://stream.hownetwork.xyz/xxx/annika-bengtzon-crime-reporter-studio-sex-2012-bluray/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/02/film-pacific-rim-2013.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Pacific Rim (2013)
+https://stream.hownetwork.xyz/xxx/pacific-rim-2013-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2017/11/film-war-planet-apes-2017.jpg.webp" group-title="VOD UPDATE ACTION to 2024",War for the Planet of the Apes (2017)
+https://stream.hownetwork.xyz/xxx/war-planet-apes-2017-2-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2019/03/film-the-captain-der-hauptmann-2017-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Captain (Der Hauptmann) (2017)
+https://stream.hownetwork.xyz/xxx/the-captain-der-hauptmann-2017-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-kung-fu-panda-2008.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Kung Fu Panda (2008)
+https://stream.hownetwork.xyz/xxx/kung-fu-panda-2008-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2016/05/film-the-mechanic-2011.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Mechanic (2021)
+https://stream.hownetwork.xyz/xxx/the-mechanic-2011-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/02/film-kung-fu-panda-3-2016.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Kung Fu Panda 3 (2016)
+https://stream.hownetwork.xyz/xxx/kung-fu-panda-3-2016-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/01/film-wild-card-2015.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Wild Card (2015)
+https://stream.hownetwork.xyz/xxx/wild-card-2015-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2021/03/film-zack-snyders-justice-league-2021-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Zack Snyder’s Justice League (2021)
+https://stream.hownetwork.xyz/xxx/zack-snyders-justice-league-2021-bluray/15/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2018/05/film-deadpool-2-2018.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Deadpool 2 (Super Duper Cut) (2018)
+https://stream.hownetwork.xyz/xxx/deadpool-2-2018-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-fellowship-of-the-ring-2001.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Lord of the Rings: The Fellowship of the Ring (2001)
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2022/04/film-the-batman-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Batman (2022)
+https://stream.hownetwork.xyz/xxx/the-batman-2022-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2019/06/film-after-2019-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",After (2019)
+https://stream.hownetwork.xyz/xxx/after-2019-bluray/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-wonka-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Wonka (2023)
+https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/06/film-the-flash-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Flash (2023)
+https://stream.hownetwork.xyz/xxx/the-flash-2023-bluray/5/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/07/film-mission-impossible-dead-reckoning-part-one-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Mission: Impossible – Dead Reckoning Part One (2023)
+https://stream.hownetwork.xyz/xxx/mission-impossible-dead-reckoning-part-one-2023-webdl/15/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2019/07/film-the-lion-king-2019-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Lion King (2019)
+https://stream.hownetwork.xyz/xxx/the-lion-king-2019-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2018/07/film-mission-impossible-fallout-2018-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Mission: Impossible – Fallout (2018)
+https://stream.hownetwork.xyz/xxx/mission-impossible-fallout-2018-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2017/04/film-kong-skull-island-2017.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Kong: Skull Island (2017)
+https://stream.hownetwork.xyz/xxx/kong-skull-island-2017-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-fast-furious-6-2013.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Fast & Furious 6 (Furious 6) (2013)
+https://stream.hownetwork.xyz/xxx/fast-furious-6-2013-bluray/6/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/07/film-the-channel-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Channel (2023)
+https://stream.hownetwork.xyz/xxx/the-channel-2023-bluray_X_2168cf79/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/04/film-what-jennifer-did-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",What Jennifer Did (2024)
+https://stream.hownetwork.xyz/xxx/what-jennifer-did-2024-webdl_X_62919af0/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/04/film-la-madre-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",La Madre (2024)
+https://stream.hownetwork.xyz/xxx/la-madre-2024-webdl_X_492803dc/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2020/08/film-one-night-in-bangkok-2020-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",One Night in Bangkok (2020)
+https://stream.hownetwork.xyz/xxx/one-night-in-bangkok-2020-bluray_X_dc72367f/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/04/film-sleeping-dogs-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Sleeping Dogs (2024)
+https://stream.hownetwork.xyz/xxx/sleeping-dogs-2024-webdl_X_d2843b75/21/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/04/film-knox-goes-away-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Knox Goes Away (2024)
+https://stream.hownetwork.xyz/xxx/knox-goes-away-2024-webdl_X_1fdde82b/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/04/film-year-of-the-dragon-1985-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Year of the Dragon (1985)
+https://stream.hownetwork.xyz/xxx/year-of-the-dragon-1985-bluray_X_e67a3932/21/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-road-house-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Road House 2024
+https://stream.hownetwork.xyz/xxx/road-house-2024-webdl_X_64e75f3f/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/03/film-citizen-of-a-kind-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Citizen of a Kind 2024
+https://stream.hownetwork.xyz/xxx/citizen-of-a-kind-2024-bluray_X_23f2b957/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/03/film-fighter-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Fighter 2024
+https://stream.hownetwork.xyz/xxx/fighter-2024-webdl_X_c26f6070/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-prey-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Prey 2024
+https://stream.hownetwork.xyz/xxx/prey-2024-webdl_X_edeeabb9/1000/480.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-the-beekeeper-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Beekeeper 2024
+https://stream.hownetwork.xyz/xxx/the-beekeeper-2024-bluray_X_08ae710c/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/03/film-damsel-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Damsel 2024
+https://stream.hownetwork.xyz/xxx/damsel-2024-webdl_X_b44c1cc8/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/03/film-alienoid-the-return-to-the-future-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Alienoid 2024
+https://stream.hownetwork.xyz/xxx/alienoid-the-return-to-the-future-2024-webdl_X_0b4d6768/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-land-of-bad-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Land of Bad 2024
+https://stream.hownetwork.xyz/xxx/land-of-bad-2024-webdl_X_c301322b/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/02/film-code-8-part-ii-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Code 8: Part II 2024
+https://stream.hownetwork.xyz/xxx/code-8-part-ii-2024-webdl_X_c7faf980/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/01/film-aquaman-and-the-lost-kingdom-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Aquaman and the Lost Kingdom 2023
+https://stream.hownetwork.xyz/xxx/aquaman-and-the-lost-kingdom-2023-bluray_X_86e3a7ee/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-godzilla-minus-one-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Godzilla Minus One 2023
+https://stream.hownetwork.xyz/xxx/godzilla-minus-one-2023-bluray_X_eeac31ae/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-eye-for-an-eye-2-mu-zhong-wu-ren-2-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Eye for an Eye 2 2024
+https://stream.hownetwork.xyz/xxx/eye-for-an-eye-2-mu-zhong-wu-ren-2-2024-webdl_X_1a5d7fe2/1000/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/02/film-air-force-one-down-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Air Force One Down 2024
+https://stream.hownetwork.xyz/xxx/air-force-one-down-2024-webdl_X_ea0f1fc1/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/03/film-the-brotherhood-of-rebel-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Brotherhood of Rebel 2024
+https://stream.hownetwork.xyz/xxx/the-brotherhood-of-rebel-2023-bluray_X_4f293819/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-lift-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Lift (2024)
+https://stream.hownetwork.xyz/xxx/lift-2024-webdl_X_300d9ad5/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-roadkill-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Roadkill
+https://stream.hownetwork.xyz/xxx/roadkill-2024-webdl_X_3f1ae9ae/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-one-percenter-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",One Percenter
+https://stream.hownetwork.xyz/xxx/one-percenter-2023-bluray_X_a2d9f628/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-badland-hunters-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Badland Hunters
+https://stream.hownetwork.xyz/xxx/badland-hunters-2024-webdl_X_fdb7b99e/19/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/01/film-justice-league-crisis-on-infinite-earths-part-one-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Justice League: Crisis on Infinite Earths – Part One
+https://stream.hownetwork.xyz/xxx/justice-league-crisis-on-infinite-earths-part-one-2024-bluray_X_4e969b5c/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/01/film-sixty-minutes-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Sixty Minutes 2024
+https://stream.hownetwork.xyz/xxx/sixty-minutes-2024-webdl_X_c4effc9a/19/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/01/film-one-more-shot-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",One More Shot 2024
+https://stream.hownetwork.xyz/xxx/one-more-shot-2024-webdl_X_321309c2/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/03/film-siege-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Siege 2023
+https://stream.hownetwork.xyz/xxx/siege-2023-webdl_X_9fff7af1/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/03/film-i-did-it-my-way-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",I Did It My Way 2023
+https://stream.hownetwork.xyz/xxx/i-did-it-my-way-2023-webdl_X_fa6a95f1/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/07/film-the-roundup-no-way-out-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Roundup: No Way Out 2023
+https://stream.hownetwork.xyz/xxx/the-roundup-no-way-out-2023-bluray_X_63966b60/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/12/film-the-hunger-games-the-ballad-of-songbirds-snakes-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Hunger Games: The Ballad of Songbirds & Snakes 2023
+https://stream.hownetwork.xyz/xxx/the-hunger-games-the-ballad-of-songbirds-snakes-2023-bluray_X_25e55f7a/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/01/film-final-destination-2000.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Final Destination
+https://stream.hownetwork.xyz/xxx/final-destination-2000-bluray/2/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/04/film-the-wages-of-fear-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Wages of Fear 2024
+https://stream.hownetwork.xyz/xxx/the-wages-of-fear-2024-webdl_X_a3d135cb/1000/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2021/04/film-godzilla-vs-kong-2021-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Godzilla vs. Kong
+https://stream.hownetwork.xyz/xxx/godzilla-vs-kong-2021-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/02/film-the-animal-kingdom-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Animal Kingdom 2023
+https://stream.hownetwork.xyz/xxx/the-animal-kingdom-2023-bluray_X_842d376b/20/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/02/film-12-12-the-day-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",12.12: The Day 2023
+https://stream.hownetwork.xyz/xxx/12-12-the-day-2023-webdl_X_dd04fab4/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/02/film-dogman-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",DogMan 2023
+https://stream.hownetwork.xyz/xxx/dogman-2023-bluray_X_bbf3f4fe/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/06/film-knights-of-the-zodiac-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Knights of the Zodiac
+https://stream.hownetwork.xyz/xxx/knights-of-the-zodiac-2023-bluray_X_eed6ca9d/1000/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-on-fire-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",On Fire
+https://stream.hownetwork.xyz/xxx/on-fire-2023-webdl_X_821e8170/1000/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/04/film-danger-on-party-island-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Danger on Party Island 2024
+https://stream.hownetwork.xyz/xxx/danger-on-party-island-2024-webdl_X_34a3d8c6/1000/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/04/film-abraham-ozler-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Abraham Ozler 2024
+https://stream.hownetwork.xyz/xxx/abraham-ozler-2024-webdl_X_175ddc47/1000/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/03/film-two-of-us-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Two of Us 2024
+https://stream.hownetwork.xyz/xxx/two-of-us-2024-webdl_X_b021d309/1000/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-cold-meat-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Cold Meat 2024
+https://stream.hownetwork.xyz/xxx/cold-meat-2024-webdl_X_701cbe06/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/01/film-i-s-s-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",I.S.S. 2024
+https://stream.hownetwork.xyz/xxx/i-s-s-2024-bluray_X_c76d4e87/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/03/film-2023-2-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Red Rooms 2023
+https://stream.hownetwork.xyz/xxx/red-rooms-2023-webdl_X_e6d5d958/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/03/film-cyber-heist-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Cyber Heist 2023
+https://stream.hownetwork.xyz/xxx/cyber-heist-2023-webdl_X_2392cc27/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-migration-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Migration 2023
+https://stream.hownetwork.xyz/xxx/migration-2023-bluray_X_155f1d54/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-no-more-bets-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",No More Bets 2023
+https://stream.hownetwork.xyz/xxx/no-more-bets-2023-webdl_X_fbe00637/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/11/film-sector-7-2011.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Sector 7
+https://stream.hownetwork.xyz/xxx/sector-7-2011-bluray_X_ed69dac7/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/04/film-kung-fu-panda-4-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Kung Fu Panda 4 2024
+https://stream.hownetwork.xyz/xxx/kung-fu-panda-4-2024-webdl_X_e4a5f825/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/04/film-bursting-point-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Bursting Point 2023
+https://stream.hownetwork.xyz/xxx/bursting-point-2023-bluray_X_4395f1e6/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/07/film-warhorse-one-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Warhorse One 2023
+https://stream.hownetwork.xyz/xxx/warhorse-one-2023-bluray_X_2ebdc566/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-the-goldfinger-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Goldfinger 2023
+https://stream.hownetwork.xyz/xxx/the-goldfinger-2023-webdl_X_4646d54b/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Fast X 2023
+https://stream.hownetwork.xyz/xxx/fast-x-2023-bluray_X_8af1501a/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/08/film-meg-2-the-trench-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Meg 2: The Trench 2023
+https://stream.hownetwork.xyz/xxx/meg-2-the-trench-2023-bluray_X_73b76cd5/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-exquisite-bodyguard-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Exquisite Bodyguard 2023
+https://stream.hownetwork.xyz/xxx/exquisite-bodyguard-2023-webdl_X_8b6cf182/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-tokyo-revengers-2-bloody-halloween-destiny-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Tokyo Revengers 2: Bloody Halloween – Destiny 2023
+https://stream.hownetwork.xyz/xxx/tokyo-revengers-2-bloody-halloween-destiny-2023-webdl_X_287a3177/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-kingdom-3-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Kingdom 3 – Flame of Destiny
+https://stream.hownetwork.xyz/xxx/kingdom-3-2023-webdl_X_68e5ba72/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-no-way-up-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",No Way Up (2024)
+https://stream.hownetwork.xyz/xxx/no-way-up-2024-webdl_X_52701e64/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-no-way-up-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",No Way Up (2024)
+https://stream.hownetwork.xyz/xxx/no-way-up-2024-webdl_X_52701e64/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/02/film-the-tigers-apprentice-2024-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Tiger’s Apprentice (2024)
+https://stream.hownetwork.xyz/xxx/the-tigers-apprentice-2024-webdl_X_dcb2dea8/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/07/film-fear-the-night-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Fear the Night (2023)
+https://stream.hownetwork.xyz/xxx/fear-the-night-2023-bluray_X_ea129cd2/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-everything-under-control-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Everything Under Control (2023)
+https://stream.hownetwork.xyz/xxx/everything-under-control-2023-webdl_X_d9e0e785/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-freelance-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Freelance (2023)
+https://stream.hownetwork.xyz/xxx/freelance-2023-bluray_X_db4b26be/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/12/film-silent-night-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Silent Night (2023)
+https://stream.hownetwork.xyz/xxx/silent-night-2023-bluray_X_a33d2644/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-role-play-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Role Play (2023)
+https://stream.hownetwork.xyz/xxx/role-play-2023-webdl_X_074c7d43/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-the-book-of-the-nine-cauldrons-the-treasure-of-yu-the-great-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Book of the Nine Cauldrons: The Treasure of Yu the Great (2023)
+https://stream.hownetwork.xyz/xxx/the-book-of-the-nine-cauldrons-the-treasure-of-yu-the-great-2023-webdl_X_cd61c0a3/19/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-napoleon-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Napoleon (2023)
+https://stream.hownetwork.xyz/xxx/napoleon-2023-webdl_X_aa1b94fc/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/01/film-the-wild-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Wild (2023)
+https://stream.hownetwork.xyz/xxx/the-wild-2023-webdl_X_4b6f0547/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/01/film-the-bricklayer-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Bricklayer (2023)
+https://stream.hownetwork.xyz/xxx/the-bricklayer-2023-webdl_X_7d5a3dd3/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/12/film-rise-of-the-footsoldier-vengeance-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Rise of the Footsoldier: Vengeance (2023)
+https://stream.hownetwork.xyz/xxx/rise-of-the-footsoldier-vengeance-2023-bluray_X_7dfe3ee8/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/10/film-shrapnel-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Shrapnel (2023)
+https://stream.hownetwork.xyz/xxx/shrapnel-2023-bluray_X_3ccc7066/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/12/film-fights-break-sphere-2-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Fights Break Sphere 2 (2023)
+https://stream.hownetwork.xyz/xxx/fights-break-sphere-2-2023-webdl_X_0381a50a/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/12/film-fights-break-sphere-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Fights Break Sphere (2023)
+https://stream.hownetwork.xyz/xxx/fights-break-sphere-2023-webdl_X_cdace33c/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/12/film-the-family-plan-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Family Plan (2023)
+https://stream.hownetwork.xyz/xxx/the-family-plan-2023-webdl_X_2dbb725e/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/07/film-the-childe-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Childe (2023)
+https://stream.hownetwork.xyz/xxx/the-childe-2023-bluray_X_71b000e1/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/11/film-smugglers-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Smugglers (2023)
+https://stream.hownetwork.xyz/xxx/smugglers-2023-webdl_X_4ada1624/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-brave-citizen-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Brave Citizen (2023)
+https://stream.hownetwork.xyz/xxx/brave-citizen-2023-webdl_X_84062000/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-the-godfather-1972.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Godfather (1972)
+https://stream.hownetwork.xyz/xxx/the-godfather-1972-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2017/11/film-border-shokuzai-2017.jpg.webp" group-title="VOD UPDATE ACTION to 2024",BORDER: Shokuzai
+https://stream.hownetwork.xyz/xxx/border-shokuzai-2017-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/06/film-spider-man-across-the-spider-verse-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Spider-Man: Across the Spider-Verse (2023)
+https://stream.hownetwork.xyz/xxx/spider-man-across-the-spider-verse2-2023-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-the-dark-knight-2008.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Dark Knight (2008)
+https://stream.hownetwork.xyz/xxx/dark-knight-2008-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-return-of-the-king-2003.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Lord of the Rings: The Return of the King (2003)
+https://stream.hownetwork.xyz/xxx/lord-rings-return-king-2003-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2016/06/film-fight-club-1999.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Fight Club (1999)
+https://stream.hownetwork.xyz/xxx/fight-club-1999-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-inception-2010.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Inception (2010)
+https://stream.hownetwork.xyz/xxx/inception-2010-bluray/16/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-two-towers-2002.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Lord of the Rings: The Two Towers (2002)
+https://stream.hownetwork.xyz/xxx/lord-rings-two-towers-2002-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2022/05/film-top-gun-maverick-2022-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Top Gun: Maverick (2022)
+https://stream.hownetwork.xyz/xxx/top-gun-maverick-2022-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-the-lord-of-the-rings-the-fellowship-of-the-ring-2001.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Lord of the Rings: The Fellowship of the Ring (2001)
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2021/10/film-dune-2021-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Dune (Dune: Part One) (2021)
+https://stream.hownetwork.xyz/xxx/dune-2021-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2017/10/film-geostorm-2017.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Geostorm (2017)
+https://stream.hownetwork.xyz/xxx/geostorm-2017-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-the-shawshank-redemption-1994.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Shawshank Redemption (1994)
+https://stream.hownetwork.xyz/xxx/the-shawshank-redemption-1994-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/04/film-the-last-kingdom-seven-kings-must-die-2023-lk21-d21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Last Kingdom: Seven Kings Must Die (2023)
+https://stream.hownetwork.xyz/xxx/the-last-kingdom-seven-kings-must-die-2023-webdl/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/01/film-the-godfather-part-ii-1974.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Godfather: Part II (1974)
+https://stream.hownetwork.xyz/xxx/godfather-part-ii-1974-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2016/07/film-good-bad-ugly-1966.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Good, the Bad and the Ugly (Il buono, il brutto, il cattivo) (1966)
+https://stream.hownetwork.xyz/xxx/good-bad-ugly-1966-bluray_X_0e995027/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-goodfellas-1990.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Goodfellas (1990)
+https://stream.hownetwork.xyz/xxx/goodfellas-1990-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-the-matrix-1999.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Matrix (1999)
+https://stream.hownetwork.xyz/xxx/the-matrix-1999-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2019/11/film-the-irishman-2019-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Irishman (2019)
+https://stream.hownetwork.xyz/xxx/the-irishman-2019-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2016/06/film-the-silence-of-the-lambs-1991.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Silence of the Lambs (1991)
+https://stream.hownetwork.xyz/xxx/silence-lambs-1991-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-saving-private-ryan-1998.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Saving Private Ryan (1998)
+https://stream.hownetwork.xyz/xxx/saving-private-ryan-1998-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-the-green-mile-1999.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Green Mile (1999)
+https://stream.hownetwork.xyz/xxx/the-green-mile-1999-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-city-of-god-2002.jpg.webp" group-title="VOD UPDATE ACTION to 2024",City of God (Cidade de Deus) (2002)
+https://stream.hownetwork.xyz/xxx/city-of-god-2002-bluray_X_2fcb27fe/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-interstellar-2014.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Interstellar (2014)
+https://stream.hownetwork.xyz/xxx/interstellar-2014-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2016/12/film-terminator-2-judgment-day-1991.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Terminator 2 (Terminator 2: Judgment Day) (1991)
+https://stream.hownetwork.xyz/xxx/terminator-2-judgment-day-1991-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/07/film-seven-samurai-1954.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Seven Samurai (Shichinin no samurai) (1954)
+https://stream.hownetwork.xyz/xxx/seven-samurai-1954-bluray/17/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-star-wars-episode-iv-a-new-hope-1977.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Star Wars: Episode IV – A New Hope (Star Wars) (1977)
+https://stream.hownetwork.xyz/xxx/star-wars-episode-iv-a-new-hope-1977-bluray/1/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-gladiator-2000.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Gladiator (2000)
+https://stream.hownetwork.xyz/xxx/gladiator-2000-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/03/film-the-departed-2006.jpg.webp" group-title="VOD UPDATE ACTION to 2024",The Departed (2006)
+https://stream.hownetwork.xyz/xxx/the-departed-2006-bluray/9/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2019/08/film-parasite-gisaengchung-2019-lk21.jpg.webp" group-title="VOD UPDATE ACTION to 2024",Parasite (Gisaengchung) (2019)
+https://stream.hownetwork.xyz/xxx/parasite-gisaengchung-2019-bluray/11/480.m3u8
+
