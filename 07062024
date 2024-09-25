@@ -2039,7 +2039,12 @@ http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/364891.ts
 !
 <========== PROLIGA ==========>
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgND1x-B5MeQAmqWyg-EOFCpagHO60WOiyOg&s",PROLIGA VOLI
- 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="PROLIGA VOLI",Moji
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
+https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
