@@ -120,7 +120,7 @@ https://canale.mizhls.ru/lb/premium415/playlist.m3u8
 =================================================
 <<<<<<<<<<<<<<<LIVE PREMIER LEAGUE>>>>>>>>>>>>>>>
 
-#EXTINF:-1 group-logo="https://img.okezone.com/content/2016/08/12/45/1462202/soccerpedia-mengenal-logo-baru-liga-inggris-ItLOvS0kKc.jpg",LIVE PREMIER LEAGUE
+#EXTINF:-1 group-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/ilustrasi-premier-league-andreas-joevibolasportcom.jpg",LIVE PREMIER LEAGUE
 
 #EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://hometv.pw/logo/sports2/arena_sport.png" group-title="LIVE PREMIER LEAGUE", ARENA Premier League 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -196,7 +196,7 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47638.m3u8
 https://tvnid-stream.mantan.workers.dev/Sky_Sports_Premier_League/index.m3u8
 
 ======================= LIVE | LIGA INGGRIS ====================================
-#EXTINF:-1 group-logo="https://img.okezone.com/content/2016/08/12/45/1462202/soccerpedia-mengenal-logo-baru-liga-inggris-ItLOvS0kKc.jpg",LIVE LIGA INGGRIS
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGi9t0H-VbY1Zc0yAL6IB9J8debTtd5RKXxQ&s",LIVE LIGA INGGRIS
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="LIVE LIGA INGGRIS", LIVE 01
 #KODIPROP:inputstreamaddon=inputstream.adaptive
