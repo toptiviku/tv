@@ -1028,7 +1028,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.m
 !##################################################
 FORMULA 1
 #################################################
-#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/975/745/png-clipart-formula-1-logo-formula-1-logo-icons-logos-emojis-iconic-brands.png",FORMULA 1
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5j_M8FP-xnnMFqSm0EVVo_NZ194rA2YwBg&s",FORMULA 1
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1" , DAZN F1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
