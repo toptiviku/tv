@@ -34,11 +34,6 @@ COPA AMERICA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-==============
-LK 21
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckyD9ehwis5OIalZdFGOqwfX9hp8C3aagQA&s" group-title="LK21 2024",JOHNNY PUFF: SECRET MISSION (2024)
-https://ss09.tubzde.cc/data/9/66fd3aee66f05/hls480/66fd3aee66f05480.m3u8
 ##################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvseGN2dXM1VyVv3UyezzS6pCCiUfOtF9ioojommw5Hg&s",KUALIFIKASI U20 AFC
 
