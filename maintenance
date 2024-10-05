@@ -18,9 +18,9 @@ COPA AMERICA
 ====================
 
 ################  INFORMASI #################
-#EXTINF:-1 group-logo="https://www.smpn03batu.sch.id/upload/imagecache/44508792template-pin-warna-merah-800x800.png",⚠️SIARAN TERBATAS⚠️
+#EXTINF:-1 group-logo="https://www.smpn03batu.sch.id/upload/imagecache/44508792template-pin-warna-merah-800x800.png",00⚠️ SIARAN TV TERBATAS ⚠️00
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZgqYuNQRfMgFlCO_WrvhWG_NsFWmrCRHnvNhx56d3FPksX11cV-D425w-EHTOLL4DOqmLDRqfexCNknhuB-n3A2YRZw8ris8ARLmPXTsAKcKgEGmY0zYreEFJqay1PqxyMsZP2KbRLCff7lDvGUWt4DBmT8V1AnpcLPlzRU8tkife4dSuhOJE4e77Gvs/s1600/images%20(1).png" group-title="⚠️SIARAN TERBATAS⚠️",0000 Sedang Migrasi Server Info di Group WA NFLX ⚠
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZgqYuNQRfMgFlCO_WrvhWG_NsFWmrCRHnvNhx56d3FPksX11cV-D425w-EHTOLL4DOqmLDRqfexCNknhuB-n3A2YRZw8ris8ARLmPXTsAKcKgEGmY0zYreEFJqay1PqxyMsZP2KbRLCff7lDvGUWt4DBmT8V1AnpcLPlzRU8tkife4dSuhOJE4e77Gvs/s1600/images%20(1).png" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00",0000 Sedang Migrasi Server Info di Group WA NFLX ⚠
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -34,49 +34,49 @@ sumber eepunx hbonewqing
 
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 1) 🇮🇩 
 
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="⚠️SIARAN TERBATAS⚠️", TRANS7 b 🇮🇩 
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00", TRANS7 b 🇮🇩 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="⚠️SIARAN TERBATAS⚠️", TRANS7 c 🇮🇩 
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00", TRANS7 c 🇮🇩 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTINF:-1 tvg-id="TRANSTV - [Channel 87].id" tvg-name="TRANSTV" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png" group-title="⚠️SIARAN TERBATAS⚠️", TRANS TV 🇮🇩 1
+#EXTINF:-1 tvg-id="TRANSTV - [Channel 87].id" tvg-name="TRANSTV" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00", TRANS TV 🇮🇩 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png" tvg-id="simpleTVFakeEpgId",iNews HD
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png" tvg-id="simpleTVFakeEpgId",iNews HD
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png" tvg-id="simpleTVFakeEpgId",INEWS
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png" tvg-id="simpleTVFakeEpgId",INEWS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id="SPOTV" group-title="⚠️SIARAN TERBATAS⚠️"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUxs3mH2pSxMXkXRsVKV5azHNlO5NgbzDoyIXxII7ywqKk6drZjzxzoSBtIJomCEK_WnkQ5xkbVAJsM_L9d5Jlv3HcjZHbsOoFMtYVm-yynd1je91cq5A_S5M89ze0Dw0FOU3wHviqexHpKXDb82EukAcML40ja3LZPYbH0apUDXgaYTFC4Hxfwly8xnA/s320/spotv-removebg-preview.png",SPOTV 
+#EXTINF:-1 tvg-id="SPOTV" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUxs3mH2pSxMXkXRsVKV5azHNlO5NgbzDoyIXxII7ywqKk6drZjzxzoSBtIJomCEK_WnkQ5xkbVAJsM_L9d5Jlv3HcjZHbsOoFMtYVm-yynd1je91cq5A_S5M89ze0Dw0FOU3wHviqexHpKXDb82EukAcML40ja3LZPYbH0apUDXgaYTFC4Hxfwly8xnA/s320/spotv-removebg-preview.png",SPOTV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2" group-title="⚠️SIARAN TERBATAS⚠️"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6wEs1BMmpTBAiLPHKvA_UmfaKw4imLiVW9-EkVpd1OLgmP3ESdaOSFpHuRqdK3huW8tUSwFDxqSjIwGvhiqMgVTq8fdZkUZKW-f0LWyLnloUYliAow0CT_URpd_VzqjmBNPuhD-OLQgDp8mEt0rRxeNvxxjUQoZyY3r9su-AL_ROKbyPaK79_Rl9Khr4/s320/spotv_2-removebg-preview.png",SPOTV2 
+#EXTINF:-1 tvg-id="SPOTV2" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6wEs1BMmpTBAiLPHKvA_UmfaKw4imLiVW9-EkVpd1OLgmP3ESdaOSFpHuRqdK3huW8tUSwFDxqSjIwGvhiqMgVTq8fdZkUZKW-f0LWyLnloUYliAow0CT_URpd_VzqjmBNPuhD-OLQgDp8mEt0rRxeNvxxjUQoZyY3r9su-AL_ROKbyPaK79_Rl9Khr4/s320/spotv_2-removebg-preview.png",SPOTV2 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 ================
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV V+
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
 
 
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV (Transvision) 
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV (Transvision) 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -85,33 +85,33 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI V+
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV V+
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png", iNews (V2)
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png", iNews (V2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png",SCTV
+#EXTINF:-1 tvg-id="" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png",SCTV 2
+#EXTINF:-1 tvg-id="" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png",SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -119,51 +119,51 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/antv.png", ANTV
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/antv.png", ANTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/tv1.png",TVONE
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/tv1.png",TVONE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/net-1.png", NET.
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/net-1.png", NET.
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="⚠️SIARAN TERBATAS⚠️", Moji 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00", Moji 
 http://iptvtree.net:8080/F14995/a84c0963/298550
 
-#EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/rtv-1.png" group-title="⚠️SIARAN TERBATAS⚠️", RTV
+#EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/rtv-1.png" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00", RTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
 
-#EXTINF:-1 tvg-id="23" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/daaitv-1.png" group-title="⚠️SIARAN TERBATAS⚠️", DAAI TV
+#EXTINF:-1 tvg-id="23" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/daaitv-1.png" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00", DAAI TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kompastv%20(2).png",Kompas TV
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kompastv%20(2).png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png",Metro TV
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png" group-title="⚠️SIARAN TERBATAS⚠️",Trans TV
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 
-#EXTINF:-1 group-title="⚠️SIARAN TERBATAS⚠️" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png", Trans7
+#EXTINF:-1 group-title="00⚠️ SIARAN TV TERBATAS ⚠️00" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://github.com/Qingtvnew/test/raw/main/TVRI.png" group-title="⚠️SIARAN TERBATAS⚠️", TVRI (dens)
+#EXTINF:-1 tvg-id="17" tvg-logo="https://github.com/Qingtvnew/test/raw/main/TVRI.png" group-title="00⚠️ SIARAN TV TERBATAS ⚠️00", TVRI (dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI
