@@ -30,6 +30,10 @@ COPA AMERICA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="🌀🌀MARLESTV24🌀🌀" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-azrael-2024-lk21-d21.jpg.webp",MELON BESAR
+https://cdn.pvvstream.pro/videos/-69328374/171153903/vid_360p.mp4?rs=360000&rb=2796202&secure=Peqmjof08lGOfvv9yCD_Vg%3D%3D%2C1728416021
+
 ######################################################################################################################################################
 BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  BATAS  
 ######################################################################################################################################################
