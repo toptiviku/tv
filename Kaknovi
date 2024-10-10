@@ -4,9 +4,6 @@ https://s.id/kaknovi1
 
 
 
-
-
-
 COPA AMERICA
 
 <!DOCTYPE html>
@@ -39,6 +36,9 @@ COPA AMERICA
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+
+BATAS     BATAS     BATAS     BATAS     BATAS     BATAS     
 
 ##################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvseGN2dXM1VyVv3UyezzS6pCCiUfOtF9ioojommw5Hg&s",KUALIFIKASI U20 AFC
@@ -524,6 +524,55 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
 
 =========================
 ###############################################
+DAZN
+/quuen2024/llgnew/refs/heads/queen/llgtv
+==================================DAZN KERU================================================
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU",DAZN KERU
+
+#EXTINF:-1 group-title="DAZN KERU" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN KERU" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605032_image-header_pEs_1661946616000&quality=70&width=500", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN KERU" tvg-id="" tvg-logo="https://i.imgur.com/RHORZXz.png"", DAZN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN KERU" tvg-id="dazn4_spain" tvg-logo="https://i.imgur.com/0vvP4SE.png", DAZN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN KERU" tvg-id="dazn_laliga" tvg-logo="https://i.imgur.com/srx5bGb.png", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN KERU" tvg-id="laliga_hypermotion" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN KERU" tvg-id="laliga_hypermotion2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN KERU" tvg-id="laliga_hypermotion3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+ 
+============================
 ==================================DAZN.COM================================================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU",DAZN.COM
 
@@ -559,7 +608,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 <==========DAZN ES==========>
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU",DAZN ES
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -976,29 +1024,34 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 ##################################################
 #EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2023/09/30/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg",SEPAK BOLA TIMNAS
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="SEPAK BOLA TIMNAS",MNC Sports (Sportstars)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26",SOCCER CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26",MNC Sports (Sportstars)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="SEPAK BOLA TIMNAS",MNC Sports 2 (Sportstars 2)
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26",MNC Sports 2 (Sportstars 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="SEPAK BOLA TIMNAS",SPORTSTARS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26",SPORTSTARS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid.kokokputik.my.id/iptv/visikey.php?id=1002&token=dedi
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" group-title="SEPAK BOLA TIMNAS" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 tvg-id="Sportstars 2 - [Channel 98].id" group-title="SEPAK BOLA TIMNAS" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
+#EXTINF:-1 tvg-id="Sportstars 2 - [Channel 98].id" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
@@ -1033,95 +1086,95 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.m
 !##################################################
 FORMULA 1
 #################################################
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5j_M8FP-xnnMFqSm0EVVo_NZ194rA2YwBg&s",FORMULA 1
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5j_M8FP-xnnMFqSm0EVVo_NZ194rA2YwBg&s",FORMULA 1 🏁 🏁 🏁
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1" , DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1  🏁 🏁 🏁" , DAZN F1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
-#EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg" group-title=" FORMULA 1",DAZN F1 ES
+#EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1  🏁 🏁 🏁"  ,DAZN F1 ES
 https://webhdrunns.mizhls.ru/lb/premium537/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Sky Sport F1 Italy
+#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁"  ,Sky Sport F1 Italy
 https://webhdrunns.mizhls.ru/lb/premium577/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1", Sky SPORT F1
+#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁"  , Sky SPORT F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium60/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Sky Sport F1 Italy
+#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁"  ,Sky Sport F1 Italy
 https://webhdrunns.mizhls.ru/lb/premium577/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",Sky Sports F1 UK
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁",Sky Sports F1 UK
 https://webhdrunns.mizhls.ru/lb/premium60/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 1
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁",TSN 1
 http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 2 HD
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁",TSN 2 HD
 http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 3 HD
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁",TSN 3 HD
 http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1"“FORMULA 1”,TSN 4
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁"“FORMULA 1”,TSN 4
 http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",TSN 5
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁",TSN 5
 http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
 
-#EXTINF:0 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1",Bein Sport8
+#EXTINF:0 tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁",Bein Sport8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium98/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ElevenCHANNEL | SPORT1.pl" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="FORMULA 1" , DIEMA SPORT 
+#EXTINF:-1 tvg-id="ElevenCHANNEL | SPORT1.pl" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="FORMULA 1  🏁 🏁 🏁" , DIEMA SPORT 
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/160365.m3u8
 
-#EXTINF:-1 tvg-id=" FORMULA 1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1" , DIEMA SPORT 2
+#EXTINF:-1 tvg-id=" FORMULA 1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁" , DIEMA SPORT 2
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/16762.m3u8
 
-#EXTINF:-1 tvg-id=" FORMULA 1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1" , DIEMA SPORT 3
+#EXTINF:-1 tvg-id=" FORMULA 1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁" , DIEMA SPORT 3
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/33100.m3u8
 
-#EXTINF:-1 tvg-name="Diema Sport Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Diema Sport Bulgaria
+#EXTINF:-1 tvg-name="Diema Sport Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁"  ,Diema Sport Bulgaria
 https://webhdrunns.mizhls.ru/lb/premium465/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Diema Sport 2 Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-name="Diema Sport 2 Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁"  ,Diema Sport 2 Bulgaria
 https://webhdrunns.mizhls.ru/lb/premium466/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Diema Sport 3 Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title=" FORMULA 1",Diema Sport 3 Bulgaria
+#EXTINF:-1 tvg-name="Diema Sport 3 Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁"  ,Diema Sport 3 Bulgaria
 https://webhdrunns.mizhls.ru/lb/premium467/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 !
 =====================================================================
 <========== 👑EVENT MOTO GP👑 ==========>
-#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/nOHUF46msRxqunShY27JfX50ASU=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1046806/original/066398700_1446840729-032765100_1446526697-motogp-logo.jpg",MOTO GP
+#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/nOHUF46msRxqunShY27JfX50ASU=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1046806/original/066398700_1446840729-032765100_1446526697-motogp-logo.jpg",MOTO GP 🏁 🏁 🏁
 
-#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://iili.io/JjzVsK7.png" group-title="MOTO GP",SPOTV Malaysia
+#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://iili.io/JjzVsK7.png" group-title="MOTO GP 🏁 🏁 🏁",SPOTV Malaysia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
  
-#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://iili.io/JjzVPPS.png" group-title="MOTO GP",SPOTV 2 Malaysia
+#EXTINF:-1 tvg-id="810.astro" tvg-logo="https://iili.io/JjzVPPS.png" group-title="MOTO GP 🏁 🏁 🏁",SPOTV 2 Malaysia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png" group-title="MOTO GP",SPOTV Unifi
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png" group-title="MOTO GP 🏁 🏁 🏁",SPOTV Unifi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
 
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png" group-title="MOTO GP",SPOTV 2 Unifi
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV2.png" group-title="MOTO GP 🏁 🏁 🏁",SPOTV 2 Unifi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1134,7 +1187,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122772
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="MOTO GP",SpoTV (INDIHOME)
+#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="MOTO GP 🏁 🏁 🏁",SpoTV (INDIHOME)
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1143,46 +1196,46 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://wwwevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="MOTO GP",SpoTV 2 (INDIHOME)
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://wwwevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="MOTO GP 🏁 🏁 🏁",SpoTV 2 (INDIHOME)
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-#EXTINF:-1 group-title="MOTO GP"   tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV INDEHOME
+#EXTINF:-1 group-title="MOTO GP 🏁 🏁 🏁"   tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV INDEHOME
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
-#EXTINF:-1 group-title="MOTO GP"   tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV 2 INDEHOME
+#EXTINF:-1 group-title="MOTO GP 🏁 🏁 🏁"   tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV 2 INDEHOME
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="MOTO GP",SPOTV Vision
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="MOTO GP 🏁 🏁 🏁",SPOTV Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20HD-FirstMedia-Chl-330.jpg&w=1920&q=100" group-title="MOTO GP",SPOTV 2 Vision
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20HD-FirstMedia-Chl-330.jpg&w=1920&q=100" group-title="MOTO GP 🏁 🏁 🏁",SPOTV 2 Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id="SPOTV" group-title="MOTO GP"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV 
+#EXTINF:-1 tvg-id="SPOTV" group-title="MOTO GP 🏁 🏁 🏁"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2" group-title="MOTO GP"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2 
+#EXTINF:-1 tvg-id="SPOTV2" group-title="MOTO GP 🏁 🏁 🏁"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOTO GP" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg",SPOTV (Astro)
+#EXTINF:-1 group-title="MOTO GP 🏁 🏁 🏁" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg",SPOTV (Astro)
 #http://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/364890.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="MOTO GP" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",SPOTV2 (Astro)
+#EXTINF:-1 group-title="MOTO GP 🏁 🏁 🏁" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",SPOTV2 (Astro)
 #http://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/364891.ts
 ##################################################
@@ -2086,12 +2139,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 ################################################################################################################
-################ "51D1Q IPTV"  ################### quuen2024/llgnew/raw/refs/heads/queen/live.m3u8
+################ "SIDIQTV24"  ################### quuen2024/llgnew/raw/refs/heads/queen/live.m3u8
 sumber live queen
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTDAoStYueiHMdzDr1sI_Mrqq6wgjM0RwkdixCrpjEaCFfXCMvOO8pHlKwxqfPvGbWBZoAjm8LtBq185UzlRJQjEuaQJMqQqxufRuxaP0SrGKEN9jPb5B3PSfYzRHbXsFPnQKBa_FjsDtJClkLembtWb_chFTB3mRv5Wqd5puYmxwEIIMyLRqAlEKDNPk/s320/51d10.png",51D1Q IPTV
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX7YxiPTJGpWfDOVgAM4XuHpxHJxCqpM1i8MLZNIynOpNlT1E0qETb5szNyPWFuLB2CzfbfxHJC6cHyYBa31ERQMQiRyQPdvOdkdh6FRRArVVyJLGEG1Ipv5tzSWBLrvLQ6MSjh6k2tMWjV2tav4u4cukv1LPT_seStXwQDsFVoonXqR9rS-0PDkLqVRo/s320/LOGO%20TV%20shidiq.png",SIDIQTV24
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/trans7.png" group-title="51D1Q IPTV",TRANS 7 Auto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/trans7.png" group-title="SIDIQTV24",TRANS 7 Auto
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
@@ -2099,18 +2152,18 @@ sumber live queen
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 
-#EXTINF:-1 group-title="51D1Q IPTV" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/trans7.png",Trans 7
+#EXTINF:-1 group-title="SIDIQTV24" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/trans7.png",Trans 7
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 ===========================================================================================================================================
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/transtv.png" group-title="51D1Q IPTV",TRANS TV Auto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/transtv.png" group-title="SIDIQTV24",TRANS TV Auto
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 --------------------------------------------------------------------------------------------------------------------------------------------------====
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/indosiar.png" group-title="51D1Q IPTV",INDOSIAR 
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/indosiar.png" group-title="SIDIQTV24",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2123,16 +2176,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/indosiar.png" group-title="51D1Q IPTV",INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/indosiar.png" group-title="SIDIQTV24",INDOSIAR HD
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/indosiar.png" group-title="51D1Q IPTV",INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/indosiar.png" group-title="SIDIQTV24",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://filex.tv:8080/gtr/gtr/302264
 -----------------------------------------------------------------------------------------------------------------------------------------------------=
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://saktitv.my.id/logo/lokal1/sctv.png" group-title="51D1Q IPTV",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://saktitv.my.id/logo/lokal1/sctv.png" group-title="SIDIQTV24",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2144,10 +2197,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rcti.png" group-title="51D1Q IPTV",RCTI (CBM)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rcti.png" group-title="SIDIQTV24",RCTI (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
-#EXTINF:-1 group-title="51D1Q IPTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rcti.png", RCTI 
+#EXTINF:-1 group-title="SIDIQTV24" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rcti.png", RCTI 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -2156,12 +2209,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="51D1Q IPTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rcti.png", RCTI (V+) 
+#EXTINF:-1 group-title="SIDIQTV24" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rcti.png", RCTI (V+) 
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/mnc.png"  group-title="51D1Q IPTV",MNC TV Auto
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnctv" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/mnc.png"  group-title="SIDIQTV24",MNC TV Auto
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=mnc
@@ -2169,7 +2222,7 @@ https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=mnc
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="13345" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/gtv.png" group-title="51D1Q IPTV",GTV Auto
+#EXTINF:-1 tvg-id="13345" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/gtv.png" group-title="SIDIQTV24",GTV Auto
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -2180,12 +2233,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 ----------------------------------------------------------------------------------------------------------------------------------------
 =============================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/antv.png" group-title="51D1Q IPTV",ANTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/antv.png" group-title="SIDIQTV24",ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://d1abp075u76pbq.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=https://www.visionplus.id/
 ==============================================================================================================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/net.png" group-title="51D1Q IPTV",NET TV Auto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/net.png" group-title="SIDIQTV24",NET TV Auto
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 ==================================================================================================================================================
@@ -2193,18 +2246,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 ================================================================================================================================================
 
 
-#EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rtv.png" group-title="51D1Q IPTV",RTV Auto
+#EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/rtv.png" group-title="SIDIQTV24",RTV Auto
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referer=https://www.visionplus.id
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/vtv.png" group-title="51D1Q IPTV",VTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/vtv.png" group-title="SIDIQTV24",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 ===========================================================================================================================================
-#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="51D1Q IPTV",Jowo Channel
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="SIDIQTV24",Jowo Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
@@ -2214,7 +2267,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/jaktv.png" group-title="51D1Q IPTV",Jaktv 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/jaktv.png" group-title="SIDIQTV24",Jaktv 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 ===================================================================================================================================
 
@@ -2222,7 +2275,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/daaitv.png" group-title="51D1Q IPTV", DAAI TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/daaitv.png" group-title="SIDIQTV24", DAAI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
  
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -2231,23 +2284,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="51D1Q IPTV",Moji 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="SIDIQTV24",Moji 
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="51D1Q IPTV",Moji
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="SIDIQTV24",Moji
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-name="MentariTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/mentaritv.png" group-title="51D1Q IPTV", Mentari TV
+#EXTINF:-1 tvg-name="MentariTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/mentaritv.png" group-title="SIDIQTV24", Mentari TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 10) ExoPlayerLib/2.18.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 =======================================================NEWS================================================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/inews.png" group-title="51D1Q IPTV",iNEWS Auto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/inews.png" group-title="SIDIQTV24",iNEWS Auto
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2259,22 +2312,22 @@ https://raw.githubusercontent.com/itttv/sourcestream/main/Streaming/indonesia/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/sindo_news.png" group-title="51D1Q IPTV", SINDO NEWS TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/sindo_news.png" group-title="SIDIQTV24", SINDO NEWS TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 ====================================================================================================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/cnn_indonesia.png" group-title="51D1Q IPTV",CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/cnn_indonesia.png" group-title="SIDIQTV24",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384000_sleng.m3u8
 ======================================================================================================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/cnbc_indonesia.png" group-title="51D1Q IPTV",CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/cnbc_indonesia.png" group-title="SIDIQTV24",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 ============================================================================================================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/tvri.png" group-title="51D1Q IPTV",TVRI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/tvri.png" group-title="SIDIQTV24",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 ============================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beritasatu.png" group-title="51D1Q IPTV",BTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beritasatu.png" group-title="SIDIQTV24",BTV 
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
 ===========================================================================================================================================
@@ -2282,29 +2335,29 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/metrotv.png" group-title="51D1Q IPTV",Metro TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/metrotv.png" group-title="SIDIQTV24",Metro TV 
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 ==========================================================================================================================================
-#EXTINF:-1 group-title="51D1Q IPTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/kompastv.png",KOMPAS TV Auto
+#EXTINF:-1 group-title="SIDIQTV24" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/kompastv.png",KOMPAS TV Auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 ==========================================================================================================================================
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" group-title="51D1Q IPTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/tvone.png",01 TV One 
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" group-title="SIDIQTV24" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/tvone.png",01 TV One 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 ==========================================================================================================================================
-#EXTINF:-1 group-title="51D1Q IPTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/jawapostv%20(1)%20(1).png",Jawa Pos TV
+#EXTINF:-1 group-title="SIDIQTV24" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/jawapostv%20(1)%20(1).png",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
  =========================================================================================================================================
 
-#EXTINF:-1 group-title="51D1Q IPTV", tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/BNchannel.png", BN Channel First
+#EXTINF:-1 group-title="SIDIQTV24", tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/BNchannel.png", BN Channel First
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch112.m3u8
 ===========================================================================================================================================
 
 
-#EXTINF:-1 group-title="51D1Q IPTV" tvg-id="seatoday.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/sea_today.png",Sea Today
+#EXTINF:-1 group-title="SIDIQTV24" tvg-id="seatoday.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/sea_today.png",Sea Today
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
@@ -2312,42 +2365,42 @@ https://hls.seatoday.com/hls_hd/seatoday.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1  group-title="51D1Q IPTV" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 1
+#EXTINF:-1  group-title="SIDIQTV24" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 1
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1  group-title="51D1Q IPTV" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 2
+#EXTINF:-1  group-title="SIDIQTV24" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 2
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="51D1Q IPTV",SPORTSTARS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="SIDIQTV24",SPORTSTARS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid.kokokputik.my.id/iptv/visikey.php?id=1002&token=dedi
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" group-title="51D1Q IPTV" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" group-title="SIDIQTV24" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 tvg-id="Sportstars 2 - [Channel 98].id" group-title="51D1Q IPTV" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
+#EXTINF:-1 tvg-id="Sportstars 2 - [Channel 98].id" group-title="SIDIQTV24" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id="SPOTV" group-title="51D1Q IPTV"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV 
+#EXTINF:-1 tvg-id="SPOTV" group-title="SIDIQTV24"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2" group-title="51D1Q IPTV"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2 
+#EXTINF:-1 tvg-id="SPOTV2" group-title="SIDIQTV24"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="51D1Q IPTV",Indosiar BRI Liga Live
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="SIDIQTV24",Indosiar BRI Liga Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2355,7 +2408,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://sritv.serv00.net/red/play.php?id=205&type=drm
 http://sritv.serv00.net/red/play.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="51D1Q IPTV",BRI Liga Live 2
+#EXTINF:-1 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="SIDIQTV24",BRI Liga Live 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2363,7 +2416,7 @@ http://sritv.serv00.net/red/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17624&type=drm
 https://sritv.serv00.net/red/play.mpd?id=17624&type=dash
 
-#EXTINF:-1 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="51D1Q IPTV",BRI Liga Live 3
+#EXTINF:-1 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="SIDIQTV24",BRI Liga Live 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2371,7 +2424,7 @@ https://sritv.serv00.net/red/play.mpd?id=17624&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17623&type=drm
 https://sritv.serv00.net/red/play.mpd?id=17623&type=dash
 
-#EXTINF:-1 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="51D1Q IPTV",BRI Liga Live 4
+#EXTINF:-1 tvg-logo="https://cdn1.codashop.com/S/content/common/images/denom-image/vidio/vidio_Platinum_image.jpeg" group-title="SIDIQTV24",BRI Liga Live 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -13935,4 +13988,3 @@ https://www.youtube.com/@AlamSemenit
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocyQEf1.png" group-title="YOUTUBE FAVORIT", BEST DOCUMENTARI
 https://www.youtube.com/watch?v=WA6LtwfHXmI
-
