@@ -9259,6 +9259,22 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod
 //menampilkan playlist >>> VOD MOVIES 2024
 //========================================================================
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/10/film-finding-love-in-saint-lucia-2024-lk21-d21.jpg.webp",Finding Love in Saint Lucia 2024
+#Null
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-the-goat-life-2024-lk21-d21.jpg.webp",The Goat Life 2024
+#Null
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/10/film-the-absence-of-eden-2024-lk21-d21.jpg.webp",The Absence of Eden 2024
+#Null
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/10/film-dying-to-be-famous-2024-lk21-d21.jpg.webp",Dying to Be Famous 2024
+#Null
+
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAKKOrpyUnmAIIZ1TAYXkAKfp7yRu4_ssr5Sf0J-f36b6TJN_UutqSruN-OUmmpfVEF2kqZAFoE0NFovz3iRMz5QcS2LSON5zir0AWqjrNWgNpT1eDinHvxwkmR62BperpQeUFCKrywV0D_mCesRGZjkvyDvPiVJbe-RvE8RafJnbvWbPt8FRbNu_QSFk/s320/movie%20nigt.png",VOD MOVIES 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/10/film-autumn-at-apple-hill-2024-lk21-d21.jpg.webp",Autumn at Apple Hill 2024
