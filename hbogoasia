@@ -9260,6 +9260,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod
 //========================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/10/film-hellboy-the-crooked-man-2024-lk21-d21.jpg.webp",Hellboy: The Crooked Man (2024)
+#null
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/10/film-beetlejuice-beetlejuice-2024-lk21-d21.jpg.webp",Beetlejuice Beetlejuice 2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/09/Beetlejuice.Beetlejuice.2024.mp4/tracks-v1a1/mono.m3u8
 https://stream.hownetwork.xyz/xxx/beetlejuice-beetlejuice-2024-webdl_X_e6d77e43/26/480.m3u8
