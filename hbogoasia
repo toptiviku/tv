@@ -9263,6 +9263,11 @@ https://objects.githubusercontent.com/github-production-release-asset-2e65be/756
 //========================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2016/06/film-cloudy-with-a-chance-of-meatballs-2-2013.jpg.webp",Cloudy with a Chance of Meatballs 2 (2013)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/09/Beetlejuice.Beetlejuice.2024.mp4/tracks-v1a1/mono.m3u8
+https://stream.hownetwork.xyz/xxx/cloudy-chance-meatballs-2-2013-bluray_X_b43487f3/1000/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/10/film-beetlejuice-beetlejuice-2024-lk21-d21.jpg.webp",Beetlejuice Beetlejuice 2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/09/Beetlejuice.Beetlejuice.2024.mp4/tracks-v1a1/mono.m3u8
 https://stream.hownetwork.xyz/xxx/beetlejuice-beetlejuice-2024-webdl_X_e6d77e43/26/480.m3u8
