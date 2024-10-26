@@ -2783,6 +2783,12 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 group-title="TV SPORTS INDONESIA"   tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV 2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="TV SPORTS INDONESIA",Fox Sports 1
+http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="TV SPORTS INDONESIA",Fox Sports 2
+http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
+
 ################################################################################################################
 !
 !
