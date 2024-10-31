@@ -883,7 +883,7 @@ sumber eepunx hbonewqing
 
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 1) 🇮🇩 
 
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png" tvg-id="simpleTVFakeEpgId",CNN Indonesia
+#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSKxWucnm4WQjCdxobMnr7HoZCLAHcVcm0-fXyyibIfg1TZSHRLVqzHwuoEWQy24s-5rAeuo9b_541SME6eCUP7jsuwPLVRy7Sr9wB7i2OIrqJekjXPzuZyq2mgIjdIZ5E504kzlg7I_S80qskFCwKGfTo2oz62XL7Q-3WUU8mZRUxnZzN7Sc84duSYvk/s1600/cnnid-removebg-preview.png" tvg-id="simpleTVFakeEpgId",CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
