@@ -3990,7 +3990,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
-
 ################################################################################################################
 !
 !
@@ -4110,130 +4109,6 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 !
 !
 ################################################################################################################
-<========== Murrottal Alqur'an 30 juz ==========>
-
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqssJl_ttL0FahZh5ilrYhif3t_N7DtslZUceWl1YWXUZvcdyJUtK1ESIDvpZj81PeQlw&usqp=CAU",MURROTAL AL-QURAN
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2b8SiNO
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2b8RJmQ
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFSrtF
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2b8SXi3
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2b8RZm3
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/28MBohs
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFRIZC
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bufF7o
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2byr1bu
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bHfyUH
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bHf80y
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bWnTby
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFTiKQ
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2b8SUTA
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFRQIM
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2b8SegG
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2brHsFz
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2b8SCfc
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFSq95
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2brI1zc
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2b8VcBO
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFRxNP
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2brItxm
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2brHKw5
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2brImlf
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFRHF2
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFRXno
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2brI3ai
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFRyBF
-
-#EXTINF:-1 group-title="MURROTAL AL-QURAN" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://j.mp/2bFREcc
-
 ################################################################################################################
 
 ######################################################################################
