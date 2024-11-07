@@ -71,8 +71,10 @@ https://storage.dewanonton.online/hls/ca4e0be3-e023-49ce-8720-7edea0e115c8.mp4/i
 
 BATAS    BATAS    BATAS    BATAS    BATAS    BATAS    
 BATAS    BATAS    BATAS    BATAS    BATAS    BATAS    
+
 ##################################################
-################################################################################################################
+>>>>>>>>>>>>      RCTI+     <<<<<<<<<<<<<<<<<<<<<<
+##################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrWhxUvENeuDxONKNjXjs91d5iwjWLHaJvSq53TflYyKvOcVKHcN3rgjA5Nw2jzbK7AB4&usqp=CAU",RCTI+
 
 #EXTVLCOPT:http-user-agent=android-R+
@@ -211,7 +213,6 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra1.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
 
 ##################################################
-========================
 ================BeIN Sport 2 =====================
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",BeIN Sport Live
@@ -242,7 +243,8 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
 
 #EXTINF:-1 group-title="BeIN Sport Live" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/400px-BeIN_Sports_logo_%282017%29.png",BEIN 9
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
-================================================
+
+##################################################
 /////////⛔BEIN sports MEna⛔//////
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",BeIN Sports Mena
@@ -275,7 +277,7 @@ https://webhdrunns.mizhls.ru/lb/premium99/index.m3u8|referer=https://lewblivehdp
 https://webhdrunns.mizhls.ru/lb/premium100/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-=========================
+##################################################
 ================BeIN Sport 2 =====================
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",BeIN Sports France
@@ -301,8 +303,8 @@ https://webhdrunns.mizhls.ru/lb/premium117/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="beIN SPORTS 3 France" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="BeIN Sports France",beIN SPORTS 3 France
 https://webhdrunns.mizhls.ru/lb/premium118/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-===============================
-================BeIN Sport 3 =====================
+##################################################
+============= BeIN Sport Turkey Aus ==============
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",BeIN Sports Turkey Aus
 
@@ -327,8 +329,9 @@ https://webhdrunns.mizhls.ru/lb/premium492/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="beIN SPORTS Australia 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="BeIN Sports Turkey Aus",beIN SPORTS Australia 3
 https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-========================
-================BeIN Sport 4 =====================
+##################################################
+============== BeIN Sports TransVision ===========
+
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",BeIN Sports TransVision
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -363,7 +366,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 ###############################################
-DAZN
+>>>>>>>>>>>>>>>>  DAZN   <<<<<<<<<<<<<<<<<<<<<<
+###############################################
 /quuen2024/llgnew/refs/heads/queen/llgtv
 ==================================DAZN KERU================================================
 
@@ -411,8 +415,8 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
  
-============================
-==================================DAZN.COM================================================
+###############################################
+========DAZN.COM===============================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU",DAZN.COM
 
 #EXTINF:-1 group-title="DAZN.COM" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500",🇪🇸 DAZN 1
@@ -443,7 +447,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 ##############################################
-
 <==========DAZN ES==========>
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU",DAZN ES
@@ -512,8 +515,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/o
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 
-##################
-
+####################################
 <==========PeacockTV==========>
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/halloweenmovie/images/6/61/Peacock.png/revision/latest?cb=20210910004159",PEACOCK TV
 
@@ -570,11 +572,8 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 
 
 ##########################################
-====================
-##################################################
-!
-############  BRI LIGA 1############ 
-
+>>>>>>>>>>>>>   BRI LIGA 1   <<<<<<<<<<<<<
+##########################################
 #EXTINF:-1 group-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=650",BRI LIGA 1
 
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg", INDOSIAR no acak 2 TSA
@@ -596,48 +595,47 @@ http://xtv.ooo:8080/321166661/52816191/350972
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts                                                             
 http://xtv.ooo:8080/live/35588981/18988553/350972.ts                                                             
 
- 
 
 ##################################################
-!=====SEPAK BOLA TIMNAS======
+>>>>>>>>>>>>  KUALIFIKASI TIMNAS AFC   <<<<<<<<<<<
 ##################################################
-#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2023/09/30/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg",KUALIFIKASI TIMNAS AFC PIALA DUNIA 26
+#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2023/09/30/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg",KUALIFIKASI TIMNAS AFC
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26",SOCCER CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="KUALIFIKASI TIMNAS AFC",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26",MNC Sports (Sportstars)
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="KUALIFIKASI TIMNAS AFC",MNC Sports (Sportstars)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26",MNC Sports 2 (Sportstars 2)
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="KUALIFIKASI TIMNAS AFC",MNC Sports 2 (Sportstars 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26",SPORTSTARS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="KUALIFIKASI TIMNAS AFC",SPORTSTARS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vid.kokokputik.my.id/iptv/visikey.php?id=1002&token=dedi
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" group-title="KUALIFIKASI TIMNAS AFC" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 tvg-id="Sportstars 2 - [Channel 98].id" group-title="KUALIFIKASI TIMNAS AFC PIALA DUNIA 26" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
+#EXTINF:-1 tvg-id="Sportstars 2 - [Channel 98].id" group-title="KUALIFIKASI TIMNAS AFC" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
-==============================================================
-############  BADMINTON   ############ 
-
+##################################################
+>>>>>>>>>>  BADMINTON / BULU TANGKIS   <<<<<<<<<<<
+##################################################
 #EXTINF:-1 group-logo="https://p7.hiclipart.com/preview/461/812/18/bwf-world-championships-premier-badminton-league-badminton-world-federation-badminton-new-zealand-play-badminton.jpg",BADMINTON / BULU TANGKIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON / BULU TANGKIS",BWF 1
@@ -660,12 +658,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 
+
 ##################################################
-!
-!
-!##################################################
-FORMULA 1
-#################################################
+>>>>>>>>>>>>>  FORMULA 1 🏁 🏁 🏁   <<<<<<<<<<<<<
+##################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5j_M8FP-xnnMFqSm0EVVo_NZ194rA2YwBg&s",FORMULA 1 🏁 🏁 🏁
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg" group-title="FORMULA 1  🏁 🏁 🏁" , DAZN F1
@@ -728,9 +724,10 @@ https://webhdrunns.mizhls.ru/lb/premium466/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="Diema Sport 3 Bulgaria" tvg-logo=" https://i.imgur.com/YNcq1yN.jpeg " group-title="FORMULA 1  🏁 🏁 🏁"  ,Diema Sport 3 Bulgaria
 https://webhdrunns.mizhls.ru/lb/premium467/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-!
-=====================================================================
-<========== 👑EVENT MOTO GP👑 ==========>
+
+##################################################
+>>>>>>>>>>>>>    MOTO GP 🏁 🏁 🏁   <<<<<<<<<<<<<
+##################################################
 #EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/nOHUF46msRxqunShY27JfX50ASU=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1046806/original/066398700_1446840729-032765100_1446526697-motogp-logo.jpg",MOTO GP 🏁 🏁 🏁
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="MOTO GP 🏁 🏁 🏁",SPOTV Vision
@@ -776,11 +773,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 ##################################################
-!
-!
-!
-!
-<========== PROLIGA ==========>
+>>>>>>>>>>>>>        PROLIGA         <<<<<<<<<<<<<
+##################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgND1x-B5MeQAmqWyg-EOFCpagHO60WOiyOg&s",PROLIGA VOLI
 
 #EXTINF:-1 tvg-id="" tvg-name="MOJI TV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/moji.png" group-title="PROLIGA VOLI",Moji
@@ -803,12 +797,10 @@ http://xtv.ooo:8080/live/0966717777/0966717777/350997.ts
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298550
 
 
-##################################################
-!
-!
-################################################################################################################
-################################################################################################################
-================ INDONESIA TV (Server 1) 🇮🇩  ================ eepunx/qing2/master/hbonewqing
+###########################################################
+>>>>>>>>>>>>>>>>  INDONESIA TV (Server 1) 🇮🇩  <<<<<<<<<<<<<
+###########################################################
+eepunx/qing2/master/hbonewqing
 sumber eepunx hbonewqing
 
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 1) 🇮🇩 
@@ -949,8 +941,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI
 
 
-################################################################################################################
-################ "INDONESIA TV (Server 2) 🇮🇩 "  ################### hud4156/mytv/main/indovision.m3u
+###########################################################
+>>>>>>>>>>>>>>>>  INDONESIA TV (Server 2) 🇮🇩  <<<<<<<<<<<<<
+###########################################################
+hud4156/mytv/main/indovision.m3u
 sumber indovision hud4156
 
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 2) 🇮🇩 
@@ -1136,10 +1130,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
-################################################################################################################
-!
-################################################################################################################
-========= INDONESIA DAERAH ============
+###########################################################
+>>>>>>>>>>>>>>>>     INDONESIA DAERAH         <<<<<<<<<<<<<
+###########################################################
 #EXTINF:-1 group-logo="https://masdik.com/wp-content/uploads/2016/11/indonesia-merah-putih-map.png",INDONESIA TV DAERAH
 
 #EXTINF:-1 group-title="INDONESIA TV DAERAH" tvg-id="Bali TV" tvg-logo="https://iptv.urfan.web.id/logo/balitv.png",Bali TV
@@ -1316,13 +1309,9 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/video/info.m3u8
 
-################################################################################################################
-!
-!
-!
-!
-################################################################################################################
-<=========================================== TVRI GROUP =========================================>
+###############################################
+>>>>>>>>>>>>>>>>   TVRI GROUP     <<<<<<<<<<<<<
+################################################
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&s",TVRI GROUP
 
@@ -1425,14 +1414,10 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="TVRI GROUP",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
 
-################################################################################################################
-!
-!
-!
-!
-################################################################################################################
-<==========KIDS==========>
 
+###########################################
+>>>>>>>>>>>  KIDS / ANAK-ANAK  <<<<<<<<<<<<
+###########################################
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/EniqUO.png",KIDS / ANAK-ANAK
 
 #EXTINF:-1 group-title="KIDS / ANAK-ANAK" tvg-id="aniplus.id" tvg-logo="https://iptv.urfan.web.id/logo/aniplus.png",ANIPLUS
@@ -1615,12 +1600,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd|refe
 #EXTINF:-1  group-title="KIDS / ANAK-ANAK" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
-################################################################################################################
 
-################################################################################################################
-!
-################################################################################################################
-<==========NEWS==========>
+###################################################
+>>>>>>>>>>>>>>>>    NEWS / BERITA  <<<<<<<<<<<<<<<<
+###################################################
 #EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Enis4n.png",NEWS / BERITA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1753,18 +1736,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mp
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w733133162_b384000_sleng.m3u8
 
 
-################################################################################################################
-!
-################################################################################################################
-<==========KNOWLEDGE==========>
-
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4JVKrZlAVv5V10whrCF_FS6n-zYkRg0xcW7kQMZ2oK2QjRwN1b_Znh8A4W-FAWeGteM&usqp=CAU",ENGETAHUAN & DOCUMENTARY
+########################################################################
+>>>>>>>>>>>>>>>>>>>>>>>>   PENGETAHUAN & DOKUMENTER   <<<<<<<<<<<<<<<<<<
+########################################################################
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4JVKrZlAVv5V10whrCF_FS6n-zYkRg0xcW7kQMZ2oK2QjRwN1b_Znh8A4W-FAWeGteM&usqp=CAU",PENGETAHUAN & DOKUMENTER
 
 #EXTINF:-1 group-title="PENGETAHUAN & DOKUMENTER"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY[INDEHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS0VvSf/animal-planet-logo-tv.jpg" group-title="PENGETAHUAN & DOKUMENTER", ANIMAL PLANET
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
@@ -1862,12 +1842,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkthw.transvision.co.id/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
-################################################################################################################
-!
-!
-################################################################################################################
-<==========SSC 🇸🇦==========>
 
+################################################
+>>>>>>>>>>>>>>>>>>>>>  SSC 🇸🇦 <<<<<<<<<<<<<<<<<<
+################################################
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHrn4lthJnvmqQM8dLykBjWdyZRELvvZFubvMNW4qXfWa5hVRXcRfX9ihusGKxevzxDGlxUWQBOFIT_oU0Lf8_1sa97vNgLtcUT16VLb2ZLOm7e_VBmNW9tgrv1c-OMj8fl_ZTyGstUjS_Wg7YQfqxrTuSnHkb-LHrS7olBBucHANT7upP0CgXeUUhl5Y/s320/saudi_sports_company____cover.jpg",SSC 🇸🇦
 
 #EXTINF:-1 group-title="SSC 🇸🇦" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/G37Y21X/ssc1.png",Sedang Perbaikan Server SSC 1 🇸🇦
@@ -1924,8 +1902,9 @@ https://ssc-extra-2-ec.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/i
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-################################################################################################################
-<========== TV SPORTS INDONESIA ==========>
+######################################################
+>>>>>>>>>>>>>>>  TV SPORTS INDONESIA  <<<<<<<<<<<<<<<<
+######################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU84iBe-s0TNs2yt63FhldxXtacTB_oVHAth6jEhsAGUUHPb_gPqsDckJfXLtT-QKggO8&usqp=CAU",TV SPORTS INDONESIA
 
 #EXTINF:-1 tvg-id="" group-title="TV SPORTS INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
@@ -1988,15 +1967,10 @@ http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 Argentina" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="TV SPORTS INDONESIA",Fox Sports 2 Argentina
 https://webhdrunns.mizhls.ru/lb/premium788/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-####
-################################################################################################################
-!
-!
-!
-!
-################################################################################################################
-<========== MUSIK TV ==========>
 
+####################################################
+>>>>>>>>>>>>>>>>>>   TV MUSIK   <<<<<<<<<<<<<<<<<<<<
+####################################################
 #EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/182/465/png-clipart-mtv-logo-tv-television-music-video-others-miscellaneous-television.png",TV MUSIK
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2243,14 +2217,9 @@ https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 
-################################################################################################################
-!
-!
-!
-!
-################################################################################################################
-<========== AGAMA / RELIGI ==========>
-
+############################################################
+>>>>>>>>>>>>>>>    AGAMA / RELIGI    <<<<<<<<<<<<<<<<<<<<<<<
+############################################################
 #EXTINF:-1 group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png",AGAMA / RELIGI
 
 #EXTINF:-1 group-title="AGAMA / RELIGI"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM[INDEHOME]
@@ -2345,8 +2314,9 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 group-title="AGAMA / RELIGI" tvg-logo="https://iptv.urfan.web.id/logo/wesaltv.png",Wesal TV
 
 
-######################################################################################
-<==========MOVIES==========>
+##################################################
+>>>>>>>>>>>>>>>>>>> FILM MOVIES TV  <<<<<<<<<<<<<<
+##################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFl1xAssNN_3jBBNt28emuYEYVoGmxT4jrdy448hWh_sPBjwK_MLghkf61Dvg6ynGlZxk&usqp=CAU",FILM MOVIES TV
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -2514,14 +2484,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 
-
-################################################################################################################
-!
-!
-!
-!
-################################################################################################################
-<==========HBO GROUP==========>
+#######################################################
+<<<<<<<<<<<<<<<<<<<<  HBO GROUP  >>>>>>>>>>>>>>>>>>>>>> 
+#######################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYd7B0ThmdKZ7lRfkmKrUq4b3XlfFdbpvqfQGSAmyPfm8WupTzbYUo4IWb2jlNZH9ji0&usqp=CAU",HBO GROUP
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -2575,11 +2540,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
-===========================================================
-===========================================================
-################################################################################################################
-################################################################################################################
-################ "NFLX IPTV24 VOD LK21 TERBARU"  ################### quuen2024/llgnew/raw/refs/heads/queen/live.m3u8
+##############################################################
+>>>>>>>>>>>>>>>   NFLX IPTV24 VOD LK21 TERBARU  <<<<<<<<<<<<<<
+##############################################################
+quuen2024/llgnew/raw/refs/heads/queen/live.m3u8
 sumber live queen
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ZZsw1veCmI5Vakc886guR7RT49wf5hPFljr1Q0_k4yCzlzQqVYDrAEVZV_lG0bOZ8CsubnsKfbeZor721nVLVLpbJ-ynCoAwCSCHuuBDpdUvn2zwvs3WoCrX1frZa2MErADT7vGJ_bn84OLBwZCLfte4rcFpdJBHNqkVE1Cj-a5wxKTG-SztPcNfrsI/s816/lOGO%20nflx%20iptv%2024_waifu2x_photo_noise2_scale.png",NFLX IPTV24 VOD LK21 TERBARU
