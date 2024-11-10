@@ -78,6 +78,12 @@ BATAS    BATAS    BATAS    BATAS    BATAS    BATAS
 ############################################################
 >>>>>>>>>>>>>>>    AGAMA / RELIGI    <<<<<<<<<<<<<<<<<<<<<<<
 ############################################################
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="BRI LIGA 1" tvg-id="001" tvg-name="016-LABURATV", SPORTSTAR 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
 iptv.urfan.web.id
 #EXTINF:-1 group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png",AGAMA / RELIGI
 
