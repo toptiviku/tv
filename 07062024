@@ -75,7 +75,7 @@ BATAS    BATAS    BATAS    BATAS    BATAS    BATAS
 >>>>>>>>>>>>>>>    AGAMA / RELIGI    <<<<<<<<<<<<<<<<<<<<<<<
 ############################################################
 iptv.urfan.web.id
-#EXTINF:-1 group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png",AGAMA / RELIGI
+#EXTINF:-1 group-logo="https://cdn.pixabay.com/photo/2021/11/02/16/11/islamic-6763588_1280.png",AGAMA / RELIGI
 
 #EXTINF:-1 group-title="AGAMA / RELIGI"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM[INDEHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -415,7 +415,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 ##################################################
 >>>>>>>>>>  BADMINTON / BULU TANGKIS   <<<<<<<<<<<
 ##################################################
-#EXTINF:-1 group-logo="https://p7.hiclipart.com/preview/461/812/18/bwf-world-championships-premier-badminton-league-badminton-world-federation-badminton-new-zealand-play-badminton.jpg",BADMINTON / BULU TANGKIS
+#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/shuttlecocks-splash-badminton-vector-logo-260nw-2389765593.jpg",BADMINTON / BULU TANGKIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON / BULU TANGKIS",BWF 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -900,7 +900,7 @@ https://webhdrunns.mizhls.ru/lb/premium467/index.m3u8|referer=https://lewblivehd
 eepunx/qing2/master/hbonewqing
 sumber eepunx hbonewqing
 
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 1) 🇮🇩 
+#EXTINF:-1 group-logo="https://i2.pngimg.me/thumb/f/720/m2i8N4i8A0K9A0G6.jpg",INDONESIA TV (Server 1) 🇮🇩 
 
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSKxWucnm4WQjCdxobMnr7HoZCLAHcVcm0-fXyyibIfg1TZSHRLVqzHwuoEWQy24s-5rAeuo9b_541SME6eCUP7jsuwPLVRy7Sr9wB7i2OIrqJekjXPzuZyq2mgIjdIZ5E504kzlg7I_S80qskFCwKGfTo2oz62XL7Q-3WUU8mZRUxnZzN7Sc84duSYvk/s1600/cnnid-removebg-preview.png" tvg-id="simpleTVFakeEpgId",CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1162,7 +1162,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 hud4156/mytv/main/indovision.m3u
 sumber indovision hud4156
 
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 2) 🇮🇩 
+#EXTINF:-1 group-logo="https://i2.pngimg.me/thumb/f/720/m2i8N4i8A0K9A0G6.jpg",INDONESIA TV (Server 2) 🇮🇩 
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD
 https://1s1.rctiplus.id/gtv2023.m3u8
@@ -1909,68 +1909,74 @@ https://cdnjkthw.transvision.co.id/live/master/4/4028c6856fd0d66d0170341b51bd090
 
 
 ######################################################
->>>>>>>>>>>>>>>  OLAH RAGA INDONESIA  <<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>  OLAHRAGA INDONESIA  <<<<<<<<<<<<<<<<
 ######################################################
-#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/170/650/png-clipart-olympic-logo-olympic-rings-sports-olympics.png",OLAH RAGA INDONESIA
+#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/170/650/png-clipart-olympic-logo-olympic-rings-sports-olympics.png",OLAHRAGA INDONESIA
 
-#EXTINF:-1 tvg-id="" group-title="OLAH RAGA INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="OLAH RAGA INDONESIA",MNC Sports (Sportstars)
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="OLAHRAGA INDONESIA",MNC Sports (Sportstars)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="OLAH RAGA INDONESIA",MNC Sports 2 (Sportstars 2)
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="OLAHRAGA INDONESIA",MNC Sports 2 (Sportstars 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="OLAH RAGA INDONESIA",MNC Sports 3 (Sportstars 3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="OLAHRAGA INDONESIA",MNC Sports 3 (Sportstars 3)
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=1002
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="OLAHRAGA INDONESIA" tvg-id="001" tvg-name="016-LABURATV", SPORTSTAR 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-#EXTINF:-1 group-title="OLAH RAGA INDONESIA" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
+#EXTINF:-1 group-title="OLAHRAGA INDONESIA" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="OLAH RAGA INDONESIA",SOCCER CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="OLAHRAGA INDONESIA",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="OLAH RAGA INDONESIA" , Unifi (UFC live) 
+#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="OLAHRAGA INDONESIA" , Unifi (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="OLAH RAGA INDONESIA", Wrestling
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="OLAHRAGA INDONESIA", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="OLAH RAGA INDONESIA",SPOTV Vision
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="OLAHRAGA INDONESIA",SPOTV Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20HD-FirstMedia-Chl-330.jpg&w=1920&q=100" group-title="OLAH RAGA INDONESIA",SPOTV 2 Vision
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20HD-FirstMedia-Chl-330.jpg&w=1920&q=100" group-title="OLAHRAGA INDONESIA",SPOTV 2 Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAH RAGA INDONESIA",Fox Sports 1
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA INDONESIA",Fox Sports 1
 http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAH RAGA INDONESIA",Fox Sports 2
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA INDONESIA",Fox Sports 2
 http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
 
-#EXTINF:-1 tvg-name="Fox Sports 2 Argentina" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAH RAGA INDONESIA",Fox Sports 2 Argentina
+#EXTINF:-1 tvg-name="Fox Sports 2 Argentina" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAHRAGA INDONESIA",Fox Sports 2 Argentina
 https://webhdrunns.mizhls.ru/lb/premium788/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
@@ -3190,7 +3196,7 @@ https://raw.githubusercontent.com/hud4156/mytv/refs/heads/main/playlist.m3u
 TRANSVISION
 =========================================================================================
 
-#EXTINF:-1 group-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg",VENDOR TRANSVIXION
+#EXTINF:-1 group-logo="https://awsimages.detik.net.id/community/media/visual/2021/02/27/transvision-dok-istimewa-1.jpeg?w=600&q=90",VENDOR TRANSVIXION
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png" group-title="VENDOR TRANSVIXION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
