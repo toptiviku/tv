@@ -75,7 +75,7 @@ BATAS    BATAS    BATAS    BATAS    BATAS    BATAS
 >>>>>>>>>>>>>>>    AGAMA / RELIGI    <<<<<<<<<<<<<<<<<<<<<<<
 ############################################################
 iptv.urfan.web.id
-#EXTINF:-1 group-logo="https://cdn.pixabay.com/photo/2021/11/02/16/11/islamic-6763588_1280.png",AGAMA / RELIGI
+#EXTINF:-1 group-logo="https://images.all-free-download.com/images/thumbjpg/islam_symbol_sign_logo_flat_classical_architectural_shapes_6920396.jpg",AGAMA / RELIGI
 
 #EXTINF:-1 group-title="AGAMA / RELIGI"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM[INDEHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -272,7 +272,7 @@ https://s.urfan.id/fatwatv
 ###########################################
 >>>>>>>>>>>  ANAK-ANAK / KIDS  <<<<<<<<<<<<
 ###########################################
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/EniqUO.png",ANAK-ANAK / KIDS
+#EXTINF:-1 group-logo="https://thumbs.dreamstime.com/b/kids-logo-vector-isolated-white-background-kids-logo-happy-kids-vector-illustration-122661003.jpg",ANAK-ANAK / KIDS
 
 #EXTINF:-1 group-title="ANAK-ANAK / KIDS" tvg-id="aniplus.id" tvg-logo="https://iptv.urfan.web.id/logo/aniplus.png",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -442,7 +442,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.m
 ###################################################
 >>>>>>>>>>>>>>>>    BERITA / NEWS  <<<<<<<<<<<<<<<<
 ###################################################
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Enis4n.png",BERITA / NEWS
+#EXTINF:-1 group-logo="https://img.freepik.com/free-vector/gradient-breaking-news-logo-design_23-2151173052.jpg",BERITA / NEWS
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
@@ -900,7 +900,7 @@ https://webhdrunns.mizhls.ru/lb/premium467/index.m3u8|referer=https://lewblivehd
 eepunx/qing2/master/hbonewqing
 sumber eepunx hbonewqing
 
-#EXTINF:-1 group-logo="https://i2.pngimg.me/thumb/f/720/m2i8N4i8A0K9A0G6.jpg",INDONESIA TV (Server 1) 🇮🇩 
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/a6/34/3d/a6343d63794cec26689560489430dcfb.jpg",INDONESIA TV (Server 1) 🇮🇩 
 
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSKxWucnm4WQjCdxobMnr7HoZCLAHcVcm0-fXyyibIfg1TZSHRLVqzHwuoEWQy24s-5rAeuo9b_541SME6eCUP7jsuwPLVRy7Sr9wB7i2OIrqJekjXPzuZyq2mgIjdIZ5E504kzlg7I_S80qskFCwKGfTo2oz62XL7Q-3WUU8mZRUxnZzN7Sc84duSYvk/s1600/cnnid-removebg-preview.png" tvg-id="simpleTVFakeEpgId",CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1162,7 +1162,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 hud4156/mytv/main/indovision.m3u
 sumber indovision hud4156
 
-#EXTINF:-1 group-logo="https://i2.pngimg.me/thumb/f/720/m2i8N4i8A0K9A0G6.jpg",INDONESIA TV (Server 2) 🇮🇩 
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/a6/34/3d/a6343d63794cec26689560489430dcfb.jpg",INDONESIA TV (Server 2) 🇮🇩 
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD
 https://1s1.rctiplus.id/gtv2023.m3u8
@@ -1336,7 +1336,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 ###########################################################
 >>>>>>>>>>>>>>>>     INDONESIA DAERAH         <<<<<<<<<<<<<
 ###########################################################
-#EXTINF:-1 group-logo="https://masdik.com/wp-content/uploads/2016/11/indonesia-merah-putih-map.png",INDONESIA TV DAERAH
+#EXTINF:-1 group-logo="https://areaindonesia.com/wp-content/uploads/2022/01/Indonesia.png",INDONESIA TV DAERAH
 
 #EXTINF:-1 group-title="INDONESIA TV DAERAH" tvg-id="SIAKTV" tvg-logo="https://iptv.urfan.id/logo/siaktv.png",SIAKTV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1729,7 +1729,7 @@ https://wow.nasionaltv.com/ntvsgp/live/tracks-v1a1/mono.m3u8
 ##################################################
 >>>>>>>>>>>>  KUALIFIKASI TIMNAS AFC   <<<<<<<<<<<
 ##################################################
-#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2023/09/30/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg",KUALIFIKASI TIMNAS AFC
+#EXTINF:-1 group-logo="https://10play.com.au/ip/s3/2024/09/04/64970236a811682fea5f335d3c31777d-1337468.jpg?image-profile=image_max&io=landscape",KUALIFIKASI TIMNAS AFC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="KUALIFIKASI TIMNAS AFC",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2370,7 +2370,7 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 #################################################
 /////////⛔VENDOR BeIN Sports Mena⛔//////
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",VENDOR BeIN Sports Mena
+#EXTINF:-1 group-logo="https://beinsports.group/wp-content/uploads/2021/12/bein-logo.png",VENDOR BeIN Sports Mena
 
 #EXTINF:-1 tvg-name="VENDOR BeIN Sports Mena English 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="VENDOR BeIN Sports Mena",VENDOR BeIN Sports Mena English 1
 https://webhdrunns.mizhls.ru/lb/premium61/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -2402,7 +2402,7 @@ https://webhdrunns.mizhls.ru/lb/premium100/index.m3u8|referer=https://lewblivehd
 ##################################################
 ============== VENDOR BeIN Sports TransVision ===========
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",VENDOR BeIN Sports TransVision
+#EXTINF:-1 group-logo="https://seeklogo.com/images/B/bein-sports-logo-CA2451A672-seeklogo.com.png",VENDOR BeIN Sports TransVision
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2646,7 +2646,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456047
 https://raw.githubusercontent.com/quuen2024/llgnew/refs/heads/queen/llgtv
 ==================================VENDOR DAZN.COM================================================
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU",VENDOR DAZN.COM
+#EXTINF:-1 group-logo="https://images.bfmtv.com/Nglnm7YPqCoWZjglHz3-gT7taYE=/0x0:1600x900/images/DAZN-propose-une-remise-folle-sur-son-abonnement-pendant-quelques-jours-ne-ratez-pas-l-occasion-1935810.jpg",VENDOR DAZN.COM
 
 #EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2690,10 +2690,76 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
+##############################################
+<==========VENDOR DAZN ES==========>
+#EXTINF:-1 group-logo="https://s1.ppllstatics.com/lasprovincias/www/multimedia/202301/17/media/cortadas/dazn-fotolia-khxB-U1902996141640uH-1248x770@Las%20Provincias.jpg",VENDOR DAZN ES
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+#EXTINF:-1 tvg-id="DAZN 1 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 1 ES
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+#EXTINF:-1 tvg-id="DAZN 2 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 2 ES
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+#EXTINF:-1 tvg-id="DAZN 3 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 3 ES
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+#EXTINF:-1 tvg-id="DAZN 4 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 4 ES
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN LaLiga
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+#EXTINF:-1 tvg-id="LaLiga HyperMotion 1" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 1
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+#EXTINF:-1 tvg-id="LaLiga HyperMotion 2" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 2
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+#EXTINF:-1 tvg-id="LaLiga HyperMotion 3" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 3
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN F1
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 
 ####################################################
->>>>>>>>>>>       VENDOR HOME KREDIT TV       <<<<<<<<<<<<<
+>>>>>>>>>>>   VENDOR HOME KREDIT TV   <<<<<<<<<<<<<
 ####################################################
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFbK1KVaqjMmmOluxKBVZUqmgyfHbFJgOuVN4_Sh6z1EvQbtOffVIahT455eIH9oOytwno3ejxzHAl8B4q07NOobky6cPEzo3mrxww9zDArYPqnE5Y_0dZPyl1QkhZ8Gp4UBmWioJ5FwpW/s1600/download%255B1%255D.png",VENDOR HOME KREDIT TV
 
@@ -3059,76 +3125,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
-##############################################
-<==========VENDOR DAZN ES==========>
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU",VENDOR DAZN ES
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-#EXTINF:-1 tvg-id="DAZN 1 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 1 ES
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-#EXTINF:-1 tvg-id="DAZN 2 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 2 ES
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-#EXTINF:-1 tvg-id="DAZN 3 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 3 ES
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-#EXTINF:-1 tvg-id="DAZN 4 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 4 ES
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN LaLiga
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-#EXTINF:-1 tvg-id="LaLiga HyperMotion 1" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 1
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-#EXTINF:-1 tvg-id="LaLiga HyperMotion 2" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 2
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-#EXTINF:-1 tvg-id="LaLiga HyperMotion 3" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 3
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN F1
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-
-
-
-
 ################################################
 >>>>>>>>>>>>>>>>>>>>>  SSC 🇸🇦 <<<<<<<<<<<<<<<<<<
 ################################################
@@ -3189,7 +3185,7 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 ################################################
->>>>>>>>>>>>>>>>>>>>> VENDOR TRANSVIXION <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>> VENDOR TRANSVIXION <<<<<<<<<<<<<<<
 ################################################
 https://raw.githubusercontent.com/hud4156/mytv/refs/heads/main/playlist.m3u
 ========================================================================================
