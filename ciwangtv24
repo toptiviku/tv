@@ -75,7 +75,7 @@ BATAS    BATAS    BATAS    BATAS    BATAS    BATAS
 >>>>>>>>>>>>>>>    AGAMA / RELIGI    <<<<<<<<<<<<<<<<<<<<<<<
 ############################################################
 iptv.urfan.web.id
-#EXTINF:-1 group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png",AGAMA / RELIGI
+#EXTINF:-1 group-logo="https://images.all-free-download.com/images/thumbjpg/islam_symbol_sign_logo_flat_classical_architectural_shapes_6920396.jpg",AGAMA / RELIGI
 
 #EXTINF:-1 group-title="AGAMA / RELIGI"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM[INDEHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -272,7 +272,7 @@ https://s.urfan.id/fatwatv
 ###########################################
 >>>>>>>>>>>  ANAK-ANAK / KIDS  <<<<<<<<<<<<
 ###########################################
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/EniqUO.png",ANAK-ANAK / KIDS
+#EXTINF:-1 group-logo="https://thumbs.dreamstime.com/b/kids-logo-vector-isolated-white-background-kids-logo-happy-kids-vector-illustration-122661003.jpg",ANAK-ANAK / KIDS
 
 #EXTINF:-1 group-title="ANAK-ANAK / KIDS" tvg-id="aniplus.id" tvg-logo="https://iptv.urfan.web.id/logo/aniplus.png",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -382,7 +382,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 group-title="ANAK-ANAK / KIDS" tvg-id="moonbugkids.us" tvg-logo="https://iptv.urfan.id/logo/moonbug.png",Moonbug Kids
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0f;) ExoPlayerLib/2.19.1
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ANAK-ANAK / KIDS" tvg-id="pbskids.us" tvg-logo="https://iptv.urfan.id/logo/pbskids.png",PBS Kids
@@ -415,7 +415,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 ##################################################
 >>>>>>>>>>  BADMINTON / BULU TANGKIS   <<<<<<<<<<<
 ##################################################
-#EXTINF:-1 group-logo="https://p7.hiclipart.com/preview/461/812/18/bwf-world-championships-premier-badminton-league-badminton-world-federation-badminton-new-zealand-play-badminton.jpg",BADMINTON / BULU TANGKIS
+#EXTINF:-1 group-logo="https://static3.depositphotos.com/1002927/153/i/450/depositphotos_1534172-stock-photo-badminton-bird.jpg",BADMINTON / BULU TANGKIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON / BULU TANGKIS",BWF 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -442,7 +442,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.m
 ###################################################
 >>>>>>>>>>>>>>>>    BERITA / NEWS  <<<<<<<<<<<<<<<<
 ###################################################
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/04/18/Enis4n.png",BERITA / NEWS
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCXlK5HYdmvEd8Tev0x1gscwJKfI6S2_OAAAH2liANwWt5Nte5erHKsnhR8qDpPS6JlDb0yhpFxsehwe_doclRH5DLXzxqaxVwOhPnQTVjvjzpeJlzIqVvh-lm6eiPa4wUEC56IwXpbAFQgj3AuQx2bfihrtpngRObSQB2sFoCS0qIv1yPb0Jpbfd5me8/s320/LOGO%20NEWS.png",BERITA / NEWS
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
@@ -582,12 +582,16 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w733133162_b3840
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg", INDOSIAR no acak 2 TSA
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
                                 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="BRI LIGA 1" tvg-id="001" tvg-name="016-LABURATV", SPORTSTAR 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #################################################
 >>>>>>>>>>>>>>>>> FIGHT SPORTS <<<<<<<<<<<<<<<<<<<
 #################################################
 https://raw.githubusercontent.com/hfajs66258/laiya/refs/heads/main/jasarootsolo
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgT-XPYY9-R2s5fKKoPwQvdUperm3T1G1-rg&s",FIGHT SPORT
+#EXTINF:-1 group-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg",FIGHT SPORT
 
 #####Fight Sports#####
 
@@ -896,7 +900,7 @@ https://webhdrunns.mizhls.ru/lb/premium467/index.m3u8|referer=https://lewblivehd
 eepunx/qing2/master/hbonewqing
 sumber eepunx hbonewqing
 
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 1) 🇮🇩 
+#EXTINF:-1 group-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1610945809/mpbmrw4x8hhwrg2kcjut.jpg",INDONESIA TV (Server 1) 🇮🇩 
 
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSKxWucnm4WQjCdxobMnr7HoZCLAHcVcm0-fXyyibIfg1TZSHRLVqzHwuoEWQy24s-5rAeuo9b_541SME6eCUP7jsuwPLVRy7Sr9wB7i2OIrqJekjXPzuZyq2mgIjdIZ5E504kzlg7I_S80qskFCwKGfTo2oz62XL7Q-3WUU8mZRUxnZzN7Sc84duSYvk/s1600/cnnid-removebg-preview.png" tvg-id="simpleTVFakeEpgId",CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1158,7 +1162,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 hud4156/mytv/main/indovision.m3u
 sumber indovision hud4156
 
-#EXTINF:-1 group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",INDONESIA TV (Server 2) 🇮🇩 
+#EXTINF:-1 group-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1610945809/mpbmrw4x8hhwrg2kcjut.jpg",INDONESIA TV (Server 2) 🇮🇩 
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD
 https://1s1.rctiplus.id/gtv2023.m3u8
@@ -1332,7 +1336,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 ###########################################################
 >>>>>>>>>>>>>>>>     INDONESIA DAERAH         <<<<<<<<<<<<<
 ###########################################################
-#EXTINF:-1 group-logo="https://masdik.com/wp-content/uploads/2016/11/indonesia-merah-putih-map.png",INDONESIA TV DAERAH
+#EXTINF:-1 group-logo="https://areaindonesia.com/wp-content/uploads/2022/01/Indonesia.png",INDONESIA TV DAERAH
 
 #EXTINF:-1 group-title="INDONESIA TV DAERAH" tvg-id="SIAKTV" tvg-logo="https://iptv.urfan.id/logo/siaktv.png",SIAKTV
 #EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1725,7 +1729,7 @@ https://wow.nasionaltv.com/ntvsgp/live/tracks-v1a1/mono.m3u8
 ##################################################
 >>>>>>>>>>>>  KUALIFIKASI TIMNAS AFC   <<<<<<<<<<<
 ##################################################
-#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2023/09/30/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg",KUALIFIKASI TIMNAS AFC
+#EXTINF:-1 group-logo="https://10play.com.au/ip/s3/2024/09/04/64970236a811682fea5f335d3c31777d-1337468.jpg?image-profile=image_max&io=landscape",KUALIFIKASI TIMNAS AFC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="KUALIFIKASI TIMNAS AFC",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1905,68 +1909,74 @@ https://cdnjkthw.transvision.co.id/live/master/4/4028c6856fd0d66d0170341b51bd090
 
 
 ######################################################
->>>>>>>>>>>>>>>  OLAH RAGA INDONESIA  <<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>  OLAHRAGA INDONESIA  <<<<<<<<<<<<<<<<
 ######################################################
-#EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/170/650/png-clipart-olympic-logo-olympic-rings-sports-olympics.png",OLAH RAGA INDONESIA
+#EXTINF:-1 group-logo="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/bolasport/medium_07e7e828f9ae7bae06502973e2885265.jpg",OLAHRAGA INDONESIA
 
-#EXTINF:-1 tvg-id="" group-title="OLAH RAGA INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="OLAH RAGA INDONESIA",MNC Sports (Sportstars)
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="OLAHRAGA INDONESIA",MNC Sports (Sportstars)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="OLAH RAGA INDONESIA",MNC Sports 2 (Sportstars 2)
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="OLAHRAGA INDONESIA",MNC Sports 2 (Sportstars 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="OLAH RAGA INDONESIA",MNC Sports 3 (Sportstars 3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/400px-Sportstars_3.png" group-title="OLAHRAGA INDONESIA",MNC Sports 3 (Sportstars 3)
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=1002
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="OLAHRAGA INDONESIA" tvg-id="001" tvg-name="016-LABURATV", SPORTSTAR 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-#EXTINF:-1 group-title="OLAH RAGA INDONESIA" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
+#EXTINF:-1 group-title="OLAHRAGA INDONESIA" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="OLAH RAGA INDONESIA",SOCCER CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="OLAHRAGA INDONESIA",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="OLAH RAGA INDONESIA" , Unifi (UFC live) 
+#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="OLAHRAGA INDONESIA" , Unifi (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="OLAH RAGA INDONESIA", Wrestling
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="OLAHRAGA INDONESIA", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="OLAH RAGA INDONESIA",SPOTV Vision
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="OLAHRAGA INDONESIA",SPOTV Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20HD-FirstMedia-Chl-330.jpg&w=1920&q=100" group-title="OLAH RAGA INDONESIA",SPOTV 2 Vision
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20HD-FirstMedia-Chl-330.jpg&w=1920&q=100" group-title="OLAHRAGA INDONESIA",SPOTV 2 Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAH RAGA INDONESIA",Fox Sports 1
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA INDONESIA",Fox Sports 1
 http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAH RAGA INDONESIA",Fox Sports 2
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA INDONESIA",Fox Sports 2
 http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
 
-#EXTINF:-1 tvg-name="Fox Sports 2 Argentina" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAH RAGA INDONESIA",Fox Sports 2 Argentina
+#EXTINF:-1 tvg-name="Fox Sports 2 Argentina" tvg-logo="https://i.imgur.com/JDbR6Vc.jpeg" group-title="OLAHRAGA INDONESIA",Fox Sports 2 Argentina
 https://webhdrunns.mizhls.ru/lb/premium788/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
@@ -2360,7 +2370,7 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 #################################################
 /////////⛔VENDOR BeIN Sports Mena⛔//////
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",VENDOR BeIN Sports Mena
+#EXTINF:-1 group-logo="https://sportsmintmedia.com/wp-content/uploads/2021/08/BeIN-Sports-acquires-Premier-League-rights-in-Turkey-1.jpg",VENDOR BeIN Sports Mena
 
 #EXTINF:-1 tvg-name="VENDOR BeIN Sports Mena English 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="VENDOR BeIN Sports Mena",VENDOR BeIN Sports Mena English 1
 https://webhdrunns.mizhls.ru/lb/premium61/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -2392,7 +2402,7 @@ https://webhdrunns.mizhls.ru/lb/premium100/index.m3u8|referer=https://lewblivehd
 ##################################################
 ============== VENDOR BeIN Sports TransVision ===========
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJmET6suTaOvQoMlkyWDIaG_wDKmB1-gje12YjcM-EFBVwqrfonMr-4Fht52damY3GVo&usqp=CAU",VENDOR BeIN Sports TransVision
+#EXTINF:-1 group-logo="https://news.elsob7.com/wp-content/uploads/2024/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA.jpg",VENDOR BeIN Sports TransVision
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2636,7 +2646,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456047
 https://raw.githubusercontent.com/quuen2024/llgnew/refs/heads/queen/llgtv
 ==================================VENDOR DAZN.COM================================================
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU",VENDOR DAZN.COM
+#EXTINF:-1 group-logo="https://images.bfmtv.com/Nglnm7YPqCoWZjglHz3-gT7taYE=/0x0:1600x900/images/DAZN-propose-une-remise-folle-sur-son-abonnement-pendant-quelques-jours-ne-ratez-pas-l-occasion-1935810.jpg",VENDOR DAZN.COM
 
 #EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2680,10 +2690,76 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
+##############################################
+<==========VENDOR DAZN ES==========>
+#EXTINF:-1 group-logo="https://s1.ppllstatics.com/lasprovincias/www/multimedia/202301/17/media/cortadas/dazn-fotolia-khxB-U1902996141640uH-1248x770@Las%20Provincias.jpg",VENDOR DAZN ES
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+#EXTINF:-1 tvg-id="DAZN 1 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 1 ES
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+#EXTINF:-1 tvg-id="DAZN 2 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 2 ES
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+#EXTINF:-1 tvg-id="DAZN 3 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 3 ES
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+#EXTINF:-1 tvg-id="DAZN 4 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 4 ES
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN LaLiga
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+#EXTINF:-1 tvg-id="LaLiga HyperMotion 1" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 1
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+#EXTINF:-1 tvg-id="LaLiga HyperMotion 2" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 2
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+#EXTINF:-1 tvg-id="LaLiga HyperMotion 3" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 3
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN F1
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 
 ####################################################
->>>>>>>>>>>       VENDOR HOME KREDIT TV       <<<<<<<<<<<<<
+>>>>>>>>>>>   VENDOR HOME KREDIT TV   <<<<<<<<<<<<<
 ####################################################
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFbK1KVaqjMmmOluxKBVZUqmgyfHbFJgOuVN4_Sh6z1EvQbtOffVIahT455eIH9oOytwno3ejxzHAl8B4q07NOobky6cPEzo3mrxww9zDArYPqnE5Y_0dZPyl1QkhZ8Gp4UBmWioJ5FwpW/s1600/download%255B1%255D.png",VENDOR HOME KREDIT TV
 
@@ -2956,7 +3032,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 ##################################################
 https://raw.githubusercontent.com/TVcrack/tontonan/refs/heads/main/S%20(2).m3u
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrWhxUvENeuDxONKNjXjs91d5iwjWLHaJvSq53TflYyKvOcVKHcN3rgjA5Nw2jzbK7AB4&usqp=CAU",VENDOR RCTI+
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdi1k9zHGqEOd_7KDrLZrjxSzZlwI-L664lrxlJEtBDb_OeX5WsrEmPVUw30w_I2Ym8PbH8U-VNnMtazhB4SQvA1NrsYGKFQC7LSrVdL837SuCqBvXWrfhL2SjQvK5Y_76XpJGkJiviR6ryWXJBa56scy3_XcCkH8AoPGIFiQu2XOY7NAQ6t138ali0Wg/s320/sriver%20Untitled.png",VENDOR RCTI+
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -2987,6 +3063,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTINF:-1 tvg-id="MNCSports2.id" group-title="VENDOR RCTI+" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="VENDOR RCTI+" tvg-id="001" tvg-name="016-LABURATV", SPORTSTAR 3 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
@@ -3044,80 +3125,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
-##############################################
-<==========VENDOR DAZN ES==========>
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU",VENDOR DAZN ES
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-#EXTINF:-1 tvg-id="DAZN 1 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 1 ES
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-#EXTINF:-1 tvg-id="DAZN 2 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 2 ES
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-#EXTINF:-1 tvg-id="DAZN 3 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 3 ES
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-#EXTINF:-1 tvg-id="DAZN 4 ES" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN 4 ES
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN LaLiga
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-#EXTINF:-1 tvg-id="LaLiga HyperMotion 1" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 1
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-#EXTINF:-1 tvg-id="LaLiga HyperMotion 2" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 2
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-#EXTINF:-1 tvg-id="LaLiga HyperMotion 3" tvg-logo=" " group-title="VENDOR DAZN ES",LaLiga HyperMotion 3
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" " group-title="VENDOR DAZN ES",DAZN F1
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-
-
-
 
 ################################################
 >>>>>>>>>>>>>>>>>>>>>  SSC 🇸🇦 <<<<<<<<<<<<<<<<<<
 ################################################
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHrn4lthJnvmqQM8dLykBjWdyZRELvvZFubvMNW4qXfWa5hVRXcRfX9ihusGKxevzxDGlxUWQBOFIT_oU0Lf8_1sa97vNgLtcUT16VLb2ZLOm7e_VBmNW9tgrv1c-OMj8fl_ZTyGstUjS_Wg7YQfqxrTuSnHkb-LHrS7olBBucHANT7upP0CgXeUUhl5Y/s320/saudi_sports_company____cover.jpg",VENDOR SSC 🇸🇦
+#EXTINF:-1 group-logo="https://dlil-saudi.com/user_images/news/18-09-24-646466245.webp",VENDOR SSC 🇸🇦
 
 #EXTINF:-1 group-title="VENDOR SSC 🇸🇦" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/G37Y21X/ssc1.png",Sedang Perbaikan Server SSC 1 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3174,14 +3186,14 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 ################################################
->>>>>>>>>>>>>>>>>>>>> VENDOR TRANSVIXION <<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>> VENDOR TRANSVIXION <<<<<<<<<<<<<<<
 ################################################
 https://raw.githubusercontent.com/hud4156/mytv/refs/heads/main/playlist.m3u
 ========================================================================================
 TRANSVISION
 =========================================================================================
 
-#EXTINF:-1 group-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg",VENDOR TRANSVIXION
+#EXTINF:-1 group-logo="https://awsimages.detik.net.id/community/media/visual/2021/02/27/transvision-dok-istimewa-1.jpeg?w=600&q=90",VENDOR TRANSVIXION
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png" group-title="VENDOR TRANSVIXION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -4093,7 +4105,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 quuen2024/llgnew/raw/refs/heads/queen/live.m3u8
 sumber live queen
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ZZsw1veCmI5Vakc886guR7RT49wf5hPFljr1Q0_k4yCzlzQqVYDrAEVZV_lG0bOZ8CsubnsKfbeZor721nVLVLpbJ-ynCoAwCSCHuuBDpdUvn2zwvs3WoCrX1frZa2MErADT7vGJ_bn84OLBwZCLfte4rcFpdJBHNqkVE1Cj-a5wxKTG-SztPcNfrsI/s816/lOGO%20nflx%20iptv%2024_waifu2x_photo_noise2_scale.png",VOD NFLX IPTV24 LK21 TERBARU
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3DsIR5vE_koSGX2IFO_WGR_mfCCKOPVokF5ZaM3h0qtnSMBOdItOXozetYQHboqrD0ZrGS2ANfd_2tiZdMVq79EBPnKyYXXWDoidbQYJg801vKkGO6kIPbgEGcKuIlg2eVgvaJBrGy6heysk4wXwuWoywwJOQUeRlYx7BV0b_CimXXQEdKl6E1mFevGU/s320/logo%20group%20tv.png",VOD NFLX IPTV24 LK21 TERBARU
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VOD NFLX IPTV24 LK21 TERBARU" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dB6ojZkXfk6JFYaqZTTDUK8wj9O.jpg",Elyas (2024)
