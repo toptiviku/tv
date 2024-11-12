@@ -382,7 +382,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 group-title="ANAK-ANAK / KIDS" tvg-id="moonbugkids.us" tvg-logo="https://iptv.urfan.id/logo/moonbug.png",Moonbug Kids
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0f;) ExoPlayerLib/2.19.1
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ANAK-ANAK / KIDS" tvg-id="pbskids.us" tvg-logo="https://iptv.urfan.id/logo/pbskids.png",PBS Kids
@@ -4104,7 +4104,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 quuen2024/llgnew/raw/refs/heads/queen/live.m3u8
 sumber live queen
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ZZsw1veCmI5Vakc886guR7RT49wf5hPFljr1Q0_k4yCzlzQqVYDrAEVZV_lG0bOZ8CsubnsKfbeZor721nVLVLpbJ-ynCoAwCSCHuuBDpdUvn2zwvs3WoCrX1frZa2MErADT7vGJ_bn84OLBwZCLfte4rcFpdJBHNqkVE1Cj-a5wxKTG-SztPcNfrsI/s816/lOGO%20nflx%20iptv%2024_waifu2x_photo_noise2_scale.png",VOD NFLX IPTV24 LK21 TERBARU
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3DsIR5vE_koSGX2IFO_WGR_mfCCKOPVokF5ZaM3h0qtnSMBOdItOXozetYQHboqrD0ZrGS2ANfd_2tiZdMVq79EBPnKyYXXWDoidbQYJg801vKkGO6kIPbgEGcKuIlg2eVgvaJBrGy6heysk4wXwuWoywwJOQUeRlYx7BV0b_CimXXQEdKl6E1mFevGU/s320/logo%20group%20tv.png",VOD NFLX IPTV24 LK21 TERBARU
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="VOD NFLX IPTV24 LK21 TERBARU" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dB6ojZkXfk6JFYaqZTTDUK8wj9O.jpg",Elyas (2024)
