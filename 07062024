@@ -930,12 +930,12 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-id="SPOTV" group-title="INDONESIA TV (Server 1) 🇮🇩 "  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUxs3mH2pSxMXkXRsVKV5azHNlO5NgbzDoyIXxII7ywqKk6drZjzxzoSBtIJomCEK_WnkQ5xkbVAJsM_L9d5Jlv3HcjZHbsOoFMtYVm-yynd1je91cq5A_S5M89ze0Dw0FOU3wHviqexHpKXDb82EukAcML40ja3LZPYbH0apUDXgaYTFC4Hxfwly8xnA/s320/spotv-removebg-preview.png",SPOTV 
+#EXTINF:-1 tvg-id="SPOTV" group-title="INDONESIA TV (Server 1) 🇮🇩 "  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-kHZIBv98p9eVcmZpVgC5P5mlY6FZxFYqQ9Fq6F33SSZJtfaZUgl8OQ2EC1aHFjpHy15aS3us4xKfA3suQ2zIJ1gtDiz1WM20foBnnK6FVZP5SKCl74JOw4NHaLFxpAAbMZiX_Wqrs9zvaw0rXaXqHF54OIXc5U3hkY7k-x9dmrguqMoH_DS1e1iyJfk/s424/SPTV_waifu2x_photo_noise2_scale-removebg-preview.png",SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="SPOTV2" group-title="INDONESIA TV (Server 1) 🇮🇩 "  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6wEs1BMmpTBAiLPHKvA_UmfaKw4imLiVW9-EkVpd1OLgmP3ESdaOSFpHuRqdK3huW8tUSwFDxqSjIwGvhiqMgVTq8fdZkUZKW-f0LWyLnloUYliAow0CT_URpd_VzqjmBNPuhD-OLQgDp8mEt0rRxeNvxxjUQoZyY3r9su-AL_ROKbyPaK79_Rl9Khr4/s320/spotv_2-removebg-preview.png",SPOTV2 
+#EXTINF:-1 tvg-id="SPOTV2" group-title="INDONESIA TV (Server 1) 🇮🇩 "  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuBp6b5ivg-0XjCGhlHeFwwe8k59bTqEzMKbpEvIv5tHLx9_ARiudKOWf95QHEhxHhn8wz8TZTFSGjqAsJE71DvHMGzLDVNsScCJ0xjExdADNco5IwISQK35Jui_cVoz9mZFs6zZuJRmV5oDal21hyphenhyphenuH37-NGPWXRrrTMuORLktk-R6p_c1Zm01FU3A7I/s432/SPTV2_waifu2x_photo_noise2_scale-removebg-preview.png",SPOTV2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
