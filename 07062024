@@ -957,9 +957,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmN6aQBhB1i6VzxAQTRXiKVEtuJwXzt13syTOP3uh9GVPWWqkeC_qA0cBu6_WssVjOJzcUy8BNCsb5KHisB6uHLiHmTbPbWhkEf_bP2s8UF8FlfNcQ3r70Zo-tU9AYd1g48y-7OR-ek0WOySrqQs2yojJOFAJ-jjbQhbc-kNwAbWUlAZz8gA15x0-yrps/s320/Spp3-removebg-preview.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ",SPORTSTARS 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid.kokokputik.my.id/iptv/visikey.php?id=1002&token=dedi
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpXoLM6CLWtrEici_BHswinosOvch0VjvmLr-fXALIvW5oCSknlwlp7isf5YJOxgHBif1tEg1GweumqG5yhKzH5C-PM5QgpUEWS_qe9PqXtKh0znpIESjgEe4lbw0ctW5t6WIP9mnjoDDmNm0lL_TquNCLH-MAr9QvoOr8k27rB67OqlfR6kudFpDrvaI/s320/spp4-removebg-preview.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ",SPORTSTARS 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
