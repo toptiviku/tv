@@ -84,7 +84,7 @@ BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS
 ##################################################
 >>>>>>>>>>>>>    MOTO GP 🏁 🏁 🏁   <<<<<<<<<<<<<
 ##################################################
-#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/nOHUF46msRxqunShY27JfX50ASU=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1046806/original/066398700_1446840729-032765100_1446526697-motogp-logo.jpg",MOTO GP 🏁 🏁 🏁
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicBkunjcfsvg6al-sj2FMB9kDQFZ4DbmsOxFKMOuxfq1uTrp2Npo0-DLAEAYXU2BNqJlioY6neuS2s-WokGpq4j9SmBcT7HdaBNlD-EdrItKYU23qpQD9im5KIu0Hjy3u1CZ1SQh2vktSYHhvGMVcpS8TAgFJ1LMRQkcdK7_EUnQENcbBJp4yZjpFz0SE/s1321/066398700_1446840729-032765100_1446526697-motogp-logo_waifu2x_art_noise2_scale.png",MOTO GP 🏁 🏁 🏁
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="MOTO GP 🏁 🏁 🏁",SPOTV Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -108,21 +108,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mTMvv7k/motogp-logo-20150911-151044.jpg" group-title="MOTO GP 🏁 🏁 🏁",SPOTV 2  
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id="SPOTV" group-title="MOTO GP 🏁 🏁 🏁"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV 
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2" group-title="MOTO GP 🏁 🏁 🏁"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2 
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
 
 ################################################
 >>>>>>>>>>>>  KUALIFIKASI TIMNAS AFC   <<<<<<<<<<<
 ##################################################
-#EXTINF:-1 group-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/jadwal-Babak-3-Kualifikasi-Piala-Dunia-2026.jpg",KUALIFIKASI TIMNAS AFC
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBAIoqINLUbKJsuNlmkBi3G8oNq5Yd-yhU6N2bnUBX40kZofF7zVy0Zs7JqmfiW4VxDJ0nn7mCDgJKxO5GDaN8Ot0bM1qmWMZsI1d5zxVxe1nbf9ifWq9zcPAFFEnEqRvphU7qVrm6cpFn6Kn1K8Z3FwodJ-dPWIUQYUh3nKzFvH0myGmffTV-ZJrMuQo/s1145/jadwal-Babak-3-Kualifikasi-Piala-Dunia-2026_waifu2x_art_noise2_scale.png",KUALIFIKASI TIMNAS AFC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="KUALIFIKASI TIMNAS AFC",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1454,9 +1444,9 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/o
 
 
 ####################################################
->>>>>>>>>>>       VENDOR HOME KREDIT TV       <<<<<<<<<<<<<
+>>>>>>>>>>>    VENDOR HOME KREDIT TV     <<<<<<<<<<<<<
 ####################################################
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFbK1KVaqjMmmOluxKBVZUqmgyfHbFJgOuVN4_Sh6z1EvQbtOffVIahT455eIH9oOytwno3ejxzHAl8B4q07NOobky6cPEzo3mrxww9zDArYPqnE5Y_0dZPyl1QkhZ8Gp4UBmWioJ5FwpW/s1600/download%255B1%255D.png",VENDOR HOME KREDIT TV
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN3yxdAFkdnRGZNSnLBSpN-YM9Pn7zHTfMiSKZAKC4DPWj4L-oAleudmcoVWhnuffjWzVgpWVnL1abAtb929E80SMaFu1CgDZwdr3a6V8eq3c424ytmcMzL7vcZ2axCL6KGI_RX0jare3m5RS24Fki7t4KiojRX5GbKJGgrilcX1HSCIwmiWAfo3UhfE/s1072/Home_credit_logo_640px_waifu2x_art_noise2_scale.png",VENDOR HOME KREDIT TV
 
 #EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
