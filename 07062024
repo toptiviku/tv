@@ -78,6 +78,47 @@ https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3DsIR5vE_koSGX2IFO_WGR_mfCCKOPVokF5ZaM3h0qtnSMBOdItOXozetYQHboqrD0ZrGS2ANfd_2tiZdMVq79EBPnKyYXXWDoidbQYJg801vKkGO6kIPbgEGcKuIlg2eVgvaJBrGy6heysk4wXwuWoywwJOQUeRlYx7BV0b_CimXXQEdKl6E1mFevGU/s320/logo%20group%20tv.png" group-title="✅OFFICIAL NFLX IPTV",📲 WA 082362635960
 https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 
+BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS 
+BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS BATAS 
+
+##################################################
+>>>>>>>>>>>>>    MOTO GP 🏁 🏁 🏁   <<<<<<<<<<<<<
+##################################################
+#EXTINF:-1 group-logo="https://cdn1-production-images-kly.akamaized.net/nOHUF46msRxqunShY27JfX50ASU=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1046806/original/066398700_1446840729-032765100_1446526697-motogp-logo.jpg",MOTO GP 🏁 🏁 🏁
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="MOTO GP 🏁 🏁 🏁",SPOTV Vision
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FSPOTV2%20HD-FirstMedia-Chl-330.jpg&w=1920&q=100" group-title="MOTO GP 🏁 🏁 🏁",SPOTV 2 Vision
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mTMvv7k/motogp-logo-20150911-151044.jpg" group-title="MOTO GP 🏁 🏁 🏁",SPOTV 1
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mTMvv7k/motogp-logo-20150911-151044.jpg" group-title="MOTO GP 🏁 🏁 🏁",SPOTV 2  
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTINF:-1 tvg-id="SPOTV" group-title="MOTO GP 🏁 🏁 🏁"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV 
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+#EXTINF:-1 tvg-id="SPOTV2" group-title="MOTO GP 🏁 🏁 🏁"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2 
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+
 ################################################
 >>>>>>>>>>>>  KUALIFIKASI TIMNAS AFC   <<<<<<<<<<<
 ##################################################
@@ -973,56 +1014,6 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 https://wow.nasionaltv.com/ntvsgp/live/tracks-v1a1/mono.m3u8
 
 
-###############################################
->>>>>>>>>>>>>>>>  DAZN   <<<<<<<<<<<<<<<<<<<<<<
-###############################################
-https://raw.githubusercontent.com/quuen2024/llgnew/refs/heads/queen/llgtv
-==================================VENDOR DAZN.COM================================================
-
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkKi1Y5j9TGUhv-7kSEcye1jVigsK-G_pdQKrmFdr4D05i__Eq7zNDQ44X11lwuVKi_CTs-bTyXkdk4JM1h-GmXK5QjHWwdI8sKt7a3bG8spYnRRCbjJuQ9j1m7339Fsdt0m0tz_I4rM_9Fdh-3A3hUyo5nIP6hcPQjidDwWFKej3_O8afJL66UZYhTK4/s1563/DAZN-propose-une-remise-folle-sur-son-abonnement-pendant-quelques-jours-ne-ratez-pas-l-occasion-1935810.jpg",VENDOR DAZN.COM
-
-#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605032_image-header_pEs_1661946616000&quality=70&width=500", DAZN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="" tvg-logo="https://i.imgur.com/RHORZXz.png"", DAZN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
-
-#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="dazn4_spain" tvg-logo="https://i.imgur.com/0vvP4SE.png", DAZN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
-
-#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="dazn_laliga" tvg-logo="https://i.imgur.com/srx5bGb.png", DAZN LaLiga
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="laliga_hypermotion" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="laliga_hypermotion2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-
-#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="laliga_hypermotion3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
-
 ##################################################
 >>>>>>>>>>>>>>>>>>> MOVIES TV  <<<<<<<<<<<<<<
 ##################################################
@@ -1410,6 +1401,265 @@ https://webhdrunns.mizhls.ru/lb/premium99/index.m3u8|referer=https://lewblivehdp
 #EXTINF:-1 tvg-name="VENDOR BeIN Sports Mena Premium 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8aff9f98a00e5859162fd8e3f8e13ff3.jpg" group-title="OLAHRAGA / SPORTS",VENDOR BeIN Sports Mena Premium 3
 https://webhdrunns.mizhls.ru/lb/premium100/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+
+###############################################
+>>>>>>>>>>>>>>>>  DAZN   <<<<<<<<<<<<<<<<<<<<<<
+###############################################
+https://raw.githubusercontent.com/quuen2024/llgnew/refs/heads/queen/llgtv
+==================================VENDOR DAZN.COM================================================
+
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkKi1Y5j9TGUhv-7kSEcye1jVigsK-G_pdQKrmFdr4D05i__Eq7zNDQ44X11lwuVKi_CTs-bTyXkdk4JM1h-GmXK5QjHWwdI8sKt7a3bG8spYnRRCbjJuQ9j1m7339Fsdt0m0tz_I4rM_9Fdh-3A3hUyo5nIP6hcPQjidDwWFKej3_O8afJL66UZYhTK4/s1563/DAZN-propose-une-remise-folle-sur-son-abonnement-pendant-quelques-jours-ne-ratez-pas-l-occasion-1935810.jpg",VENDOR DAZN.COM
+
+#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605032_image-header_pEs_1661946616000&quality=70&width=500", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="" tvg-logo="https://i.imgur.com/RHORZXz.png"", DAZN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="dazn4_spain" tvg-logo="https://i.imgur.com/0vvP4SE.png", DAZN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="dazn_laliga" tvg-logo="https://i.imgur.com/srx5bGb.png", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="laliga_hypermotion" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="laliga_hypermotion2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="laliga_hypermotion3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+
+####################################################
+>>>>>>>>>>>       VENDOR HOME KREDIT TV       <<<<<<<<<<<<<
+####################################################
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFbK1KVaqjMmmOluxKBVZUqmgyfHbFJgOuVN4_Sh6z1EvQbtOffVIahT455eIH9oOytwno3ejxzHAl8B4q07NOobky6cPEzo3mrxww9zDArYPqnE5Y_0dZPyl1QkhZ8Gp4UBmWioJ5FwpW/s1600/download%255B1%255D.png",VENDOR HOME KREDIT TV
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
+https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
+https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1606971764-.png",ANIMAX INDI
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
+https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
+https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
+https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
+https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
+https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
+https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
+https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9
+https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
+https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
+https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
+https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",GALAXY PREMIUM
+https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",GALAXY
+https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE
+https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA
+https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
+https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
+https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
+https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
+https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
+https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
+https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
+https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
+https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
+https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
+https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
+https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",SHENZEN TV
+https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
+https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
+https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
+https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
+https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
+https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
+https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
+https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
+https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
+https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
+https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_net_ver1.png",NET
+https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614309096-.png",IKONSER
+https://cdn09jtedge.indihometv.com/joss/130/ikonser/chunklist_w455504243_b944100_sleng.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000997-.png",TECHSTORM
+https://cdn09jtedge.indihometv.com/joss/133/techstorm/chunklist_w1950363995_b1244100_sleng.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679154-.png",THRILL
+https://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill-avc1_1200000=4-mp4a_96000=2.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV"  tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1585823484-.jpg",AXN INDI
+https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1200000=4-mp4a_96000=2.m3u8
+
+#EXTINF:-1 group-title="VENDOR HOME KREDIT TV" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000859-.png", HORIZON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8?c
+
+#EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="VENDOR HOME KREDIT TV",Da Vinci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn09jtedge.indihometv.com/joss/134/davinci/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1695617140-.png" group-title="VENDOR HOME KREDIT TV", SERU CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/134/seru/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1655919958-.png" group-title="VENDOR HOME KREDIT TV", MUSIKINDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586673474-.png" group-title="VENDOR HOME KREDIT TV", NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/130/nhkworld/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1637570873-.png" group-title="VENDOR HOME KREDIT TV", LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049308-.png" group-title="VENDOR HOME KREDIT TV", MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1669024049-.png" group-title="VENDOR HOME KREDIT TV", MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8?c
 
 ################################################
 >>>>>>>>>>>>> VENDOR TRANSVIXION <<<<<<<<<<<<<<<
