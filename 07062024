@@ -1659,7 +1659,7 @@ https://raw.githubusercontent.com/hud4156/mytv/refs/heads/main/playlist.m3u
 TRANSVISION
 =========================================================================================
 
-#EXTINF:-1 group-logo="https://awsimages.detik.net.id/community/media/visual/2021/02/27/transvision-dok-istimewa-1.jpeg?w=600&q=90",VENDOR TRANSVIXION
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBbqb8eLqaKmLN8qGGwJxMkbF8-iJ-eXInLl6JzLxXM7kEP6icp_mfgaL6cNOyNYLUY9kNDYCmc5FiMezNaS2cFrXmL1k-23KiUQGWK4mvEfTUXnHnI1MeOhEDiMrJv1_TOJmmIWLAQtBqbltBW9qvncrC98CY6yHdy59ZORMBDhiiAI2Vw5MpjD_bVk/s704/transvision-dok-istimewa-1_waifu2x_art_noise2_scale.png",VENDOR TRANSVIXION
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png" group-title="VENDOR TRANSVIXION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
