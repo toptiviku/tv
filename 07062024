@@ -174,7 +174,7 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTINF:-1 tvg-id="TRANSTV - [Channel 87].id" tvg-name="TRANSTV" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png" group-title="INDONESIA TV (Server 1) 🇮🇩 ", TRANS TV 🇮🇩 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+#https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png" tvg-id="simpleTVFakeEpgId",iNews HD
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -184,7 +184,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png" tvg-id="simpleTVFakeEpgId",INEWS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="SPOTV" group-title="INDONESIA TV (Server 1) 🇮🇩 "  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-kHZIBv98p9eVcmZpVgC5P5mlY6FZxFYqQ9Fq6F33SSZJtfaZUgl8OQ2EC1aHFjpHy15aS3us4xKfA3suQ2zIJ1gtDiz1WM20foBnnK6FVZP5SKCl74JOw4NHaLFxpAAbMZiX_Wqrs9zvaw0rXaXqHF54OIXc5U3hkY7k-x9dmrguqMoH_DS1e1iyJfk/s424/SPTV_waifu2x_photo_noise2_scale-removebg-preview.png",SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -197,7 +197,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV R+
-https://1s1.rctiplus.id/gtv2023.m3u8
+#https://1s1.rctiplus.id/gtv2023.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV R+
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
