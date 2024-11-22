@@ -114,10 +114,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV R+
-#https://1s1.rctiplus.id/gtv2023.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV R+
-#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDMXaGzdDI6NwzeRzhip5OnZsuJybpgjv75ES3kLISEY5dBXRIMNGKW3q-hOXhb6M84-g_neplBTrP1gk_NbpPosE_YfSeCO5aKksu42eDsTYmPbJreHmWNAj3oqAn8hPXczvsTgZovNRjN4wnwnZy2hOg8bblWnOwDiSor9EbcH059V8-rQUE4zNuMCw/s502/SP1-removebg-preview.png" group-title="INDONESIA TV (Server 1) 🇮🇩 ",SPORTSTARS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
