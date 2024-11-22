@@ -436,244 +436,161 @@ http://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 ###########################################################
 >>>>>>>>>>>>>>>>  INDONESIA TV (Server 2) 🇮🇩  <<<<<<<<<<<<<
 ###########################################################
-https://raw.githubusercontent.com/hud4156/mytv/refs/heads/main/playlist.m3u
+https://raw.githubusercontent.com/hud4156/mytv/main/indovision.m3u
 hud4156/mytv/main/indovision.m3u
 sumber indovision hud4156
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkG69XDneGQh6rWBbsgAniTFk9eNg_v-bw5joT9lFf-WbiEO7vca2AnxVJZlyQHt24S1-zp94zc8oBDFwdqpGEYU_V_VlXHY7x08IbixL8hSR6Ib8Fl3BjeJcFfwZ4v__dPTv-2wJIFjsZ6YSFrxKFK3fCj9cG1bhTw_tIfqM6XKVJv6pb6LorvO0XxbI/s1344/mpbmrw4x8hhwrg2kcjut_waifu2x_photo_noise3_scale.png",INDONESIA TV (Server 2) 🇮🇩 
 
-#EXTINF:-1  group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-id=" " tvg-logo=" ",Sportstars 1
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", TRANS TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1  group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-id=" " tvg-logo=" ",Sportstars 2
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", TRANS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-id=" " tvg-logo=" ",Soccer Channel
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-id=" " tvg-logo=" ",SPOTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-id=" " tvg-logo=" ",SPOTV alt
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-id=" " tvg-logo=" ",SPOTV 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-id=" " tvg-logo=" ",PSJ TV
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 "  tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 1
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 2
-https://d2yxzznf83vq8n.cloudfront.net/index.m3u8
-
-// #EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 3
-// https://1s1.rctiplus.id/rcti2023.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV 1
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV 2
-https://d7kskkgv8ovkq.cloudfront.net/index.m3u8
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV 1
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-
-// #EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV 2
-// https://1s1.rctiplus.id/gtv2023.m3u8
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ",GTV (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_inews_small.png",INEWS 1
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-
-// #EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_inews_small.png",INEWS 2
-// https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-
-// #EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_inews_small.png",INEWS 3
-// https://1s1.rctiplus.id/inews2023.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV
-https://cdn09jtedge.indihometv.com/joss/133/transtv/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV 2
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR 1
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", INDOSIAR
+http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+http://xtv.ooo:8080/321166661/52816191/350972
+http://extraott.com/live/7921751389/6097373662/45098.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", INDOSIAR
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+https://servicebuss.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV 1
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", SCTV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV 2
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", SCTV
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/SCTV-2/sa_dash_vmx/SCTV-2.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",NET 1
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/SXV88k2/rcti.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", RCTI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",NET 2
-https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/Nm5sJZr/mnc.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", MNCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Antv 1
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/FxSXwG7/gtv.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", GTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Antv 2
-https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_net_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", NET TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_rtv_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", RTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
+https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",RTV 2
-https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/x8LdPCY/Antv.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",MOJI
-https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", MOJI
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
+https://playlist-coffee.my.id/oxy/moji.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",TVONE
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://i.ibb.co.com/0tTD3wg/vtv-logo-tv.jpg", VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Metro tv
-https://cdn09jtedge.indihometv.com/joss/133/metrotv/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", TVRI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
+https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",KOMPAS TV
-https://cdn09jtedge.indihometv.com/joss/133/kompastv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fpct7N1/NTV.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",TVRI
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KNnYpzj/Picsart-23-07-19-10-49-59-499.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", GARUDA TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",TVRI SPORT
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4CzYHM/BALI-TV.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", BALI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
+https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n63scSD/JAK-TV.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", JAK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
+https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",JTV 1
-https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_jtv_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", JTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
+https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",CNN
-https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JktG4cJ/DAAI-TV.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
+https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",CNBC
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VYKdrLt/Magna.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Nickjr
-https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ysDkqnx/Picsart-23-06-13-15-48-09-396.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", BANDUNG TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Pandatv
-https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
+https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Cartoon Network
-https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/FgcSqYZ/Smart-Select-20230610-162016-Picsart.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", THE INDONESIA CHANNEL
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
+http://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Davinci
-https://cdn09jtedge.indihometv.com/joss/134/davinci/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Y26Xw3f/ficom-logo-tv.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", FICOM CHANNEL
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Dreamworks
-https://cdn09jtedge.indihometv.com/joss/133/dreamworks/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/m5H2khp/puja-logo-tv.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", PUJA TV
+https://v6.siar.us/pujatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Horee
-https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j32TF2j/RRI-NET.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", RRI NET
+https://public-streaming.rri.co.id/memfs/b3169f10-7846-496c-a186-698ea5ddd310.m3u8
+https://rrinet.rri.co.id/hls/live.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Mentaritv
-https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
+#EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://i.ibb.co.com/mCcydS6/radar-tasik-logo-tv.jpg", RADAR TASIKMALAYA
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Dunialain
-https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/d5n1G6H/ATV-indonesia.jpg" group-title="INDONESIA TV (Server 2) 🇮🇩 ", ATV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29899.ts
+https://nonton.site:8443/live/ekos/748344x/29899.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Flik
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Galaxy
-https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Galaxy
-https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Hits
-https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Hitsmovie
-https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Hitsnow
-https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Imc
-https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Lifetime
-https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Tvn
-https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Tvnmovies
-https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",MyCinema
-https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",MyCinema
-https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Bioskop Indonesia
-https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Citra Drama
-https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Citra Dangdut
-https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Celestial Movie
-https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Chinese Drama
-https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Crime Investigation
-https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Curiosity
-https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",History
-https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Afc
-https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Animal Planet
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Discovery
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Discovery Asia
-https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",Animax
-https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="INDONESIA TV (Server 2) 🇮🇩 ",AlQuran
-https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8
 
 
 ###########################################################
