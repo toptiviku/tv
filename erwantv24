@@ -120,10 +120,11 @@ sumber eepunx hbonewqing
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkG69XDneGQh6rWBbsgAniTFk9eNg_v-bw5joT9lFf-WbiEO7vca2AnxVJZlyQHt24S1-zp94zc8oBDFwdqpGEYU_V_VlXHY7x08IbixL8hSR6Ib8Fl3BjeJcFfwZ4v__dPTv-2wJIFjsZ6YSFrxKFK3fCj9cG1bhTw_tIfqM6XKVJv6pb6LorvO0XxbI/s1344/mpbmrw4x8hhwrg2kcjut_waifu2x_photo_noise3_scale.png",INDONESIA TV (Server 1) 🇮🇩 
 
-#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV R+
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV 2 (R+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMGPjpm4_tvNAvXJ4hElp44yUyghwribvUtRKyH0tQrPE3aX1Etx_3hgZJKzYoe-ncx9IYANnj6szemyd7P2t7mtPF8406RhmCrHxsiCVu3CyVQhjFBkVB36AqfUn4e9poI7y6kTwLEF9Mq7agxlT3iQ3k8SQwIil6QrVJl5ZjQnBMEBv4IsNwpth-XLI/s500/cnn-indonesia-logo-removebg-preview-removebg-preview.png" tvg-id="simpleTVFakeEpgId",CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
