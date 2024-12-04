@@ -199,6 +199,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
+#EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgldmYkNkyNRhi6MCeByDmnjW6GfVZkuMPBVm5_bQlbfpr2U2CbUnagW8lQ7sIBGEc_UYdyoEYHZdPqXTrwykPbS3Lg_PE2VUE1xSpK7Efg-bF60Q406a3QJnaTrXTqBtNEWZO94p7IZK0Vy97LcXaoImrYuTqdh689s-dnK-0_GYvzX4n_kQEPlpXND9k/s502/asdasadf-removebg-preview.png", OK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-live-cdn.mncnow.id/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 ================
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -409,8 +414,15 @@ http://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://raw.githubusercontent.com/hud4156/mytv/main/indovision.m3u
 hud4156/mytv/main/indovision.m3u
 sumber indovision hud4156
+https://raw.githubusercontent.com/boimalik/indihome/refs/heads/main/Vision%2B
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkG69XDneGQh6rWBbsgAniTFk9eNg_v-bw5joT9lFf-WbiEO7vca2AnxVJZlyQHt24S1-zp94zc8oBDFwdqpGEYU_V_VlXHY7x08IbixL8hSR6Ib8Fl3BjeJcFfwZ4v__dPTv-2wJIFjsZ6YSFrxKFK3fCj9cG1bhTw_tIfqM6XKVJv6pb6LorvO0XxbI/s1344/mpbmrw4x8hhwrg2kcjut_waifu2x_photo_noise3_scale.png",INDONESIA TV (Server 2) 🇮🇩 
+
+#EXTINF:-1 group-title="INDONESIA TV (Server 2) 🇮🇩 " tvg-logo="https://i.ibb.co.com/s14DKPK/mnc-ok-tv-logo.jpg", OK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-live-cdn.mncnow.id/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIA TV (Server 2) 🇮🇩 ", TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1318,7 +1330,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="OLAHRAGA / SPORTS" tvg-id="001" tvg-name="016-LABURATV", SPORTSTAR 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
