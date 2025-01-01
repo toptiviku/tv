@@ -63,14 +63,8 @@ COPA AMERICA
 
 ################################################################################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="VOD MOVIES 2024" tvg-logo="https://tv8.lk21official.my/wp-content/uploads/2021/06/film-infinite-2021-lk21.jpg",INFINITE (2021)
-https://stream.hownetwork.xyz/xxx/infinite-2021-bluray/3/480.m3u8
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="VOD MOVIES 2024" tvg-logo="https://tv8.lk21official.my/wp-content/uploads/2021/06/film-infinite-2021-lk21.jpg", R.I.P.D. 2: Rise of the Damned (2022)
-https://stream.hownetwork.xyz/xxx/r-i-p-d-2-rise-of-the-damned-2022-bluray/3/480.m3u8
 
 //========================================================================
 //menampilkan playlist >>> VOD MOVIES 2024
@@ -4406,6 +4400,12 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012f6fd940521074e
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBO GO ASIA 2022
 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="HBO GO ASIA 2022" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-r-i-p-d-2-rise-of-the-damned-2022-lk21-d21.jpg.webp", R.I.P.D. 2: Rise of the Damned (2022)
+https://stream.hownetwork.xyz/xxx/r-i-p-d-2-rise-of-the-damned-2022-bluray/3/480.m3u8
+
 #EXTINF:-1 group-title="HBO GO ASIA 2022" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039482X0-portrait.jpg",Lizzo: Live In Concert 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5118,6 +5118,10 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b
 ===================================================================
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Pwa0RswsS6DySXyAeHCYYC2wiBLvObGtJqY20kz8tQs7JeNFxciwA8Q068d77X0FIlc&usqp=CAU",HBO GO ASIA 2021
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="HBO GO ASIA 2021" tvg-logo="https://tv8.lk21official.my/wp-content/uploads/2021/06/film-infinite-2021-lk21.jpg",INFINITE (2021)
+https://stream.hownetwork.xyz/xxx/infinite-2021-bluray/3/480.m3u8
 
 #EXTINF:-1 group-title="HBO GO ASIA 2021" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037632X0-portrait.jpg",The Super Bob Einstein Movie 2021
 #KODIPROP:inputstreamaddon=inputstream.adaptive
