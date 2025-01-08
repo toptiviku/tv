@@ -158,11 +158,10 @@ sumber eepunx hbonewqing
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV 2 (R+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 group-title="INDONESIA TV (Server 1) 🇮🇩 " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMGPjpm4_tvNAvXJ4hElp44yUyghwribvUtRKyH0tQrPE3aX1Etx_3hgZJKzYoe-ncx9IYANnj6szemyd7P2t7mtPF8406RhmCrHxsiCVu3CyVQhjFBkVB36AqfUn4e9poI7y6kTwLEF9Mq7agxlT3iQ3k8SQwIil6QrVJl5ZjQnBMEBv4IsNwpth-XLI/s500/cnn-indonesia-logo-removebg-preview-removebg-preview.png" tvg-id="simpleTVFakeEpgId",CNN Indonesia
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
