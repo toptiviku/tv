@@ -1542,6 +1542,12 @@ https://raw.githubusercontent.com/quuen2024/llgnew/refs/heads/queen/llgtv
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkKi1Y5j9TGUhv-7kSEcye1jVigsK-G_pdQKrmFdr4D05i__Eq7zNDQ44X11lwuVKi_CTs-bTyXkdk4JM1h-GmXK5QjHWwdI8sKt7a3bG8spYnRRCbjJuQ9j1m7339Fsdt0m0tz_I4rM_9Fdh-3A3hUyo5nIP6hcPQjidDwWFKej3_O8afJL66UZYhTK4/s1563/DAZN-propose-une-remise-folle-sur-son-abonnement-pendant-quelques-jours-ne-ratez-pas-l-occasion-1935810.jpg",VENDOR DAZN.COM
 
+#EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="VENDOR DAZN.COM",DAZN 1 Bar DE
+https://webhdrunns.mizhls.ru/lb/premium426/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="DAZN 2 Bar DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="VENDOR DAZN.COM",DAZN 2 Bar DE
+https://webhdrunns.mizhls.ru/lb/premium427/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 #EXTINF:-1 group-title="VENDOR DAZN.COM" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
