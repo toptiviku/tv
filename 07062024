@@ -575,3 +575,154 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTINF:-1 tvg-id="__" group-title="SIARAN TV BERBAYAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png",CCM
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png",Celestial Movies Indonesia
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/611/611-LOGO-m.png",Cinema World
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+https://d1abp075u76pbq.cloudfront.net/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",Cineedge
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Uniques
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png",Galaxy
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png",Galaxy Premium
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-m.png",HITS Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
+https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png",IMC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/620/620-LOGO-m.png",My Cinema
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/621/621-LOGO-m.png",My Cinema Asia
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/619/619-LOGO-m.png",My Family
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png",Rock Action
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png",Thrill
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png",tvN Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"45c004003b09719751adb885d28d491f":"fe82bc3ffe00477c833812fae74caed7"}
+https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-m.png",Zee Bioskop
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beIN Sports 1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",beIN Sports 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",beIN Sports 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png",beIN Sports 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png",beIN Sports 5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png",Fight Sports
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
+https://d1abp075u76pbq.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 group-title="SIARAN TV BERBAYAR" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
